@@ -4,7 +4,7 @@
   <img src="assets/logo.png" alt="awesome-ChatGPT-repositories" width="640">
 </p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,871 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -54,9 +54,9 @@ Run these two commands inside Claude Code:
 
 **Chatbots**
 
-* [ai](https://github.com/tanstack/ai) ⭐ 3,039 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-28 - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
-* [Proma](https://github.com/proma-ai/proma) ⭐ 2,116 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-28 - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
-* [rakazo](https://github.com/elie222/rakazo) ⭐ 1,451 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-28 - Open-source Grok Bot alternative. Choose your own model and sandbox.
+* [ai](https://github.com/tanstack/ai) ⭐ 3,040 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-28 - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
+* [Proma](https://github.com/proma-ai/proma) ⭐ 2,119 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-29 - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
+* [rakazo](https://github.com/elie222/rakazo) ⭐ 1,455 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-28 - Open-source Grok Bot alternative. Choose your own model and sandbox.
 
 **CLIs**
 
@@ -64,10 +64,10 @@ Run these two commands inside Claude Code:
 
 **NLP**
 
-* [Switchyard](https://github.com/nvidia-nemo/switchyard) ⭐ 2,551 | 🐛 56 | 🌐 Python | 📅 2026-08-28 - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+* [Switchyard](https://github.com/nvidia-nemo/switchyard) ⭐ 2,553 | 🐛 56 | 🌐 Python | 📅 2026-08-28 - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
 * [any-llm](https://github.com/mozilla-ai/any-llm) ⭐ 2,172 | 🐛 55 | 🌐 Python | 📅 2026-08-26 - Communicate with an LLM provider using a single interface
 * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) ⭐ 1,391 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-28 - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: <https://discord.com/invite/8wGSsvmg4V>
-* [loushang](https://github.com/zhnt/loushang) ⭐ 1,271 | 🐛 39 | 🌐 Python | 📅 2026-08-27 - AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.
+* [loushang](https://github.com/zhnt/loushang) ⭐ 1,272 | 🐛 39 | 🌐 Python | 📅 2026-08-27 - AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.
 
 **Openai**
 
@@ -96,21 +96,21 @@ Run these two commands inside Claude Code:
 
 ## Awesome-lists
 
-* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,124 | 🐛 69 | 🌐 HTML | 📅 2026-08-28 - This repo includes ChatGPT prompt curation to use ChatGPT better.
-* [prompts.chat](https://github.com/f/prompts.chat) ⭐ 168,124 | 🐛 69 | 🌐 HTML | 📅 2026-08-28 - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-* [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) ⭐ 135,002 | 🐛 21 | 🌐 Python | 📅 2026-08-22 - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
-* [awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh) ⭐ 61,878 | 🐛 45 | 📅 2026-04-28 - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,128 | 🐛 69 | 🌐 HTML | 📅 2026-08-29 - This repo includes ChatGPT prompt curation to use ChatGPT better.
+* [prompts.chat](https://github.com/f/prompts.chat) ⭐ 168,128 | 🐛 69 | 🌐 HTML | 📅 2026-08-29 - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+* [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) ⭐ 135,023 | 🐛 21 | 🌐 Python | 📅 2026-08-22 - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
+* [awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh) ⭐ 61,879 | 🐛 45 | 📅 2026-04-28 - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 29,732 | 🐛 960 | 📅 2026-08-21 - A list of AI autonomous agents
 * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,733 | 🐛 55 | 📅 2026-08-27 - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) ⭐ 23,733 | 🐛 55 | 📅 2026-08-27 - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) ⭐ 21,230 | 🐛 120 | 🌐 Python | 📅 2025-06-23 - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 * [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) ⭐ 16,995 | 🐛 4 | 🌐 Python | 📅 2026-07-18 - Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.
-* [Memori](https://github.com/memorilabs/memori) ⭐ 16,261 | 🐛 33 | 🌐 Python | 📅 2026-08-21 - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+* [Memori](https://github.com/memorilabs/memori) ⭐ 16,262 | 🐛 33 | 🌐 Python | 📅 2026-08-21 - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 * [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) ⭐ 11,668 | 🐛 2 | 🌐 Python | 📅 2026-08-25 - ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
 * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) ⭐ 11,668 | 🐛 2 | 🌐 Python | 📅 2026-08-25 - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 * [hive](https://github.com/adenhq/hive) ⭐ 10,987 | 🐛 1,344 | 🌐 Python | 📅 2026-08-21 - Outcome driven agent development framework that evolves
 * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) ⭐ 9,701 | 🐛 222 | 📅 2026-03-18 - List of free GPTs that doesn't require plus subscription
-* [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) ⭐ 9,566 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28 - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.
+* [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) ⭐ 9,570 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28 - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.
 * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) ⭐ 8,880 | 🐛 33 | 📅 2026-08-28 - 🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
 * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) ⭐ 8,880 | 🐛 33 | 📅 2026-08-28 - 🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) ⭐ 8,781 | 🐛 38 | 📅 2026-08-27 - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
@@ -121,7 +121,7 @@ Run these two commands inside Claude Code:
 * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) ⭐ 6,585 | 🐛 27 | 📅 2024-07-21 - A curated list of GPT agents for cybersecurity
 * [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) ⭐ 6,408 | 🐛 41 | 🌐 Python | 📅 2026-03-23 - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,390 | 🐛 6 | 📅 2026-02-15 - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-* [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) ⭐ 6,297 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-28 - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
+* [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) ⭐ 6,298 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-28 - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) ⭐ 6,183 | 🐛 27 | 🌐 TypeScript | 📅 2026-02-20 - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.
 * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) ⭐ 6,161 | 🐛 43 | 🌐 Python | 📅 2026-08-27 - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) ⭐ 6,044 | 🐛 22 | 🌐 Python | 📅 2025-05-16 - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
@@ -130,12 +130,12 @@ Run these two commands inside Claude Code:
 * [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) ⭐ 4,787 | 🐛 9 | 📅 2023-05-03 - A list of totally open alternatives to ChatGPT
 * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) ⭐ 4,534 | 🐛 10 | 📅 2024-03-31 - Curated tutorials and resources for Large Language Models, AI Painting, and more.
 * [Awesome-ChatGPT](https://github.com/dalinvip/awesome-chatgpt) ⭐ 4,189 | 🐛 5 | 📅 2025-06-04 - ChatGPT资料汇总学习，持续更新......
-* [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) ⭐ 3,677 | 🐛 26 | 📅 2026-04-20 - Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others.
-* [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) ⭐ 3,677 | 🐛 26 | 📅 2026-04-20 - Collection of papers and resources on Reasoning in Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and Multimodality.
+* [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) ⭐ 3,678 | 🐛 26 | 📅 2026-04-20 - Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others.
+* [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) ⭐ 3,678 | 🐛 26 | 📅 2026-04-20 - Collection of papers and resources on Reasoning in Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and Multimodality.
 * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) ⭐ 3,529 | 🐛 287 | 📅 2025-12-18 - A curated list of Generative AI tools, works, models, and references
 * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) ⭐ 3,491 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-25 - 📖  A curated list of Awesome Userscripts.
 * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) ⭐ 3,407 | 🐛 56 | 📅 2024-11-03 - Curated list of awesome GPTs 👍.
-* [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) ⭐ 3,081 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-21 - Custom GPT Store - A collection of major GPTS available in public
+* [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) ⭐ 3,082 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-21 - Custom GPT Store - A collection of major GPTS available in public
 * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) ⭐ 2,614 | 🐛 6 | 📅 2025-05-02 - Awesome papers about unifying LLMs and KGs
 * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) ⭐ 2,468 | 🐛 12 | 🌐 Python | 📅 2024-01-17 - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 * [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) ⭐ 2,396 | 🐛 45 | 📅 2026-07-15 - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
@@ -176,7 +176,7 @@ Run these two commands inside Claude Code:
 * [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) ⭐ 672 | 🐛 24 | 📅 2026-07-24 - A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 * [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) ⭐ 658 | 🐛 48 | 📅 2025-11-24 - Awesome-LLM-Eval: a curated list of tools, demos, papers, docs for Evaluation on Large Language Models like ChatGPT, LLaMA, GLM
 * [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) ⭐ 578 | 🐛 3 | 📅 2023-09-12 - Selected ChatGPT demos, tools, articles, and more ✨
-* [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) ⭐ 572 | 🐛 232 | 📅 2026-06-07 - 🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated September 2025
+* [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) ⭐ 572 | 🐛 234 | 📅 2026-06-07 - 🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated September 2025
 * [awesome-python](https://github.com/dylanhogg/awesome-python) ⭐ 467 | 🐛 12 | 📅 2026-07-01 - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 * [awesome-ai](https://github.com/520hacker/awesome-ai) ⭐ 410 | 🐛 1 | 📅 2024-07-19 - 对开源AI转发套壳应用生态进行研究，收集开源AI转发套壳应用，并进行对比。 ChatGPT,OPENAI.AZURE,BAIDU,XUNFEI
 * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) ⭐ 410 | 🐛 1 | 🌐 Python | 📅 2026-08-18 - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.
@@ -199,37 +199,37 @@ Run these two commands inside Claude Code:
 ## Prompts
 
 * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 118,721 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-08-27 - 12 Lessons, Get Started Building with Generative AI  🔗 <https://microsoft.github.io/generative-ai-for-beginners/>
-* [Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide) ⭐ 77,877 | 🐛 278 | 🌐 MDX | 📅 2026-03-11 - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-* [headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 67,932 | 🐛 573 | 🌐 Python | 📅 2026-08-28 - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+* [Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide) ⭐ 77,878 | 🐛 278 | 🌐 MDX | 📅 2026-03-11 - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+* [headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 67,939 | 🐛 571 | 🌐 Python | 📅 2026-08-29 - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 * [system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) ⭐ 63,766 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-29 - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) ⭐ 47,197 | 🐛 124 | 📅 2026-08-15 - SYSTEM PROMPT TRANSPARENCY FOR ALL
-* [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) ⭐ 42,575 | 🐛 734 | 🌐 TypeScript | 📅 2026-08-28 - Clone of ChatGPT, uses official model & Bing, reverse-engineered UI, with AI model switching, message search, and prompt templates (WIP)
+* [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) ⭐ 42,577 | 🐛 734 | 🌐 TypeScript | 📅 2026-08-28 - Clone of ChatGPT, uses official model & Bing, reverse-engineered UI, with AI model switching, message search, and prompt templates (WIP)
 * [chatbox](https://github.com/bin-huang/chatbox) ⭐ 41,600 | 🐛 1,253 | 🌐 TypeScript | 📅 2026-08-14 - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.  开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
 * [bark](https://github.com/suno-ai/bark) ⭐ 39,255 | 🐛 268 | 🌐 Jupyter Notebook | 📅 2024-08-19 - 🔊 Text-Prompted Generative Audio Model
 * [TaskMatrix](https://github.com/microsoft/taskmatrix) ⭐ 34,000 | 🐛 261 | 🌐 Python | 📅 2024-01-06 - @jksyaw @LangChainAI @FlowiseAI @bubble If the prompts are descriptive and distinguishable from each other, my understanding is the agent can still work fine for a large number of tools. For a sample use of a list of tools check out Microsoft's visualChatGPT repo  not sure with 1 million…
-* [langfuse](https://github.com/langfuse/langfuse) ⭐ 33,870 | 🐛 855 | 🌐 TypeScript | 📅 2026-08-28 - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+* [langfuse](https://github.com/langfuse/langfuse) ⭐ 33,872 | 🐛 860 | 🌐 TypeScript | 📅 2026-08-29 - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 * [GPTs](https://github.com/linexjlin/gpts) ⭐ 32,030 | 🐛 13 | 📅 2024-09-27 - leaked prompts of GPTs
-* [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) ⭐ 29,595 | 🐛 16 | 📅 2025-09-30 - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 24,650 | 🐛 541 | 🌐 TypeScript | 📅 2026-08-29 - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. LLM evals for OpenAI/Azure GPT, Anthropic Claude, VertexAI Gemini, Ollama, Local & private models like Mistral/Mixtral/Llama with CI/CD
-* [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) ⭐ 24,597 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-06-12 - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：<https://www.bilibili.com/video/BV1Bo4y1A7FU>
-* [FinGPT](https://github.com/ai4finance-foundation/fingpt) ⭐ 21,169 | 🐛 86 | 🌐 Jupyter Notebook | 📅 2026-08-02 - Open-source for open finance!  Revolutionize 🔥
+* [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) ⭐ 29,594 | 🐛 16 | 📅 2025-09-30 - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 24,651 | 🐛 540 | 🌐 TypeScript | 📅 2026-08-29 - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. LLM evals for OpenAI/Azure GPT, Anthropic Claude, VertexAI Gemini, Ollama, Local & private models like Mistral/Mixtral/Llama with CI/CD
+* [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) ⭐ 24,598 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-06-12 - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：<https://www.bilibili.com/video/BV1Bo4y1A7FU>
+* [FinGPT](https://github.com/ai4finance-foundation/fingpt) ⭐ 21,170 | 🐛 86 | 🌐 Jupyter Notebook | 📅 2026-08-02 - Open-source for open finance!  Revolutionize 🔥
 * [docsgpt](https://github.com/arc53/docsgpt) ⭐ 18,231 | 🐛 105 | 🌐 Python | 📅 2026-08-28 - creating small models with fine tuning:- :- :-  engineering:-   chain of hindsight promptint-
-* [botpress](https://github.com/botpress/botpress) ⭐ 14,882 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-28 - The open-source hub to build & deploy GPT/LLM Agents ⚡️
+* [botpress](https://github.com/botpress/botpress) ⭐ 14,883 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-28 - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 * [gateway](https://github.com/portkey-ai/gateway) ⭐ 12,848 | 🐛 249 | 🌐 TypeScript | 📅 2026-05-25 - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-* [LangGPT](https://github.com/embraceagi/langgpt) ⭐ 12,474 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-16 - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
-* [LangGPT](https://github.com/langgptai/langgpt) ⭐ 12,474 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-16 - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
-* [ChatGPT\_DAN](https://github.com/0xk1h0/chatgpt_dan) ⭐ 12,347 | 🐛 90 | 📅 2026-03-02 - ChatGPT DAN, Jailbreaks prompt
+* [LangGPT](https://github.com/embraceagi/langgpt) ⭐ 12,473 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-16 - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+* [LangGPT](https://github.com/langgptai/langgpt) ⭐ 12,473 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-16 - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+* [ChatGPT\_DAN](https://github.com/0xk1h0/chatgpt_dan) ⭐ 12,348 | 🐛 90 | 📅 2026-03-02 - ChatGPT DAN, Jailbreaks prompt
 * [promptflow](https://github.com/microsoft/promptflow) ⭐ 11,230 | 🐛 69 | 🌐 Python | 📅 2026-08-26 - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-* [phoenix](https://github.com/arize-ai/phoenix) ⭐ 11,227 | 🐛 916 | 🌐 Python | 📅 2026-08-29 - AI Observability & Evaluation
+* [phoenix](https://github.com/arize-ai/phoenix) ⭐ 11,228 | 🐛 916 | 🌐 Python | 📅 2026-08-29 - AI Observability & Evaluation
 * [chatgpt\_system\_prompt](https://github.com/louisshark/chatgpt_system_prompt) ⭐ 10,745 | 🐛 1 | 🌐 HTML | 📅 2026-08-14 - store all agent's system prompt
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) ⭐ 9,676 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2025-10-16 - Introducing `gpt-prompt-engineer` ✍️An agent that creates optimal GPT prompts.Just describe the task, and a chain of AI systems will:- Generate many possible prompts- Test them in a ranked tournament- Return the best promptAnd it's open-source:
 * [prompt-engineering](https://github.com/brexhq/prompt-engineering) ⭐ 9,585 | 🐛 5 | 📅 2023-10-23 - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 * [ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut) ⭐ 8,727 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-29 - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
-* [FinRobot](https://github.com/ai4finance-foundation/finrobot) ⭐ 7,886 | 🐛 74 | 🌐 Jupyter Notebook | 📅 2026-08-23 - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
+* [FinRobot](https://github.com/ai4finance-foundation/finrobot) ⭐ 7,885 | 🐛 74 | 🌐 Jupyter Notebook | 📅 2026-08-23 - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
 * [open-codesign](https://github.com/opencoworkai/open-codesign) ⭐ 7,860 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-04 - PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
 * [Prompt\_Engineering](https://github.com/nirdiamant/prompt_engineering) ⭐ 7,821 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-28 - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 * [code2prompt](https://github.com/mufeedvh/code2prompt) ⭐ 7,618 | 🐛 21 | 🌐 Rust | 📅 2026-06-29 - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-* [swarms](https://github.com/kyegomez/swarms) ⭐ 7,102 | 🐛 162 | 🌐 Python | 📅 2026-08-28 - Build, Deploy, and Scale Reliable Swarms of Autonomous Agents for Workflow Automation. Join our Community: <https://discord.gg/DbjBMJTSWD>
+* [swarms](https://github.com/kyegomez/swarms) ⭐ 7,102 | 🐛 165 | 🌐 Python | 📅 2026-08-28 - Build, Deploy, and Scale Reliable Swarms of Autonomous Agents for Workflow Automation. Join our Community: <https://discord.gg/DbjBMJTSWD>
 * [archgw](https://github.com/katanemo/archgw) ⭐ 7,020 | 🐛 138 | 🌐 Rust | 📅 2026-08-19 - Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.
 * [plano](https://github.com/katanemo/plano) ⭐ 7,020 | 🐛 138 | 🌐 Rust | 📅 2026-08-19 - Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
 * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) ⭐ 6,276 | 🐛 0 | 📅 2026-08-25 - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
@@ -238,7 +238,7 @@ Run these two commands inside Claude Code:
 * [ai-notes](https://github.com/swyxio/ai-notes) ⭐ 6,247 | 🐛 8 | 🌐 HTML | 📅 2026-02-16 - notes for software engineers getting up to speed on new AI developments. Serves as datastore for <https://latent.space> writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.
 * [helicone](https://github.com/helicone/helicone) ⭐ 6,109 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-26 - 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓 YC W23
 * [zcf](https://github.com/ufomiao/zcf) ⭐ 6,079 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-23 - Zero-Config Code Flow for Claude code & Codex
-* [openpencil](https://github.com/zseven-w/openpencil) ⭐ 5,709 | 🐛 15 | 🌐 Rust | 📅 2026-08-29 - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
+* [openpencil](https://github.com/zseven-w/openpencil) ⭐ 5,710 | 🐛 15 | 🌐 Rust | 📅 2026-08-29 - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 * [Kiln](https://github.com/kiln-ai/kiln) ⭐ 5,037 | 🐛 69 | 🌐 Python | 📅 2026-08-28 - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
 * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) ⭐ 4,911 | 🐛 2 | 📅 2024-01-25 - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
 * [Learn\_Prompting](https://github.com/trigaten/learn_prompting) ⭐ 4,727 | 🐛 101 | 🌐 MDX | 📅 2025-01-14 - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
@@ -250,10 +250,10 @@ Run these two commands inside Claude Code:
 * [optillm](https://github.com/algorithmicsuperintelligence/optillm) ⭐ 4,257 | 🐛 24 | 🌐 Python | 📅 2026-07-18 - Optimizing inference proxy for LLMs
 * [jailbreak\_llms](https://github.com/verazuo/jailbreak_llms) ⭐ 3,794 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-12-24 - \[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 * [ChatGPT-Siri](https://github.com/yue-yang/chatgpt-siri) ⭐ 3,653 | 🐛 48 | 📅 2026-02-27 - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。
-* [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) ⭐ 3,562 | 🐛 110 | 🌐 Python | 📅 2026-08-29 - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
+* [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) ⭐ 3,562 | 🐛 104 | 🌐 Python | 📅 2026-08-29 - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
 * [langwatch](https://github.com/langwatch/langwatch) ⭐ 3,516 | 🐛 819 | 🌐 TypeScript | 📅 2026-08-28 - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
 * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) ⭐ 3,435 | 🐛 2 | 📅 2026-05-06 - 总结Prompt\&LLM论文，开源数据&模型，AIGC应用
-* [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) ⭐ 3,326 | 🐛 0 | 🌐 Java | 📅 2026-08-26 - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
+* [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) ⭐ 3,329 | 🐛 0 | 🌐 Java | 📅 2026-08-26 - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 * [pezzo](https://github.com/pezzolabs/pezzo) ⭐ 3,269 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-21 - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) ⭐ 3,255 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-17 - 带有用户管理和后台管理系统的 ChatGPT WebUI
 * [llm-guard](https://github.com/laiyer-ai/llm-guard) ⚠️ Archived - The Security Toolkit for LLM Interactions
@@ -288,12 +288,12 @@ Run these two commands inside Claude Code:
 * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) ⭐ 1,326 | 🐛 0 | 📅 2024-06-13 - chatGPT、prompt、LLM
 * [ChatGPT-Prompt-Genius](https://github.com/benf2004/chatgpt-prompt-genius) ⭐ 1,303 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-29 - get your creative juices flowing not only with the prompts but feel free to contribute to this open source project too #chatgpt #gpt4 #chatgptprompts
 * [promptmap](https://github.com/utkusen/promptmap) ⭐ 1,254 | 🐛 4 | 🌐 Python | 📅 2025-12-01 - automatically tests prompt injection attacks on ChatGPT instances
-* [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) ⭐ 1,250 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-01-07 - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a private LLM (Llama 2) for chat with PDF files, tweets sentiment analysis.
+* [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) ⭐ 1,251 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-01-07 - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a private LLM (Llama 2) for chat with PDF files, tweets sentiment analysis.
 * [langtrace](https://github.com/scale3-labs/langtrace) ⭐ 1,229 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-17 - Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊
 * [openprompt.co](https://github.com/timqian/openprompt.co) ⭐ 1,220 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-18 - Create. Use. Share. ChatGPT prompts
 * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) ⭐ 1,219 | 🐛 35 | 🌐 Python | 📅 2025-11-05 - 该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。
 * [PromptChains](https://github.com/miatechpartners/promptchains) ⭐ 1,216 | 🐛 0 | 📅 2025-01-17 - Queue up prompts for ChatGPT and Claude for better performance
-* [Safety-Prompts](https://github.com/thu-coai/safety-prompts) ⭐ 1,214 | 🐛 1 | 📅 2024-02-27 - Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。
+* [Safety-Prompts](https://github.com/thu-coai/safety-prompts) ⭐ 1,215 | 🐛 1 | 📅 2024-02-27 - Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。
 * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) ⭐ 1,117 | 🐛 5 | 🌐 Python | 📅 2025-02-02 - DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤
 * [JamAIBase](https://github.com/embeddedllm/jamaibase) ⭐ 1,101 | 🐛 2 | 🌐 Python | 📅 2026-08-17 - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.
 * [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) ⭐ 1,095 | 🐛 2 | 🌐 Python | 📅 2026-08-10 - A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini
@@ -341,7 +341,7 @@ Run these two commands inside Claude Code:
 * [EasyInstruct](https://github.com/zjunlp/easyinstruct) ⭐ 407 | 🐛 1 | 🌐 Python | 📅 2024-12-23 - \[ACL 2024] An Easy-to-use Instruction Processing Framework for LLMs.
 * [gpt-runner](https://github.com/nicepkg/gpt-runner) ⭐ 385 | 🐛 10 | 🌐 TypeScript | 📅 2023-09-11 - Conversations with your files! Manage and run your AI presets!
 * [ChatGPT-Prompts](https://github.com/prathamkumar14/chatgpt-prompts) ⭐ 384 | 🐛 2 | 📅 2023-01-13 - AI is taking over slowly. Here are some use ChatGPT/API prompts that help you unlock 100% of your productivity.
-* [EDDI](https://github.com/labsai/eddi) ⭐ 371 | 🐛 46 | 🌐 Java | 📅 2026-08-28 - Prompt & Conversation Management Middleware for Conversational AI APIs such as OpenAI ChatGPT, Facebook Hugging Face, Anthropic Claude, Google Gemini and Ollama. Lean, restful, scalable, and cloud-native. Developed in Java, powered by Quarkus, provided with Docker, and orchestrated with Kubernetes or Openshift.
+* [EDDI](https://github.com/labsai/eddi) ⭐ 371 | 🐛 46 | 🌐 Java | 📅 2026-08-29 - Prompt & Conversation Management Middleware for Conversational AI APIs such as OpenAI ChatGPT, Facebook Hugging Face, Anthropic Claude, Google Gemini and Ollama. Lean, restful, scalable, and cloud-native. Developed in Java, powered by Quarkus, provided with Docker, and orchestrated with Kubernetes or Openshift.
 * [generator](https://github.com/context-hub/generator) ⭐ 340 | 🐛 18 | 🌐 PHP | 📅 2026-03-11 - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.
 * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) ⭐ 336 | 🐛 0 | 📅 2025-10-20 - 分门别类的 ChatGPT 中文引导语大全。
 * [Share-to-ChatGPT-Shortcut](https://github.com/reorx/share-to-chatgpt-shortcut) ⭐ 335 | 🐛 0 | 📅 2023-04-06 - An Apple Shortcut for sharing text to ChatGPT using personalized prompts
@@ -391,48 +391,48 @@ Run these two commands inside Claude Code:
 
 ## Chatbots
 
-* [openclaw](https://github.com/openclaw/openclaw) ⭐ 387,940 | 🐛 5,731 | 🌐 TypeScript | 📅 2026-08-29 - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-* [ragflow](https://github.com/infiniflow/ragflow) ⭐ 89,539 | 🐛 1,723 | 🌐 Go | 📅 2026-08-28 - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-* [NextChat](https://github.com/chatgptnextweb/nextchat) ⭐ 88,659 | 🐛 853 | 🌐 TypeScript | 📅 2026-08-11 - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-* [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,398 | 🐛 773 | 🌐 C++ | 📅 2025-05-27 - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
-* [ruflo](https://github.com/ruvnet/ruflo) ⭐ 69,656 | 🐛 859 | 🌐 TypeScript | 📅 2026-08-28 - Codex Integration
-* [gpt4free](https://github.com/xtekky/gpt4free) ⭐ 66,608 | 🐛 2 | 🌐 Python | 📅 2026-08-26 - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
-* [anything-llm](https://github.com/mintplex-labs/anything-llm) ⭐ 65,346 | 🐛 334 | 🌐 JavaScript | 📅 2026-08-29 - Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.
-* [embedchain](https://github.com/embedchain/embedchain) ⭐ 64,277 | 🐛 703 | 🌐 Python | 📅 2026-08-28 - Framework to easily create LLM powered bots over any dataset.
-* [autogen](https://github.com/microsoft/autogen) ⭐ 60,677 | 🐛 992 | 🌐 Python | 📅 2026-04-15 - Enable Next-Gen Large Language Model Applications. Join our Discord: <https://discord.gg/pAbnFJrkgZ>
-* [LocalAI](https://github.com/go-skynet/localai) ⭐ 48,727 | 🐛 222 | 🌐 Go | 📅 2026-08-28 - :robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for instance: llama.cpp, alpaca.cpp, gpt4all.cpp, vicuna, koala, gpt4all-j, cerebras
-* [LocalAI](https://github.com/mudler/localai) ⭐ 48,727 | 🐛 222 | 🌐 Go | 📅 2026-08-28 - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
-* [nanobot](https://github.com/hkuds/nanobot) ⭐ 47,500 | 🐛 756 | 🌐 Python | 📅 2026-08-28 - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
-* [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 46,711 | 🐛 42 | 🌐 Python | 📅 2026-08-27 - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现
-* [AstrBot](https://github.com/astrbotdevs/astrbot) ⭐ 39,738 | 🐛 1,457 | 🌐 Python | 📅 2026-08-28 - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+* [openclaw](https://github.com/openclaw/openclaw) ⭐ 387,946 | 🐛 5,721 | 🌐 TypeScript | 📅 2026-08-29 - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+* [ragflow](https://github.com/infiniflow/ragflow) ⭐ 89,548 | 🐛 1,723 | 🌐 Go | 📅 2026-08-28 - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+* [NextChat](https://github.com/chatgptnextweb/nextchat) ⭐ 88,662 | 🐛 853 | 🌐 TypeScript | 📅 2026-08-11 - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+* [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,397 | 🐛 773 | 🌐 C++ | 📅 2025-05-27 - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+* [ruflo](https://github.com/ruvnet/ruflo) ⭐ 69,660 | 🐛 859 | 🌐 TypeScript | 📅 2026-08-28 - Codex Integration
+* [gpt4free](https://github.com/xtekky/gpt4free) ⭐ 66,609 | 🐛 2 | 🌐 Python | 📅 2026-08-26 - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
+* [anything-llm](https://github.com/mintplex-labs/anything-llm) ⭐ 65,348 | 🐛 328 | 🌐 JavaScript | 📅 2026-08-29 - Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.
+* [embedchain](https://github.com/embedchain/embedchain) ⭐ 64,281 | 🐛 703 | 🌐 Python | 📅 2026-08-28 - Framework to easily create LLM powered bots over any dataset.
+* [autogen](https://github.com/microsoft/autogen) ⭐ 60,680 | 🐛 992 | 🌐 Python | 📅 2026-04-15 - Enable Next-Gen Large Language Model Applications. Join our Discord: <https://discord.gg/pAbnFJrkgZ>
+* [LocalAI](https://github.com/go-skynet/localai) ⭐ 48,727 | 🐛 223 | 🌐 Go | 📅 2026-08-29 - :robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for instance: llama.cpp, alpaca.cpp, gpt4all.cpp, vicuna, koala, gpt4all-j, cerebras
+* [LocalAI](https://github.com/mudler/localai) ⭐ 48,727 | 🐛 223 | 🌐 Go | 📅 2026-08-29 - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
+* [nanobot](https://github.com/hkuds/nanobot) ⭐ 47,508 | 🐛 756 | 🌐 Python | 📅 2026-08-29 - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
+* [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 46,712 | 🐛 42 | 🌐 Python | 📅 2026-08-27 - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现
+* [AstrBot](https://github.com/astrbotdevs/astrbot) ⭐ 39,742 | 🐛 1,457 | 🌐 Python | 📅 2026-08-28 - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 * [FastChat](https://github.com/lm-sys/fastchat) ⭐ 39,526 | 🐛 1,041 | 🌐 Python | 📅 2026-05-01 - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
-* [quivr](https://github.com/quivrhq/quivr) ⭐ 39,430 | 🐛 33 | 🌐 Python | 📅 2025-07-09 - 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
-* [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) ⭐ 38,590 | 🐛 24 | 🌐 Python | 📅 2025-11-10 - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
+* [quivr](https://github.com/quivrhq/quivr) ⭐ 39,432 | 🐛 33 | 🌐 Python | 📅 2025-07-09 - 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+* [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) ⭐ 38,591 | 🐛 24 | 🌐 Python | 📅 2025-11-10 - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 * [Open-Assistant](https://github.com/laion-ai/open-assistant) ⭐ 37,408 | 🐛 296 | 🌐 Python | 📅 2024-08-17 - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 * [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,341 | 🐛 240 | 🌐 TypeScript | 📅 2024-08-03 - An open source ChatGPT UI.
 * [chatbot-ui-pro](https://github.com/mckaywrigley/chatbot-ui-pro) ⭐ 33,341 | 🐛 240 | 🌐 TypeScript | 📅 2024-08-03 - AI search & chat for Balaji Srinivasan's "The Network State."
-* [sim](https://github.com/simstudioai/sim) ⭐ 29,489 | 🐛 301 | 🌐 TypeScript | 📅 2026-08-29 - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
-* [repopack](https://github.com/yamadashy/repopack) ⭐ 28,103 | 🐛 143 | 🌐 TypeScript | 📅 2026-08-29 - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
-* [repomix](https://github.com/yamadashy/repomix) ⭐ 28,103 | 🐛 143 | 🌐 TypeScript | 📅 2026-08-29 - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
-* [mastra](https://github.com/mastra-ai/mastra) ⭐ 27,547 | 🐛 541 | 🌐 TypeScript | 📅 2026-08-29 - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
-* [ChatPDF](https://github.com/anil-matcha/chatpdf) ⭐ 27,312 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-27 - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
+* [sim](https://github.com/simstudioai/sim) ⭐ 29,489 | 🐛 312 | 🌐 TypeScript | 📅 2026-08-29 - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+* [repopack](https://github.com/yamadashy/repopack) ⭐ 28,106 | 🐛 139 | 🌐 TypeScript | 📅 2026-08-29 - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
+* [repomix](https://github.com/yamadashy/repomix) ⭐ 28,106 | 🐛 139 | 🌐 TypeScript | 📅 2026-08-29 - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
+* [mastra](https://github.com/mastra-ai/mastra) ⭐ 27,548 | 🐛 544 | 🌐 TypeScript | 📅 2026-08-29 - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+* [ChatPDF](https://github.com/anil-matcha/chatpdf) ⭐ 27,318 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-27 - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
 * [LLaVA](https://github.com/haotian-liu/llava) ⭐ 25,005 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12 - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 * [pandas-ai](https://github.com/gventuri/pandas-ai) ⭐ 23,774 | 🐛 22 | 🌐 Python | 📅 2025-10-28 - 4, Anthropic, VertexAI) and RAG.
 * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) ⭐ 23,774 | 🐛 22 | 🌐 Python | 📅 2025-10-28 - 4, Anthropic, VertexAI) and RAG.
 * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) ⭐ 20,885 | 🐛 28 | 🌐 TypeScript | 📅 2026-07-08 - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
 * [ai-chatbot](https://github.com/vercel/ai-chatbot) ⭐ 20,885 | 🐛 28 | 🌐 TypeScript | 📅 2026-07-08 - A full-featured, hackable Next.js AI chatbot built by Vercel
-* [WeKnora](https://github.com/tencent/weknora) ⭐ 20,865 | 🐛 580 | 🌐 Go | 📅 2026-08-28 - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+* [WeKnora](https://github.com/tencent/weknora) ⭐ 20,872 | 🐛 580 | 🌐 Go | 📅 2026-08-28 - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) ⭐ 18,974 | 🐛 4 | 🌐 Python | 📅 2025-06-28 - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 * [kirara-ai](https://github.com/lss233/kirara-ai) ⭐ 18,974 | 🐛 4 | 🌐 Python | 📅 2025-06-28 - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
-* [langchainjs](https://github.com/hwchase17/langchainjs) ⭐ 18,142 | 🐛 544 | 🌐 TypeScript | 📅 2026-08-28 - we've implemented autogpt in js, along with new read and write tools to write files, which can be backed by both your local filesystem in node.js as well as an in-memory filesystem in all other js envs. we'll be evolving this over time. example here
-* [LangBot](https://github.com/langbot-app/langbot) ⭐ 17,601 | 🐛 125 | 🌐 Python | 📅 2026-08-28 - Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconFlow、Qwen、Moonshot、SillyTraven、MCP、WeClone etc. LLM & Agent
+* [langchainjs](https://github.com/hwchase17/langchainjs) ⭐ 18,143 | 🐛 544 | 🌐 TypeScript | 📅 2026-08-28 - we've implemented autogpt in js, along with new read and write tools to write files, which can be backed by both your local filesystem in node.js as well as an in-memory filesystem in all other js envs. we'll be evolving this over time. example here
+* [LangBot](https://github.com/langbot-app/langbot) ⭐ 17,602 | 🐛 125 | 🌐 Python | 📅 2026-08-28 - Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconFlow、Qwen、Moonshot、SillyTraven、MCP、WeClone etc. LLM & Agent
 * [open-im-server](https://github.com/openimsdk/open-im-server) ⭐ 16,621 | 🐛 113 | 🌐 Go | 📅 2026-08-26 - IM Chat ChatGPT
 * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) ⚠️ Archived - GPT4 & LangChain Chatbot for large PDF docs
 * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) ⚠️ Archived - LangChain & LangGraph AI chatbot for large PDF docs
-* [ChuanhuChatGPT](https://github.com/gaizhenbiao/chuanhuchatgpt) ⭐ 15,275 | 🐛 129 | 🌐 Python | 📅 2026-04-30 - GUI for ChatGPT API
+* [ChuanhuChatGPT](https://github.com/gaizhenbiao/chuanhuchatgpt) ⭐ 15,276 | 🐛 129 | 🌐 Python | 📅 2026-04-30 - GUI for ChatGPT API
 * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt) ⭐ 14,907 | 🐛 128 | 🌐 JavaScript | 📅 2026-07-20 - 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.
-* [agents](https://github.com/livekit/agents) ⭐ 13,348 | 🐛 799 | 🌐 Python | 📅 2026-08-28 - A powerful framework for building realtime voice AI agents 🤖🎙️📹
-* [voice-pro](https://github.com/abus-aikorea/voice-pro) ⭐ 12,665 | 🐛 60 | 🌐 Python | 📅 2026-07-13 - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS, kokoro), and multi-language translation. Perfect for content creators and developers.
+* [agents](https://github.com/livekit/agents) ⭐ 13,374 | 🐛 799 | 🌐 Python | 📅 2026-08-29 - A powerful framework for building realtime voice AI agents 🤖🎙️📹
+* [voice-pro](https://github.com/abus-aikorea/voice-pro) ⭐ 12,668 | 🐛 60 | 🌐 Python | 📅 2026-07-13 - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS, kokoro), and multi-language translation. Perfect for content creators and developers.
 * [MOSS](https://github.com/openmoss/moss) ⭐ 12,234 | 🐛 242 | 🌐 Python | 📅 2026-05-27 - An open-source tool-augmented conversational language model from Fudan University
 * [bisheng](https://github.com/dataelement/bisheng) ⭐ 11,916 | 🐛 131 | 🌐 Python | 📅 2026-08-28 - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
 * [wechat-bot](https://github.com/wangrongding/wechat-bot) ⭐ 11,298 | 🐛 120 | 🌐 JavaScript | 📅 2026-08-25 - 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
@@ -440,8 +440,8 @@ Run these two commands inside Claude Code:
 * [llama-gpt](https://github.com/getumbrel/llama-gpt) ⭐ 10,939 | 🐛 96 | 🌐 TypeScript | 📅 2024-04-23 - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 * [dolly](https://github.com/databrickslabs/dolly) ⭐ 10,805 | 🐛 5 | 🌐 Python | 📅 2023-06-30 - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 * [ChatRWKV](https://github.com/blinkdl/chatrwkv) ⭐ 9,498 | 🐛 61 | 🌐 Python | 📅 2026-07-19 - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
-* [evolution-api](https://github.com/evolutionapi/evolution-api) ⭐ 9,448 | 🐛 209 | 🌐 TypeScript | 📅 2026-07-14 - Evolution API is an open-source WhatsApp integration API
-* [evolution-api](https://github.com/evolution-foundation/evolution-api) ⭐ 9,448 | 🐛 209 | 🌐 TypeScript | 📅 2026-07-14 - Evolution API is an open-source WhatsApp integration API
+* [evolution-api](https://github.com/evolutionapi/evolution-api) ⭐ 9,449 | 🐛 210 | 🌐 TypeScript | 📅 2026-07-14 - Evolution API is an open-source WhatsApp integration API
+* [evolution-api](https://github.com/evolution-foundation/evolution-api) ⭐ 9,449 | 🐛 210 | 🌐 TypeScript | 📅 2026-07-14 - Evolution API is an open-source WhatsApp integration API
 * [BetterChatGPT](https://github.com/ztjhz/betterchatgpt) ⭐ 8,387 | 🐛 247 | 🌐 TypeScript | 📅 2024-08-14 - Play and chat smarter with Better ChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API! (Website + Windows + MacOS + Linux)
 * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ⭐ 7,947 | 🐛 32 | 🌐 Python | 📅 2026-06-18 - gpt-4o for windows, macos and ubuntu
 * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) ⭐ 7,947 | 🐛 32 | 🌐 Python | 📅 2026-06-18 - gpt-4o for windows, macos and linux
@@ -458,11 +458,11 @@ Run these two commands inside Claude Code:
 * [rags](https://github.com/run-llama/rags) ⭐ 6,550 | 🐛 37 | 🌐 Python | 📅 2024-04-05 - Build ChatGPT over your data, all with natural language
 * [podcastfy](https://github.com/souzatharsis/podcastfy) ⭐ 6,522 | 🐛 119 | 🌐 Python | 📅 2026-05-04 - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 * [deepchat](https://github.com/thinkinaixyz/deepchat) ⭐ 6,292 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-28 - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
-* [Everywhere](https://github.com/dearva/everywhere) ⭐ 6,251 | 🐛 26 | 🌐 C# | 📅 2026-08-28 - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+* [Everywhere](https://github.com/dearva/everywhere) ⭐ 6,252 | 🐛 26 | 🌐 C# | 📅 2026-08-28 - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 * [marvin](https://github.com/prefecthq/marvin) ⭐ 6,192 | 🐛 114 | 🌐 Python | 📅 2026-08-21 - 🤖🪄 A batteries-included library for GPT-powered bots and AI functions
 * [ecoute](https://github.com/sevask/ecoute) ⭐ 6,047 | 🐛 116 | 🌐 Python | 📅 2026-04-08 - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
-* [open-whispr](https://github.com/herotools/open-whispr) ⭐ 5,817 | 🐛 289 | 🌐 JavaScript | 📅 2026-08-27 - Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
-* [openwhispr](https://github.com/openwhispr/openwhispr) ⭐ 5,817 | 🐛 289 | 🌐 JavaScript | 📅 2026-08-27 - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models. Privacy-first and available cross-platform.
+* [open-whispr](https://github.com/herotools/open-whispr) ⭐ 5,818 | 🐛 289 | 🌐 JavaScript | 📅 2026-08-27 - Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
+* [openwhispr](https://github.com/openwhispr/openwhispr) ⭐ 5,818 | 🐛 289 | 🌐 JavaScript | 📅 2026-08-27 - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models. Privacy-first and available cross-platform.
 * [casibase](https://github.com/casibase/casibase) ⭐ 5,581 | 🐛 48 | 🌐 Go | 📅 2026-08-20 - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, AI/ML API, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: <https://ai.casbin.com>, admin portal demo: <https://ai.casibase.com>
 * [openagent](https://github.com/the-open-agent/openagent) ⭐ 5,581 | 🐛 48 | 🌐 Go | 📅 2026-08-20 - Next-generation personal AI assistant powered by LLM, RAG and agent loops. Supporting computer-use, browser-use and coding agent with 30+ model providers, MCP-compatible tools, visual workflow builder and admin dashboard. Demo: <https://demo.openagentai.org>
 * [chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot) ⭐ 5,530 | 🐛 55 | 🌐 Python | 📅 2026-06-14 - cómo integrar chatgpt con gpt-4 en telegram://t.co/fyumptn5vjvía @hipertextual
@@ -470,7 +470,7 @@ Run these two commands inside Claude Code:
 * [Bard-API](https://github.com/dsdanielpark/bard-api) ⚠️ Archived - The unofficial python package that returns response of Google Bard through cookie value.
 * [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) ⭐ 4,786 | 🐛 183 | 🌐 Python | 📅 2026-08-13 - gpt4all chatbot ui
 * [ChatGPT-wechat-bot](https://github.com/autumnwhj/chatgpt-wechat-bot) ⭐ 4,712 | 🐛 105 | 🌐 TypeScript | 📅 2025-10-23 - ChatGPT for wechat <https://github.com/AutumnWhj/ChatGPT-wechat-bot> ⭐ 4,712 | 🐛 105 | 🌐 TypeScript | 📅 2025-10-23
-* [vbot](https://github.com/hanson/vbot) ⭐ 4,587 | 🐛 65 | 🌐 PHP | 📅 2026-05-30 - 微信，企微，机器人，企业微信，企微机器人，微信机器人，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用
+* [vbot](https://github.com/hanson/vbot) ⭐ 4,588 | 🐛 65 | 🌐 PHP | 📅 2026-05-30 - 微信，企微，机器人，企业微信，企微机器人，微信机器人，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用
 * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) ⭐ 4,569 | 🐛 23 | 🌐 Python | 📅 2026-08-28 - DeepAnalyze is the first agentic LLM for autonomous data science.
 * [agency-swarm](https://github.com/vrsen/agency-swarm) ⭐ 4,543 | 🐛 12 | 🌐 Python | 📅 2026-08-19 - The only reliable agent framework built on top of the latest OpenAI Assistants API.
 * [ChatGPT-CodeReview](https://github.com/anc95/chatgpt-codereview) ⭐ 4,460 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-10 - 🐥 A code review bot powered by ChatGPT
@@ -502,17 +502,17 @@ Run these two commands inside Claude Code:
 * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) ⭐ 3,167 | 🐛 10 | 📅 2025-11-07 - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
 * [baize](https://github.com/project-baize/baize) ⭐ 3,150 | 🐛 36 | 🌐 Python | 📅 2024-03-17 - Let ChatGPT teach your own chatbot in hours with a single GPU!
 * [baize-chatbot](https://github.com/project-baize/baize-chatbot) ⭐ 3,150 | 🐛 36 | 🌐 Python | 📅 2024-03-17 - Let ChatGPT teach your own chatbot in hours with a single GPU!
-* [BotSharp](https://github.com/scisharp/botsharp) ⭐ 3,100 | 🐛 48 | 🌐 C# | 📅 2026-08-28 - The AI Agent Application Framework in .NET
+* [BotSharp](https://github.com/scisharp/botsharp) ⭐ 3,099 | 🐛 48 | 🌐 C# | 📅 2026-08-28 - The AI Agent Application Framework in .NET
 * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) ⚠️ Archived - Data framework for your LLM applications. Focus on server side solution
 * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) ⭐ 3,059 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-04-06 - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
 * [Linly](https://github.com/cvi-szu/linly) ⭐ 3,045 | 🐛 109 | 🌐 Python | 📅 2024-04-14 - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
-* [ai](https://github.com/tanstack/ai) ⭐ 3,039 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-28 - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
+* [ai](https://github.com/tanstack/ai) ⭐ 3,040 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-28 - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
 * [builderbot](https://github.com/codigoencasa/builderbot) ⭐ 2,967 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-04 - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
 * [clawpanel](https://github.com/qingchencloud/clawpanel) ⭐ 2,933 | 🐛 118 | 🌐 JavaScript | 📅 2026-08-26 - 🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition
 * [speechgpt](https://github.com/hahahumble/speechgpt) ⭐ 2,751 | 🐛 27 | 🌐 TypeScript | 📅 2026-07-11 - SpeechGPT is a web application that enables you to converse with ChatGPT.
 * [chatGPT-discord-bot](https://github.com/zero6992/chatgpt-discord-bot) ⭐ 2,732 | 🐛 25 | 🌐 Python | 📅 2025-07-27 - Integrate ChatGPT into your own discord bot
 * [Open-Interface](https://github.com/ambersahdev/open-interface) ⭐ 2,715 | 🐛 25 | 🌐 Python | 📅 2026-07-17 - Control Any Computer Using LLMs
-* [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) ⭐ 2,709 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-28 - Export and Share your ChatGPT conversation history
+* [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) ⭐ 2,710 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-28 - Export and Share your ChatGPT conversation history
 * [OmAgent](https://github.com/om-ai-lab/omagent) ⭐ 2,665 | 🐛 21 | 🌐 Python | 📅 2025-03-19 - A Multimodal Language Agent Framework for Smart Devices and More
 * [maid](https://github.com/mobile-artificial-intelligence/maid) ⭐ 2,655 | 🐛 12 | 🌐 TypeScript | 📅 2026-07-23 - llama.cpp models locally, and with Ollama and OpenAI models remotely.
 * [pluely](https://github.com/iamsrikanthnani/pluely) ⭐ 2,605 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-14 - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings.
@@ -520,13 +520,13 @@ Run these two commands inside Claude Code:
 * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) ⭐ 2,539 | 🐛 101 | 🌐 Python | 📅 2025-04-02 - \[Official Implementation] mPLUG-Owl & mPLUG-Owl2: Alibaba MLLM Family.
 * [Auto-GPT-ZH](https://github.com/kaqijiang/auto-gpt-zh) ⭐ 2,466 | 🐛 1 | 🌐 Python | 📅 2025-08-15 - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现
 * [RasaGPT](https://github.com/paulpierre/rasagpt) ⭐ 2,464 | 🐛 57 | 🌐 Python | 📅 2025-11-12 - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
-* [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) ⭐ 2,352 | 🐛 97 | 🌐 TypeScript | 📅 2024-05-24 - An open-source ChatGPT app with a voice
+* [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) ⭐ 2,351 | 🐛 97 | 🌐 TypeScript | 📅 2024-05-24 - An open-source ChatGPT app with a voice
 * [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,236 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-27 - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基于 Dify 、Ollama\&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以支持广泛的通用知识问答。
 * [LLaVA-Med](https://github.com/microsoft/llava-med) ⭐ 2,231 | 🐛 107 | 🌐 Python | 📅 2025-06-04 - Large Language-and-Vision Assistant for BioMedicine, built towards multimodal GPT-4 level capabilities.
 * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) ⭐ 2,206 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-16 - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) ⭐ 2,169 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-26 - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
-* [Proma](https://github.com/erlichliu/proma) ⭐ 2,116 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-28 - 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
-* [Proma](https://github.com/proma-ai/proma) ⭐ 2,116 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-28 - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
+* [Proma](https://github.com/erlichliu/proma) ⭐ 2,119 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-29 - 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
+* [Proma](https://github.com/proma-ai/proma) ⭐ 2,119 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-29 - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
 * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) ⭐ 1,980 | 🐛 0 | 📅 2026-08-21 - Create Custom GPT and add/embed on your site using Assistants api
 * [WeChatRobot](https://github.com/lich0821/wechatrobot) ⭐ 1,956 | 🐛 0 | 📅 2025-05-25 - 微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。
 * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) ⭐ 1,956 | 🐛 26 | 🌐 TypeScript | 📅 2025-03-07 - OpenAI Assistants API quickstart with Next.js.
@@ -546,7 +546,7 @@ Run these two commands inside Claude Code:
 * [NagaAgent](https://github.com/rtgs2017/nagaagent) ⭐ 1,544 | 🐛 4 | 🌐 Python | 📅 2026-08-11 - A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.
 * [hope-agent](https://github.com/shiwenwen/hope-agent) ⭐ 1,525 | 🐛 15 | 🌐 Rust | 📅 2026-08-27 - 🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud
 * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) ⭐ 1,506 | 🐛 26 | 🌐 Python | 📅 2025-08-05 - Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation.
-* [rakazo](https://github.com/elie222/rakazo) ⭐ 1,451 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-28 - Open-source Grok Bot alternative. Choose your own model and sandbox.
+* [rakazo](https://github.com/elie222/rakazo) ⭐ 1,455 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-28 - Open-source Grok Bot alternative. Choose your own model and sandbox.
 * [chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection) ⭐ 1,445 | 🐛 26 | 🌐 Python | 📅 2023-12-01 - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 * [extended\_openai\_conversation](https://github.com/jekalmin/extended_openai_conversation) ⭐ 1,431 | 🐛 130 | 🌐 Python | 📅 2026-05-17 - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 * [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) ⭐ 1,426 | 🐛 52 | 🌐 Python | 📅 2026-05-26 - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (ROCm), and CPU.
@@ -554,13 +554,13 @@ Run these two commands inside Claude Code:
 * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) ⭐ 1,399 | 🐛 32 | 🌐 TypeScript | 📅 2026-06-30 - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
 * [nlux](https://github.com/nluxai/nlux) ⭐ 1,381 | 🐛 44 | 🌐 TypeScript | 📅 2025-11-25 - Javascript Library To Build Conversational AI Interfaces
 * [nlux](https://github.com/nlkitai/nlux) ⭐ 1,381 | 🐛 44 | 🌐 TypeScript | 📅 2025-11-25 - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library
-* [agor](https://github.com/preset-io/agor) ⭐ 1,378 | 🐛 217 | 🌐 TypeScript | 📅 2026-08-29 - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
+* [agor](https://github.com/preset-io/agor) ⭐ 1,378 | 🐛 215 | 🌐 TypeScript | 📅 2026-08-29 - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) ⭐ 1,367 | 🐛 62 | 🌐 Python | 📅 2024-09-26 - Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping.
 * [ChatGpt-Web](https://github.com/79e/chatgpt-web) ⭐ 1,366 | 🐛 9 | 🌐 TypeScript | 📅 2025-04-03 - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
 * [Discord-Chatbot-Gpt4Free](https://github.com/mishalhossin/discord-chatbot-gpt4free) ⚠️ Archived - This is a Discord Chatbot with image detection for free
-* [WebAI-to-API](https://github.com/amm1rr/webai-to-api) ⭐ 1,349 | 🐛 19 | 🌐 Python | 📅 2026-08-28 - ChatGPT, Claude, Bard to API  : )
+* [WebAI-to-API](https://github.com/amm1rr/webai-to-api) ⭐ 1,350 | 🐛 19 | 🌐 Python | 📅 2026-08-28 - ChatGPT, Claude, Bard to API  : )
 * [word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus) ⭐ 1,348 | 🐛 26 | 🌐 Vue | 📅 2026-08-27 - Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
-* [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) ⭐ 1,289 | 🐛 15 | 🌐 Python | 📅 2026-04-06 - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT and Claude2.1 using Python on Zeabur, fly.io and Replit.
+* [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) ⭐ 1,288 | 🐛 15 | 🌐 Python | 📅 2026-04-06 - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT and Claude2.1 using Python on Zeabur, fly.io and Replit.
 * [AgentOS](https://github.com/spharxteam/agentos) ⭐ 1,267 | 🐛 0 | 🌐 CMake | 📅 2026-07-14 - Airymax AgentOS: 200K+ context & 10M memory, 1000h tasks at 99.1% accuracy, 80% token reduction, 5× industry efficiency. Natively compatible with OpenClaw, openJiuwen, LangChain, Claude & OpenAI APIs; more agent protocols coming.
 * [ChatdollKit](https://github.com/uezo/chatdollkit) ⭐ 1,216 | 🐛 32 | 🌐 C# | 📅 2026-03-11 - ChatdollKit enables you to make your 3D model into a chatbot
 * [Hexabot](https://github.com/hexastack/hexabot) ⭐ 1,208 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-24 - agents with ease.
@@ -615,17 +615,17 @@ Run these two commands inside Claude Code:
 * [ai\_automation\_suggester](https://github.com/itspecialist111/ai_automation_suggester) ⭐ 772 | 🐛 11 | 🌐 Python | 📅 2026-07-11 - This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and more! The integration provides automation suggestions via HASS notifications
 * [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) ⭐ 757 | 🐛 3 | 🌐 TypeScript | 📅 2024-07-22 - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 * [bolna](https://github.com/bolna-ai/bolna) ⭐ 744 | 🐛 120 | 🌐 Python | 📅 2026-08-28 - Conversational voice AI agents
-* [Wegent](https://github.com/wecode-ai/wegent) ⭐ 741 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-29 - An open-source AI-native operating system to define, organize, and run intelligent agent teams
+* [Wegent](https://github.com/wecode-ai/wegent) ⭐ 741 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-29 - An open-source AI-native operating system to define, organize, and run intelligent agent teams
 * [ttsfm](https://github.com/dbccccccc/ttsfm) ⭐ 734 | 🐛 4 | 🌐 Python | 📅 2026-06-30 - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
 * [langup-ai](https://github.com/jiran214/langup-ai) ⭐ 731 | 🐛 8 | 🌐 Python | 📅 2024-03-30 - AGI 社交网络 Bot.  BiliBili |  直播聊天数字人 | 视频@自动回复 | 私信bot | 终端聊天  |  语音交互
 * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) ⭐ 718 | 🐛 18 | 🌐 Python | 📅 2025-07-05 - High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.
 * [open-codex](https://github.com/codingmoh/open-codex) ⭐ 696 | 🐛 11 | 🌐 Python | 📅 2025-07-07 - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
-* [agentcloud](https://github.com/rnadigital/agentcloud) ⭐ 689 | 🐛 88 | 🌐 TypeScript | 📅 2025-07-21 - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Create Multi Agent process automation apps (crewai) 4) Tools 5) Teams+user permissions. Get started fast with Docker and our install.sh
+* [agentcloud](https://github.com/rnadigital/agentcloud) ⭐ 690 | 🐛 88 | 🌐 TypeScript | 📅 2025-07-21 - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Create Multi Agent process automation apps (crewai) 4) Tools 5) Teams+user permissions. Get started fast with Docker and our install.sh
 * [sagittarius](https://github.com/gregsadetsky/sagittarius) ⭐ 685 | 🐛 11 | 🌐 TypeScript | 📅 2024-01-26 - A GPT-4/Gemini Voice/Video Exploration Tool
 * [openlrc](https://github.com/zh-plus/openlrc) ⭐ 675 | 🐛 5 | 🌐 Python | 📅 2026-08-10 - Transcribe and translate voice into LRC file using Whisper and LLMs (GPT, Claude, et,al). 使用whisper和LLM(GPT，Claude等)来转录、翻译你的音频为字幕文件。
 * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) ⭐ 671 | 🐛 16 | 🌐 Python | 📅 2025-12-23 - Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)
 * [chatbot-app](https://github.com/chatbot-all/chatbot-app) ⭐ 665 | 🐛 8 | 🌐 CSS | 📅 2025-02-22 - mobile private ChatGPT application, supporting GPT3, GPT4 & Gemini Pro models.  拥有自己的移动端 ChatGPT/Gemini 应用。
-* [aiavatarkit](https://github.com/uezo/aiavatarkit) ⭐ 659 | 🐛 7 | 🌐 Python | 📅 2026-08-29 - 🥰 Building AI-based conversational avatars lightning fast ⚡️💬
+* [aiavatarkit](https://github.com/uezo/aiavatarkit) ⭐ 659 | 🐛 6 | 🌐 Python | 📅 2026-08-29 - 🥰 Building AI-based conversational avatars lightning fast ⚡️💬
 * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) ⭐ 651 | 🐛 1 | 🌐 Python | 📅 2026-08-20 - A Telegram bot with a smooth AI experience.
 * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) ⭐ 648 | 🐛 14 | 🌐 Python | 📅 2023-12-29 - Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based
 * [gpt-home](https://github.com/judahpaul16/gpt-home) ⭐ 647 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.
@@ -657,9 +657,9 @@ Run these two commands inside Claude Code:
 * [chaty](https://github.com/cosin2077/chaty) ⭐ 443 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-06 - one line code, satisfied all your ChatGPT imagination✨✨✨
 * [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) ⭐ 440 | 🐛 19 | 🌐 Python | 📅 2024-10-23 - An open-source implementation for training LLaVA-NeXT.
 * [rusty\_llama](https://github.com/moonkraken/rusty_llama) ⭐ 437 | 🐛 7 | 🌐 Rust | 📅 2024-02-29 - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
+* [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) ⭐ 430 | 🐛 16 | 🌐 TypeScript | 📅 2024-10-24 - An open source platform for building chatbot using the OpenAI API Assistant.
+* [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) ⭐ 430 | 🐛 16 | 🌐 TypeScript | 📅 2024-10-24 - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) ⭐ 430 | 🐛 30 | 🌐 Python | 📅 2026-03-23 - Integrate AI Assistants with Django to build intelligent applications
-* [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) ⭐ 429 | 🐛 16 | 🌐 TypeScript | 📅 2024-10-24 - An open source platform for building chatbot using the OpenAI API Assistant.
-* [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) ⭐ 429 | 🐛 16 | 🌐 TypeScript | 📅 2024-10-24 - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) ⭐ 422 | 🐛 19 | 🌐 Java | 📅 2025-01-18 - ❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧
 * [OPERA](https://github.com/shikiw/opera) ⭐ 415 | 🐛 8 | 🌐 Python | 📅 2024-08-24 - \[CVPR 2024 Highlight] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) ⭐ 402 | 🐛 0 | 🌐 Python | 📅 2026-06-18 - A dynamic, scalable AI chatbot built with Django REST framework, supporting custom training from PDFs, documents, websites, and YouTube videos. Leveraging OpenAI's GPT-3.5, Pinecone, FAISS, and Celery for seamless integration and performance.
@@ -780,41 +780,41 @@ Run these two commands inside Claude Code:
 
 ## Browser-extensions
 
-* [dify](https://github.com/langgenius/dify) ⭐ 153,780 | 🐛 976 | 🌐 TypeScript | 📅 2026-08-29 - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
-* [browser-use](https://github.com/gregpr07/browser-use) ⭐ 111,589 | 🐛 386 | 🌐 Python | 📅 2026-08-29 - Open-Source Web Automation library with any LLM
-* [browser-use](https://github.com/browser-use/browser-use) ⭐ 111,589 | 🐛 386 | 🌐 Python | 📅 2026-08-29 - Make websites accessible for AI agents
+* [dify](https://github.com/langgenius/dify) ⭐ 153,787 | 🐛 977 | 🌐 TypeScript | 📅 2026-08-29 - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
+* [browser-use](https://github.com/gregpr07/browser-use) ⭐ 111,594 | 🐛 386 | 🌐 Python | 📅 2026-08-29 - Open-Source Web Automation library with any LLM
+* [browser-use](https://github.com/browser-use/browser-use) ⭐ 111,594 | 🐛 386 | 🌐 Python | 📅 2026-08-29 - Make websites accessible for AI agents
 * [pake](https://github.com/tw93/pake#popular-packages) ⭐ 61,113 | 🐛 1 | 🌐 Rust | 📅 2026-08-28 - The chrome-extension of 900Month is built by AngularJS.
-* [LibreChat](https://github.com/danny-avila/librechat) ⭐ 42,575 | 🐛 734 | 🌐 TypeScript | 📅 2026-08-28 - Enhanced ChatGPT Clone: Features OpenAI, AI/ML API, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+* [LibreChat](https://github.com/danny-avila/librechat) ⭐ 42,577 | 🐛 734 | 🌐 TypeScript | 📅 2026-08-28 - Enhanced ChatGPT Clone: Features OpenAI, AI/ML API, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 * [textual](https://github.com/textualize/textual) ⭐ 37,077 | 🐛 352 | 🌐 Python | 📅 2026-07-11 - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 * [AgentGPT](https://github.com/reworkd/agentgpt) ⚠️ Archived - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-* [continue](https://github.com/continuedev/continue) ⭐ 35,667 | 🐛 944 | 🌐 TypeScript | 📅 2026-08-28 - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
+* [continue](https://github.com/continuedev/continue) ⭐ 35,668 | 🐛 944 | 🌐 TypeScript | 📅 2026-08-28 - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
 * [linkedIn\_auto\_jobs\_applier\_with\_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) ⭐ 30,270 | 🐛 28 | 🌐 Python | 📅 2026-08-19 - LinkedIn\_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
 * [Auto\_Jobs\_Applier\_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) ⭐ 30,270 | 🐛 28 | 🌐 Python | 📅 2026-08-19 - Auto\_Jobs\_Applier\_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
 * [Auto\_Jobs\_Applier](https://github.com/aihawk-app/auto_jobs_applier) ⭐ 30,270 | 🐛 28 | 🌐 Python | 📅 2026-08-19 - Auto\_Jobs\_Applier\_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 * [Auto\_Jobs\_Applier](https://github.com/aihawk-co/auto_jobs_applier) ⭐ 30,270 | 🐛 28 | 🌐 Python | 📅 2026-08-19 - Auto\_Jobs\_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 * [Auto\_Jobs\_Applier\_AI\_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) ⭐ 30,270 | 🐛 28 | 🌐 Python | 📅 2026-08-19 - Auto\_Jobs\_Applier\_AI\_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 * [Jobs\_Applier\_AI\_Agent\_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) ⭐ 30,270 | 🐛 28 | 🌐 Python | 📅 2026-08-19 - Jobs\_Applier\_AI\_Agent\_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
-* [supermemory](https://github.com/dhravya/supermemory) ⭐ 29,124 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-29 - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-* [supermemory](https://github.com/supermemoryai/supermemory) ⭐ 29,124 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-29 - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-* [oh-my-pi](https://github.com/can1357/oh-my-pi) ⭐ 28,157 | 🐛 1,927 | 🌐 TypeScript | 📅 2026-08-29 - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-* [claude-skills](https://github.com/alirezarezvani/claude-skills) ⭐ 25,166 | 🐛 7 | 🌐 Python | 📅 2026-08-26 - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+* [supermemory](https://github.com/dhravya/supermemory) ⭐ 29,126 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-29 - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+* [supermemory](https://github.com/supermemoryai/supermemory) ⭐ 29,126 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-29 - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+* [oh-my-pi](https://github.com/can1357/oh-my-pi) ⭐ 28,165 | 🐛 1,933 | 🌐 TypeScript | 📅 2026-08-29 - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+* [claude-skills](https://github.com/alirezarezvani/claude-skills) ⭐ 25,170 | 🐛 7 | 🌐 Python | 📅 2026-08-26 - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
 * [openai-translator](https://github.com/yetone/openai-translator) ⭐ 24,973 | 🐛 525 | 🌐 TypeScript | 📅 2026-08-23 - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 * [openai-translator](https://github.com/openai-translator/openai-translator) ⭐ 24,973 | 🐛 525 | 🌐 TypeScript | 📅 2026-08-23 - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 * [nextai-translator](https://github.com/nextai-translator/nextai-translator) ⭐ 24,973 | 🐛 525 | 🌐 TypeScript | 📅 2026-08-23 - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-* [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) ⭐ 24,656 | 🐛 98 | 🌐 TypeScript | 📅 2026-08-28 - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+* [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) ⭐ 24,659 | 🐛 95 | 🌐 TypeScript | 📅 2026-08-29 - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) ⭐ 21,217 | 🐛 269 | 🌐 Python | 📅 2024-07-04 - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) ⭐ 21,217 | 🐛 269 | 🌐 Python | 📅 2024-07-04 - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-* [voyager](https://github.com/nagi-ovo/voyager) ⭐ 19,873 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。
+* [voyager](https://github.com/nagi-ovo/voyager) ⭐ 19,875 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。
 * [web-llm](https://github.com/mlc-ai/web-llm) ⭐ 18,611 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-04 - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 * [transformers.js](https://github.com/xenova/transformers.js) ⭐ 16,277 | 🐛 274 | 🌐 JavaScript | 📅 2026-08-28 - Run 🤗 Transformers in your browser!
-* [nanobrowser](https://github.com/nanobrowser/nanobrowser) ⭐ 13,693 | 🐛 78 | 🌐 TypeScript | 📅 2026-08-18 - Open-source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+* [nanobrowser](https://github.com/nanobrowser/nanobrowser) ⭐ 13,694 | 🐛 78 | 🌐 TypeScript | 📅 2026-08-18 - Open-source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 * [BrowserOS](https://github.com/browseros-ai/browseros) ⭐ 13,386 | 🐛 87 | 🌐 TypeScript | 📅 2026-08-27 - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
 * [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,051 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14 - Free 3DS Primary Entrypoint <=11.2
 * [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) ⭐ 13,051 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14 - A browser extension that enhance search engines with ChatGPT
 * [chatGPTBox](https://github.com/josstorer/chatgptbox) ⭐ 10,757 | 🐛 207 | 🌐 JavaScript | 📅 2026-08-28 - Integrating ChatGPT into your browser deeply, everything you need is here
 * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) ⭐ 10,757 | 🐛 207 | 🌐 JavaScript | 📅 2026-08-28 - Integrating ChatGPT into your browser deeply, everything you need is here
-* [crawlee-python](https://github.com/apify/crawlee-python) ⭐ 9,472 | 🐛 94 | 🌐 Python | 📅 2026-08-28 - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
-* [read-frog](https://github.com/mengxi-ream/read-frog) ⭐ 9,372 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-28 - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+* [crawlee-python](https://github.com/apify/crawlee-python) ⭐ 9,473 | 🐛 94 | 🌐 Python | 📅 2026-08-28 - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+* [read-frog](https://github.com/mengxi-ream/read-frog) ⭐ 9,373 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-28 - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 * [simpread](https://github.com/kenshin/simpread) ⭐ 8,703 | 🐛 2,181 | 🌐 JavaScript | 📅 2026-04-29 - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 * [CopilotForXcode](https://github.com/intitni/copilotforxcode) ⭐ 8,224 | 🐛 36 | 🌐 Swift | 📅 2026-04-15 - The missing GitHub Copilot and ChatGPT Xcode Source Editor Extension
 * [nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) ⭐ 7,106 | 🐛 166 | 📅 2026-08-29 - 💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
@@ -869,7 +869,7 @@ Run these two commands inside Claude Code:
 * [zsh\_codex](https://github.com/tom-doerr/zsh_codex) ⭐ 1,734 | 🐛 22 | 🌐 Python | 📅 2025-03-22 - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) ⭐ 1,701 | 🐛 6 | 🌐 JavaScript | 📅 2024-06-18 - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features
 * [ChatGPT-pdf](https://github.com/liady/chatgpt-pdf) ⭐ 1,480 | 🐛 35 | 🌐 JavaScript | 📅 2023-04-12 - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
-* [ChatGPT](https://github.com/wieslawsoltes/chatgpt) ⭐ 1,480 | 🐛 7 | 🌐 C# | 📅 2024-12-30 - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.
+* [ChatGPT](https://github.com/wieslawsoltes/chatgpt) ⭐ 1,479 | 🐛 7 | 🌐 C# | 📅 2024-12-30 - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.
 * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) ⭐ 1,422 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-27 - Use ChatGPT instead of Google Assistant
 * [SwitchAI](https://github.com/wstxda/switchai) ⭐ 1,422 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-27 - Easily select, start, and manage your preferred AI digital assistant
 * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) ⭐ 1,418 | 🐛 6 | 🌐 Python | 📅 2026-05-27 - A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.
@@ -890,9 +890,9 @@ Run these two commands inside Claude Code:
 * [zotero-mcp](https://github.com/cookjohn/zotero-mcp) ⭐ 1,110 | 🐛 35 | 🌐 TypeScript | 📅 2026-06-11 - Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP.
 * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) ⭐ 1,084 | 🐛 36 | 🌐 TypeScript | 📅 2026-02-18 - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
 * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) ⭐ 1,078 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04 - 云崽qq机器人的chatgpt插件
-* [raycast-g4f](https://github.com/xinthedark/raycast-g4f) ⭐ 1,077 | 🐛 20 | 🌐 JavaScript | 📅 2025-12-20 - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
+* [raycast-g4f](https://github.com/xinthedark/raycast-g4f) ⭐ 1,078 | 🐛 20 | 🌐 JavaScript | 📅 2025-12-20 - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
 * [PotPlayer\_ChatGPT\_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) ⭐ 1,029 | 🐛 3 | 🌐 C++ | 📅 2026-08-25 - 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。 This real-time subtitle translation plugin integrates OpenAI's ChatGPT API (or any model with the same API calling method) into PotPlayer. It enables you to translate subtitles on-the-fly while watching videos.
-* [ophel](https://github.com/urzeye/ophel) ⭐ 984 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-28 - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
+* [ophel](https://github.com/urzeye/ophel) ⭐ 986 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-28 - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 * [agentsys](https://github.com/avifenesh/agentsys) ⭐ 974 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-27 - AI writes code. This automates everything else · 13 plugins · 42 agents · 28 skills · for Claude Code, OpenCode, Codex.
 * [agentsys](https://github.com/agent-sh/agentsys) ⭐ 974 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-27 - AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex, cursor, kiro.
 * [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) ⭐ 936 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-25 - A useful plugin for the ChatGPT web platform, focusing on long conversation browsing, exporting, searching, prompt management, and timeline navigation. 🚀||优化ChatGPT长会话卡顿，聊天记录一键导出，消息搜索跳转，会话管理，prompt管理和时间线导航
@@ -900,7 +900,7 @@ Run these two commands inside Claude Code:
 * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) ⭐ 886 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-24 - AI workflow automation plugin for intelligent code generation with Claude/Codex
 * [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt) ⭐ 866 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-11 - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) ⭐ 850 | 🐛 40 | 🌐 Kotlin | 📅 2026-08-25 - AI Commits for IntelliJ based IDEs/Android Studio.
-* [agent-sessions](https://github.com/jazzyalex/agent-sessions) ⭐ 819 | 🐛 1 | 🌐 Swift | 📅 2026-08-28 - Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.
+* [agent-sessions](https://github.com/jazzyalex/agent-sessions) ⭐ 819 | 🐛 1 | 🌐 Swift | 📅 2026-08-29 - Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.
 * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) ⭐ 813 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-01 - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) ⭐ 791 | 🐛 7 | 🌐 Lua | 📅 2026-08-24 - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.
 * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) ⭐ 786 | 🐛 5 | 🌐 Python | 📅 2024-07-16 - A starting point for developing your own plug-in for Auto-GPT
@@ -1039,77 +1039,77 @@ Run these two commands inside Claude Code:
 
 ## CLIs
 
-* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,178 | 🐛 257 | 📅 2024-06-25 - Master the command line, in one page
-* [ollama-webui](https://github.com/ollama-webui/ollama-webui) ⭐ 150,255 | 🐛 225 | 🌐 Python | 📅 2026-08-29 - ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙
-* [cc-switch](https://github.com/farion1231/cc-switch) ⭐ 129,940 | 🐛 2,523 | 🌐 Rust | 📅 2026-08-28 - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-* [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) ⭐ 118,183 | 🐛 12 | 🌐 Python | 📅 2026-08-28 - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-* [graphify](https://github.com/safishamsi/graphify) ⭐ 112,026 | 🐛 1,158 | 🌐 Python | 📅 2026-08-28 - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
-* [open-design](https://github.com/nexu-io/open-design) ⭐ 92,418 | 🐛 905 | 📅 2026-08-29 - Kimi CLI.
-* [ChatGPT-Next-Web](https://github.com/yidadaa/chatgpt-next-web) ⭐ 88,659 | 🐛 853 | 🌐 TypeScript | 📅 2026-08-11 - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
-* [OpenHands](https://github.com/all-hands-ai/openhands) ⭐ 85,477 | 🐛 604 | 🌐 TypeScript | 📅 2026-08-28 - 🙌 OpenHands: Code Less, Make More
-* [lobe-chat](https://github.com/lobehub/lobe-chat) ⭐ 82,077 | 🐛 833 | 🌐 TypeScript | 📅 2026-08-29 - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
-* [Understand-Anything](https://github.com/lum1104/understand-anything) ⭐ 80,887 | 🐛 292 | 🌐 TypeScript | 📅 2026-08-26 - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-* [open-interpreter](https://github.com/killianlucas/open-interpreter) ⭐ 68,175 | 🐛 8 | 🌐 Rust | 📅 2026-08-20 - OpenAI's Code Interpreter in your terminal, running locally
-* [orca](https://github.com/stablyai/orca) ⭐ 56,235 | 🐛 4,802 | 🌐 TypeScript | 📅 2026-08-29 - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,179 | 🐛 257 | 📅 2024-06-25 - Master the command line, in one page
+* [ollama-webui](https://github.com/ollama-webui/ollama-webui) ⭐ 150,265 | 🐛 226 | 🌐 Python | 📅 2026-08-29 - ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙
+* [cc-switch](https://github.com/farion1231/cc-switch) ⭐ 129,951 | 🐛 2,524 | 🌐 Rust | 📅 2026-08-28 - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+* [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) ⭐ 118,218 | 🐛 12 | 🌐 Python | 📅 2026-08-28 - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+* [graphify](https://github.com/safishamsi/graphify) ⭐ 112,061 | 🐛 1,165 | 🌐 Python | 📅 2026-08-28 - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+* [open-design](https://github.com/nexu-io/open-design) ⭐ 92,438 | 🐛 905 | 📅 2026-08-29 - Kimi CLI.
+* [ChatGPT-Next-Web](https://github.com/yidadaa/chatgpt-next-web) ⭐ 88,662 | 🐛 853 | 🌐 TypeScript | 📅 2026-08-11 - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
+* [OpenHands](https://github.com/all-hands-ai/openhands) ⭐ 85,481 | 🐛 604 | 🌐 TypeScript | 📅 2026-08-28 - 🙌 OpenHands: Code Less, Make More
+* [lobe-chat](https://github.com/lobehub/lobe-chat) ⭐ 82,078 | 🐛 835 | 🌐 TypeScript | 📅 2026-08-29 - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
+* [Understand-Anything](https://github.com/lum1104/understand-anything) ⭐ 80,897 | 🐛 293 | 🌐 TypeScript | 📅 2026-08-26 - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+* [open-interpreter](https://github.com/killianlucas/open-interpreter) ⭐ 68,177 | 🐛 8 | 🌐 Rust | 📅 2026-08-20 - OpenAI's Code Interpreter in your terminal, running locally
+* [orca](https://github.com/stablyai/orca) ⭐ 56,289 | 🐛 4,809 | 🌐 TypeScript | 📅 2026-08-29 - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.
 * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) ⚠️ Archived - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from <https://gptengineer.app>
-* [cherry-studio](https://github.com/cherryhq/cherry-studio) ⭐ 51,203 | 🐛 1,460 | 🌐 TypeScript | 📅 2026-08-29 - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+* [cherry-studio](https://github.com/cherryhq/cherry-studio) ⭐ 51,207 | 🐛 1,456 | 🌐 TypeScript | 📅 2026-08-29 - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) ⭐ 49,079 | 🐛 480 | 🌐 Go | 📅 2026-08-28 - Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
-* [aider](https://github.com/paul-gauthier/aider) ⭐ 48,560 | 🐛 1,833 | 🌐 Python | 📅 2026-05-22 - aider is GPT powered coding in your terminal
-* [aider](https://github.com/aider-ai/aider) ⭐ 48,560 | 🐛 1,833 | 🌐 Python | 📅 2026-05-22 - aider is AI pair programming in your terminal
+* [aider](https://github.com/paul-gauthier/aider) ⭐ 48,561 | 🐛 1,833 | 🌐 Python | 📅 2026-05-22 - aider is GPT powered coding in your terminal
+* [aider](https://github.com/aider-ai/aider) ⭐ 48,561 | 🐛 1,833 | 🌐 Python | 📅 2026-05-22 - aider is AI pair programming in your terminal
 * [chatbox](https://github.com/chatboxai/chatbox) ⭐ 41,600 | 🐛 1,253 | 🌐 TypeScript | 📅 2026-08-14 - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-* [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) ⭐ 36,454 | 🐛 147 | 🌐 Python | 📅 2026-08-29 - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
-* [herdr](https://github.com/ogulcancelik/herdr) ⭐ 33,218 | 🐛 254 | 🌐 Rust | 📅 2026-08-28 - agent multiplexer that lives in your terminal.
-* [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) ⭐ 32,894 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-28 - OmX - Oh My Codex: Power tools for OpenAI Codex CLI
-* [AionUi](https://github.com/iofficeai/aionui) ⭐ 32,385 | 🐛 861 | 🌐 TypeScript | 📅 2026-08-28 - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
-* [openclaude](https://github.com/gitlawb/openclaude) ⭐ 30,867 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-27 - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+* [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) ⭐ 36,456 | 🐛 147 | 🌐 Python | 📅 2026-08-29 - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+* [herdr](https://github.com/ogulcancelik/herdr) ⭐ 33,226 | 🐛 255 | 🌐 Rust | 📅 2026-08-28 - agent multiplexer that lives in your terminal.
+* [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) ⭐ 32,895 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-28 - OmX - Oh My Codex: Power tools for OpenAI Codex CLI
+* [AionUi](https://github.com/iofficeai/aionui) ⭐ 32,386 | 🐛 861 | 🌐 TypeScript | 📅 2026-08-28 - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+* [openclaude](https://github.com/gitlawb/openclaude) ⭐ 30,869 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-27 - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 * [Chat2DB](https://github.com/chat2db/chat2db) ⭐ 28,049 | 🐛 262 | 🌐 Java | 📅 2026-08-28 - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 * [Chat2DB](https://github.com/codephiliax/chat2db) ⭐ 28,049 | 🐛 262 | 🌐 Java | 📅 2026-08-28 - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 * [Chat2DB](https://github.com/ottermind/chat2db) ⭐ 28,049 | 🐛 262 | 🌐 Java | 📅 2026-08-28 - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 * [ChatGPT](https://github.com/acheong08/chatgpt) ⚠️ Archived - Reverse engineered ChatGPT API
-* [kilocode](https://github.com/kilo-org/kilocode) ⭐ 27,056 | 🐛 582 | 🌐 TypeScript | 📅 2026-08-28 - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-* [cmux](https://github.com/manaflow-ai/cmux) ⭐ 26,557 | 🐛 4,637 | 🌐 Swift | 📅 2026-08-29 - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-* [notebooklm-py](https://github.com/teng-lin/notebooklm-py) ⭐ 18,987 | 🐛 32 | 🌐 Python | 📅 2026-08-28 - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
-* [jcode](https://github.com/1jehuang/jcode) ⭐ 18,756 | 🐛 360 | 🌐 Rust | 📅 2026-08-28 - Coding Agent Harness
+* [kilocode](https://github.com/kilo-org/kilocode) ⭐ 27,056 | 🐛 583 | 🌐 TypeScript | 📅 2026-08-28 - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+* [cmux](https://github.com/manaflow-ai/cmux) ⭐ 26,558 | 🐛 4,638 | 🌐 Swift | 📅 2026-08-29 - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+* [notebooklm-py](https://github.com/teng-lin/notebooklm-py) ⭐ 18,990 | 🐛 32 | 🌐 Python | 📅 2026-08-28 - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+* [jcode](https://github.com/1jehuang/jcode) ⭐ 18,756 | 🐛 359 | 🌐 Rust | 📅 2026-08-29 - Coding Agent Harness
 * [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) ⚠️ Archived - Node.js client for the official ChatGPT API. 🔥
 * [WrenAI](https://github.com/canner/wrenai) ⭐ 17,418 | 🐛 324 | 🌐 Python | 📅 2026-08-28 - 🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀
 * [plandex](https://github.com/plandex-ai/plandex) ⭐ 15,597 | 🐛 62 | 🌐 Go | 📅 2025-10-03 - AI driven development in your terminal. Designed for large, real-world tasks.
-* [paseo](https://github.com/getpaseo/paseo) ⭐ 15,356 | 🐛 1,122 | 🌐 TypeScript | 📅 2026-08-28 - Orchestrate coding agents remotely from your phone, desktop and CLI
-* [cc-connect](https://github.com/chenhg5/cc-connect) ⭐ 15,240 | 🐛 545 | 🌐 Go | 📅 2026-08-29 - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
+* [paseo](https://github.com/getpaseo/paseo) ⭐ 15,359 | 🐛 1,127 | 🌐 TypeScript | 📅 2026-08-28 - Orchestrate coding agents remotely from your phone, desktop and CLI
+* [cc-connect](https://github.com/chenhg5/cc-connect) ⭐ 15,241 | 🐛 545 | 🌐 Go | 📅 2026-08-29 - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 * [unity-mcp](https://github.com/coplaydev/unity-mcp) ⭐ 13,732 | 🐛 97 | 🌐 C# | 📅 2026-08-07 - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
-* [superset](https://github.com/superset-sh/superset) ⭐ 13,470 | 🐛 579 | 🌐 TypeScript | 📅 2026-08-29 - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-* [opencodex](https://github.com/lidge-jun/opencodex) ⭐ 12,457 | 🐛 100 | 🌐 TypeScript | 📅 2026-08-29 - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
+* [superset](https://github.com/superset-sh/superset) ⭐ 13,470 | 🐛 580 | 🌐 TypeScript | 📅 2026-08-29 - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+* [opencodex](https://github.com/lidge-jun/opencodex) ⭐ 12,463 | 🐛 95 | 🌐 TypeScript | 📅 2026-08-29 - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 * [code-context](https://github.com/zilliztech/code-context) ⭐ 12,454 | 🐛 144 | 🌐 TypeScript | 📅 2026-07-14 - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
 * [claude-context](https://github.com/zilliztech/claude-context) ⭐ 12,454 | 🐛 144 | 🌐 TypeScript | 📅 2026-07-14 - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
 * [shell\_gpt](https://github.com/ther1d/shell_gpt) ⭐ 12,261 | 🐛 120 | 🌐 Python | 📅 2026-07-02 - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 * [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) ⭐ 11,727 | 🐛 138 | 🌐 Python | 📅 2025-12-15 - All Of The Above] working as one.
 * [chathub](https://github.com/chathub-dev/chathub) ⭐ 10,648 | 🐛 17 | 🌐 TypeScript | 📅 2026-02-27 - All-in-one chatbot client
-* [aichat](https://github.com/sigoden/aichat) ⭐ 10,402 | 🐛 99 | 🌐 Rust | 📅 2026-02-23 - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
+* [aichat](https://github.com/sigoden/aichat) ⭐ 10,404 | 🐛 99 | 🌐 Rust | 📅 2026-02-23 - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 * [claurst](https://github.com/kuberwastaken/claurst) ⭐ 10,279 | 🐛 30 | 🌐 Rust | 📅 2026-08-22 - Agentic Coding for Builders who Ship
-* [codex-security](https://github.com/openai/codex-security) ⭐ 10,247 | 🐛 194 | 🌐 TypeScript | 📅 2026-08-29 - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: <https://www.npmjs.com/package/@openai/codex-security>
+* [codex-security](https://github.com/openai/codex-security) ⭐ 10,248 | 🐛 194 | 🌐 TypeScript | 📅 2026-08-29 - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: <https://www.npmjs.com/package/@openai/codex-security>
 * [codeburn](https://github.com/getagentseal/codeburn) ⭐ 9,708 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-28 - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 * [aicommits](https://github.com/nutlope/aicommits) ⭐ 9,094 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-14 - A CLI that writes your git commit messages for you with AI
 * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) ⭐ 8,700 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-26 - AIClient2API：模拟Gemini CLI和Kiro 客户端请求，兼容OpenAI API。可每日千次Gemini模型请求， 免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！
-* [plannotator](https://github.com/backnotprop/plannotator) ⭐ 8,187 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-28 - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+* [plannotator](https://github.com/backnotprop/plannotator) ⭐ 8,191 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-29 - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 * [Chat2DB](https://github.com/alibaba/chat2db) ⚠️ Archived - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 * [forge](https://github.com/antinomyhq/forge) ⭐ 7,583 | 🐛 43 | 🌐 Rust | 📅 2026-08-26 - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * [forgecode](https://github.com/antinomyhq/forgecode) ⭐ 7,583 | 🐛 43 | 🌐 Rust | 📅 2026-08-26 - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * [forgecode](https://github.com/tailcallhq/forgecode) ⭐ 7,583 | 🐛 43 | 🌐 Rust | 📅 2026-08-26 - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * [opencommit](https://github.com/di-sukharev/opencommit) ⭐ 7,527 | 🐛 150 | 🌐 JavaScript | 📅 2026-08-25 - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
-* [worktrunk](https://github.com/max-sixty/worktrunk) ⭐ 6,733 | 🐛 39 | 🌐 Rust | 📅 2026-08-29 - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+* [worktrunk](https://github.com/max-sixty/worktrunk) ⭐ 6,733 | 🐛 41 | 🌐 Rust | 📅 2026-08-29 - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) ⭐ 6,491 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-02 - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \ Own your own ChatGPT+Midjourney web service with one click
 * [ChatGPTs](https://github.com/licoy/chatgpts) ⭐ 6,491 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-02 - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services
 * [ChatAny](https://github.com/licoy/chatany) ⭐ 6,491 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-02 - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 * [ChatAny](https://github.com/chatanyteam/chatany) ⭐ 6,491 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-02 - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
-* [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) ⭐ 6,196 | 🐛 41 | 🌐 TypeScript | 📅 2026-05-04 - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
+* [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) ⭐ 6,197 | 🐛 41 | 🌐 TypeScript | 📅 2026-05-04 - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
 * [sqlchat](https://github.com/sqlchat/sqlchat) ⭐ 5,846 | 🐛 24 | 🌐 TypeScript | 📅 2026-04-21 - Chat-based SQL Client and Editor for the next decade
 * [client](https://github.com/openai-php/client) ⭐ 5,829 | 🐛 27 | 🌐 PHP | 📅 2026-08-18 - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 * [emdash](https://github.com/generalaction/emdash) ⭐ 5,527 | 🐛 202 | 🌐 TypeScript | 📅 2026-08-29 - Emdash is an orchestration layer for running multiple coding agents in parallel in isolated Git worktrees
 * [ai-shell](https://github.com/builderio/ai-shell) ⭐ 5,286 | 🐛 75 | 🌐 TypeScript | 📅 2026-01-05 - A CLI that converts natural language to shell commands.
 * [PasteMD](https://github.com/richqaq/pastemd) ⭐ 5,230 | 🐛 28 | 🌐 Python | 📅 2026-08-24 - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
-* [gcli2api](https://github.com/su-kaka/gcli2api) ⭐ 5,102 | 🐛 10 | 🌐 Python | 📅 2026-08-28 - 将 GeminiCLI 转换为 OpenAI 和 GEMINI API 接口
+* [gcli2api](https://github.com/su-kaka/gcli2api) ⭐ 5,103 | 🐛 10 | 🌐 Python | 📅 2026-08-28 - 将 GeminiCLI 转换为 OpenAI 和 GEMINI API 接口
 * [openai-java](https://github.com/theokanning/openai-java) ⚠️ Archived - OpenAI GPT-3 Api Client in Java
-* [gptme](https://github.com/gptme/gptme) ⭐ 4,401 | 🐛 34 | 🌐 Python | 📅 2026-08-29 - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
-* [gptme](https://github.com/erikbjare/gptme) ⭐ 4,401 | 🐛 34 | 🌐 Python | 📅 2026-08-29 - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
+* [gptme](https://github.com/gptme/gptme) ⭐ 4,401 | 🐛 35 | 🌐 Python | 📅 2026-08-29 - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+* [gptme](https://github.com/erikbjare/gptme) ⭐ 4,401 | 🐛 35 | 🌐 Python | 📅 2026-08-29 - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
 * [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) ⭐ 4,184 | 🐛 36 | 🌐 Python | 📅 2026-07-19 - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 * [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) ⭐ 4,152 | 🐛 58 | 🌐 JavaScript | 📅 2024-01-27 - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) ⭐ 3,995 | 🐛 8 | 📅 2026-08-26 - Every front-end GUI client for ChatGPT
@@ -1118,21 +1118,21 @@ Run these two commands inside Claude Code:
 * [laravel](https://github.com/openai-php/laravel) ⭐ 3,751 | 🐛 13 | 🌐 PHP | 📅 2026-07-27 - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 * [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) ⭐ 3,716 | 🐛 3 | 🌐 Python | 📅 2026-08-14 - API for interacting with ChatGPT and GPT4 using Python and from Shell.
 * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) ⭐ 3,716 | 🐛 3 | 🌐 Python | 📅 2026-08-14 - Power CLI and Workflow manager for LLMs (core package)
-* [lean-ctx](https://github.com/yvgude/lean-ctx) ⭐ 3,671 | 🐛 25 | 🌐 Rust | 📅 2026-08-28 - The Context OS for AI Development. Reduce token waste in Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini & more by 60–95% (up to 99% on cached reads) Shell Hook + MCP Server · 49 tools · 10 read modes · 90+ patterns · Single Rust binary
+* [lean-ctx](https://github.com/yvgude/lean-ctx) ⭐ 3,672 | 🐛 26 | 🌐 Rust | 📅 2026-08-28 - The Context OS for AI Development. Reduce token waste in Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini & more by 60–95% (up to 99% on cached reads) Shell Hook + MCP Server · 49 tools · 10 read modes · 90+ patterns · Single Rust binary
 * [gptel](https://github.com/karthink/gptel) ⭐ 3,505 | 🐛 184 | 🌐 Emacs Lisp | 📅 2026-08-27 - A simple LLM client for Emacs
 * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) ⭐ 3,468 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
 * [chatgpt-java](https://github.com/grt1228/chatgpt-java) ⭐ 3,422 | 🐛 73 | 🌐 Java | 📅 2024-08-08 - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
 * [nexu](https://github.com/nexu-io/nexu) ⭐ 3,259 | 🐛 223 | 🌐 TypeScript | 📅 2026-04-26 - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.
 * [tgpt](https://github.com/aandrew-me/tgpt) ⭐ 3,253 | 🐛 8 | 🌐 Go | 📅 2026-08-24 - ChatGPT in terminal without needing API keys
 * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ⭐ 3,151 | 🐛 149 | 🌐 Rust | 📅 2026-08-28 - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-* [claude-tap](https://github.com/liaohch3/claude-tap) ⭐ 3,141 | 🐛 33 | 🌐 Python | 📅 2026-08-26 - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.
-* [EchoBird](https://github.com/edison7009/echobird) ⭐ 3,139 | 🐛 355 | 🌐 Rust | 📅 2026-08-28 - One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,Claude Desktop (3P profile),ChatGPT desktop,OpenCode Desktop,WorkBuddy (Tencent CodeBuddy).
+* [claude-tap](https://github.com/liaohch3/claude-tap) ⭐ 3,142 | 🐛 33 | 🌐 Python | 📅 2026-08-26 - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.
+* [EchoBird](https://github.com/edison7009/echobird) ⭐ 3,139 | 🐛 355 | 🌐 Rust | 📅 2026-08-29 - One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,Claude Desktop (3P profile),ChatGPT desktop,OpenCode Desktop,WorkBuddy (Tencent CodeBuddy).
 * [google\_workspace\_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ⭐ 3,082 | 🐛 186 | 🌐 Python | 📅 2026-08-28 - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
-* [codeg](https://github.com/xintaofei/codeg) ⭐ 3,041 | 🐛 196 | 🌐 Rust | 📅 2026-08-29 - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.
+* [codeg](https://github.com/xintaofei/codeg) ⭐ 3,043 | 🐛 195 | 🌐 Rust | 📅 2026-08-29 - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.
 * [README-AI](https://github.com/eli64s/readme-ai) ⭐ 2,980 | 🐛 58 | 🌐 Python | 📅 2026-08-26 - 🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫
 * [Queryable](https://github.com/mazzzystar/queryable) ⭐ 2,978 | 🐛 14 | 🌐 Swift | 📅 2026-03-29 - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
 * [Codex-Manager](https://github.com/qxcnm/codex-manager) ⭐ 2,942 | 🐛 16 | 🌐 Rust | 📅 2026-08-27 - 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。
-* [lumen](https://github.com/jnsahaj/lumen) ⭐ 2,798 | 🐛 69 | 🌐 Rust | 📅 2026-07-16 - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
+* [lumen](https://github.com/jnsahaj/lumen) ⭐ 2,801 | 🐛 69 | 🌐 Rust | 📅 2026-07-16 - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
 * [gonzo](https://github.com/control-theory/gonzo) ⭐ 2,756 | 🐛 18 | 🌐 Go | 📅 2026-07-15 - Gonzo! The Go based TUI log analysis tool
 * [chatblade](https://github.com/npiv/chatblade) ⭐ 2,590 | 🐛 20 | 🌐 Python | 📅 2026-02-02 - A CLI Swiss Army Knife for ChatGPT
 * [story-flicks](https://github.com/alecm20/story-flicks) ⭐ 2,525 | 🐛 24 | 🌐 Python | 📅 2025-03-12 - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
@@ -1145,7 +1145,7 @@ Run these two commands inside Claude Code:
 * [openrelay](https://github.com/romgx/openrelay) ⭐ 2,292 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-12 - 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
 * [muxy](https://github.com/muxy-app/muxy) ⭐ 2,220 | 🐛 47 | 🌐 Swift | 📅 2026-08-28 - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) ⭐ 2,183 | 🐛 16 | 🌐 Rust | 📅 2026-02-21 - Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run.
-* [engshell](https://github.com/emcf/engshell) ⭐ 2,148 | 🐛 4 | 🌐 Python | 📅 2026-02-07 - An English-language shell for any OS, powered by LLMs
+* [engshell](https://github.com/emcf/engshell) ⭐ 2,147 | 🐛 4 | 🌐 Python | 📅 2026-02-07 - An English-language shell for any OS, powered by LLMs
 * [ai-renamer](https://github.com/ozgrozer/ai-renamer) ⭐ 2,111 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-09 - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) ⚠️ Archived - 🤖 A powerful client-side JavaScript library for ChatGPT
 * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) ⭐ 2,028 | 🐛 6 | 🌐 JavaScript | 📅 2025-06-13 - **A free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**
@@ -1157,16 +1157,16 @@ Run these two commands inside Claude Code:
 * [snapai](https://github.com/betomoedano/snapai) ⭐ 1,923 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-20 - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
 * [openai-kotlin](https://github.com/aallam/openai-kotlin) ⭐ 1,838 | 🐛 81 | 🌐 Kotlin | 📅 2026-02-07 - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
 * [zeroshot](https://github.com/covibes/zeroshot) ⭐ 1,798 | 🐛 87 | 🌐 JavaScript | 📅 2026-08-28 - Your autonomous engineering team in a CLI. Point Zeroshot at a GitHub issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, and Gemini CLI.
-* [agent-shell](https://github.com/xenodium/agent-shell) ⭐ 1,794 | 🐛 35 | 🌐 Emacs Lisp | 📅 2026-08-28 - A native Emacs buffer to interact with LLM agents powered by ACP
+* [agent-shell](https://github.com/xenodium/agent-shell) ⭐ 1,795 | 🐛 35 | 🌐 Emacs Lisp | 📅 2026-08-28 - A native Emacs buffer to interact with LLM agents powered by ACP
 * [subsai](https://github.com/absadiki/subsai) ⭐ 1,682 | 🐛 77 | 🌐 Python | 📅 2026-04-20 - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 * [chatgpt-ui](https://github.com/wongsaang/chatgpt-ui) ⭐ 1,625 | 🐛 100 | 🌐 Vue | 📅 2026-05-11 - A ChatGPT web client that supports multiple users, multiple database connections for persistent data storage, supports i18n. Provides Docker images and quick deployment scripts.
 * [plz-cli](https://github.com/m1guelpf/plz-cli) ⭐ 1,596 | 🐛 11 | 🌐 Rust | 📅 2024-01-19 - Copilot for your terminal
 * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) ⭐ 1,574 | 🐛 6 | 🌐 Dart | 📅 2026-05-29 - 一个基于小智、xiaozhi-server的Android、IOS语音对话应用,支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
-* [opencove](https://github.com/deadwavewave/opencove) ⭐ 1,569 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-28 - Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes.
-* [happier](https://github.com/happier-dev/happier) ⭐ 1,533 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-28 - Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted
+* [opencove](https://github.com/deadwavewave/opencove) ⭐ 1,569 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-29 - Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes.
+* [happier](https://github.com/happier-dev/happier) ⭐ 1,542 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-29 - Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted
 * [cz-git](https://github.com/zhengqbbb/cz-git) ⭐ 1,520 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
 * [CodeGPT](https://github.com/appleboy/codegpt) ⭐ 1,502 | 🐛 13 | 🌐 Go | 📅 2026-07-17 - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
-* [TokenTracker](https://github.com/mm7894215/tokentracker) ⭐ 1,449 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-29 - Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.
+* [TokenTracker](https://github.com/mm7894215/tokentracker) ⭐ 1,450 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-29 - Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.
 * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) ⭐ 1,344 | 🐛 13 | 🌐 Python | 📅 2026-02-14 - Whisper command line client compatible with original OpenAI client based on CTranslate2.
 * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) ⭐ 1,320 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - Give Claude Code, Cursor, Codex CLI a ChatGPT for your codebase. Multi-agent knowledge engine, grounded Q\&A with file paths and line numbers. Works in any AI IDE.
 * [uform](https://github.com/unum-cloud/uform) ⭐ 1,246 | 🐛 15 | 🌐 Python | 📅 2025-10-30 - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
@@ -1180,17 +1180,17 @@ Run these two commands inside Claude Code:
 * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) ⭐ 1,134 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-17 - my curated agent skills library
 * [coding\_agent\_session\_search](https://github.com/dicklesworthstone/coding_agent_session_search) ⭐ 1,094 | 🐛 22 | 🌐 Rust | 📅 2026-08-28 - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 * [snow-cli](https://github.com/mayday-wpf/snow-cli) ⭐ 1,062 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-25 - Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.
-* [ccpocket](https://github.com/k9i-0/ccpocket) ⭐ 1,047 | 🐛 13 | 🌐 Dart | 📅 2026-08-29 - Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
+* [ccpocket](https://github.com/k9i-0/ccpocket) ⭐ 1,047 | 🐛 15 | 🌐 Dart | 📅 2026-08-29 - Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
+* [bernstein](https://github.com/sipyourdrink-ltd/bernstein) ⭐ 1,026 | 🐛 141 | 🌐 Python | 📅 2026-08-29 - Deterministic orchestrator for 30+ CLI AI coding agents. Git worktree isolation, HMAC audit trail, MCP server mode.
 * [terminalGPT](https://github.com/jucasoliveira/terminalgpt) ⭐ 1,025 | 🐛 3 | 🌐 TypeScript | 📅 2025-02-26 - Get GPT like chatGPT on your terminal
-* [bernstein](https://github.com/sipyourdrink-ltd/bernstein) ⭐ 1,024 | 🐛 143 | 🌐 Python | 📅 2026-08-28 - Deterministic orchestrator for 30+ CLI AI coding agents. Git worktree isolation, HMAC audit trail, MCP server mode.
 * [arcade-ai](https://github.com/arcadeai/arcade-ai) ⭐ 1,010 | 🐛 25 | 🌐 Python | 📅 2026-08-27 - Arcade Python SDK, CLI, and toolkits
 * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) ⭐ 1,010 | 🐛 25 | 🌐 Python | 📅 2026-08-27 - Arcade Tool Development Kit (TDK), Worker, Evals, and CLI
-* [agents-radar](https://github.com/duanyytop/agents-radar) ⭐ 1,007 | 🐛 209 | 🌐 TypeScript | 📅 2026-08-28 - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions.
+* [agents-radar](https://github.com/duanyytop/agents-radar) ⭐ 1,010 | 🐛 151 | 🌐 TypeScript | 📅 2026-08-29 - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions.
 * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) ⚠️ Archived - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
-* [CliRelay](https://github.com/kittors/clirelay) ⭐ 967 | 🐛 27 | 🌐 Go | 📅 2026-08-29 - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
+* [CliRelay](https://github.com/kittors/clirelay) ⭐ 969 | 🐛 27 | 🌐 Go | 📅 2026-08-29 - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 * [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) ⭐ 953 | 🐛 3 | 🌐 Go | 📅 2026-07-31 - ChatGPT CLI is an advanced command-line interface for OpenAI's ChatGPT, offering streaming, query mode, and history tracking for seamless and context-aware conversations. Ideal for both users and developers, it provides advanced configuration and easy setup options to ensure a tailored conversational experience with the GPT model.
 * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) ⭐ 895 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-26 - Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers
-* [pocketpaw](https://github.com/pocketpaw/pocketpaw) ⭐ 877 | 🐛 141 | 🌐 Python | 📅 2026-08-28 - Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.
+* [pocketpaw](https://github.com/pocketpaw/pocketpaw) ⭐ 877 | 🐛 142 | 🌐 Python | 📅 2026-08-29 - Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.
 * [yai](https://github.com/ekkinox/yai) ⭐ 869 | 🐛 28 | 🌐 Go | 📅 2024-07-31 - Your AI powered terminal assistant.
 * [rust-genai](https://github.com/jeremychone/rust-genai) ⭐ 866 | 🐛 39 | 🌐 Rust | 📅 2026-08-18 - Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, xAI/Grok, Groq,Cohere, ...)
 * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) ⭐ 827 | 🐛 9 | 🌐 TypeScript | 📅 2025-12-11 - A minimalistic MCP client with a good feature set.
@@ -1238,7 +1238,7 @@ Run these two commands inside Claude Code:
 * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) ⭐ 416 | 🐛 36 | 🌐 TypeScript | 📅 2026-06-09 - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 * [TermGPT](https://github.com/sentdex/termgpt) ⭐ 413 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2023-07-20 - Giving LLMs like GPT-4 the ability to plan and execute terminal commands
 * [Nexior](https://github.com/acedatacloud/nexior) ⭐ 393 | 🐛 7 | 🌐 Vue | 📅 2026-08-29 - One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.
-* [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) ⭐ 389 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-10 - Efficient translation tool based on ChatGPT API
+* [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) ⭐ 390 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-10 - Efficient translation tool based on ChatGPT API
 * [Alice](https://github.com/greshake/alice) ⭐ 378 | 🐛 3 | 🌐 Python | 📅 2024-04-13 - Giving ChatGPT access to a real terminal
 * [codai](https://github.com/meysamhadeli/codai) ⭐ 377 | 🐛 4 | 🌐 Go | 📅 2025-08-29 - AI coding agent for your terminal.
 * [paperify](https://github.com/jstrieb/paperify) ⭐ 374 | 🐛 0 | 🌐 Shell | 📅 2023-09-06 - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
@@ -1353,12 +1353,12 @@ Run these two commands inside Claude Code:
 
 ## Tutorials
 
-* [Hello-Python](https://github.com/mouredev/hello-python) ⭐ 37,165 | 🐛 47 | 🌐 Python | 📅 2025-08-11 - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...
+* [Hello-Python](https://github.com/mouredev/hello-python) ⭐ 37,167 | 🐛 47 | 🌐 Python | 📅 2025-08-11 - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...
 * [RAG\_Techniques](https://github.com/nirdiamant/rag_techniques) ⭐ 29,264 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-08-28 - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
-* [easy-vibe](https://github.com/datawhalechina/easy-vibe) ⭐ 19,164 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-25 - Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
-* [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) ⭐ 16,735 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-11-23 - 《李宏毅深度学习教程》，PDF下载地址：<https://github.com/datawhalechina/leedl-tutorial/releases> ⭐ 16,735 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-11-23
-* [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) ⭐ 4,400 | 🐛 1 | 🌐 Python | 📅 2026-07-09 - Examples and tutorials to help developers build AI systems
-* [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) ⭐ 4,259 | 🐛 18 | 🌐 C | 📅 2026-07-26 - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
+* [easy-vibe](https://github.com/datawhalechina/easy-vibe) ⭐ 19,167 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-25 - Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
+* [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) ⭐ 16,736 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-11-23 - 《李宏毅深度学习教程》，PDF下载地址：<https://github.com/datawhalechina/leedl-tutorial/releases> ⭐ 16,736 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-11-23
+* [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) ⭐ 4,401 | 🐛 1 | 🌐 Python | 📅 2026-07-09 - Examples and tutorials to help developers build AI systems
+* [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) ⭐ 4,261 | 🐛 18 | 🌐 C | 📅 2026-07-26 - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) ⭐ 2,868 | 🐛 40 | 🌐 Python | 📅 2026-07-10 - Python hands on tutorial with 50+ Python Application (10 lines of code) @xiaowuc2
 * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) ⭐ 2,644 | 🐛 3 | 🌐 JavaScript | 📅 2025-09-24 - Node.js example app from the OpenAI API quickstart tutorial
 * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) ⭐ 2,570 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-02-17 - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
@@ -1377,99 +1377,99 @@ Run these two commands inside Claude Code:
 
 ## NLP
 
-* [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐ 243,984 | 🐛 152 | 🌐 JavaScript | 📅 2026-08-29 - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-* [ECC](https://github.com/affaan-m/ecc) ⭐ 243,984 | 🐛 152 | 🌐 JavaScript | 📅 2026-08-29 - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-* [hermes-agent](https://github.com/nousresearch/hermes-agent) ⭐ 237,781 | 🐛 37,154 | 🌐 Python | 📅 2026-08-29 - The agent that grows with you
-* [transformers](https://github.com/huggingface/transformers) ⭐ 164,581 | 🐛 2,395 | 🌐 Python | 📅 2026-08-29 - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-* [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) ⭐ 103,961 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-26 - Implementing a ChatGPT-like LLM from scratch, step by step
-* [MetaGPT](https://github.com/geekan/metagpt) ⭐ 70,089 | 🐛 135 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码
-* [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) ⭐ 68,491 | 🐛 988 | 🌐 TypeScript | 📅 2026-08-29 - ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
-* [open-interpreter](https://github.com/openinterpreter/open-interpreter) ⭐ 68,175 | 🐛 8 | 🌐 Rust | 📅 2026-08-20 - A natural language interface for computers
-* [mem0](https://github.com/mem0ai/mem0) ⭐ 64,277 | 🐛 703 | 🌐 Python | 📅 2026-08-28 - Long-term memory for LLMs
-* [OmniRoute](https://github.com/diegosouzapw/omniroute) ⭐ 57,576 | 🐛 187 | 🌐 TypeScript | 📅 2026-08-29 - OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.
+* [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐ 243,994 | 🐛 146 | 🌐 JavaScript | 📅 2026-08-29 - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* [ECC](https://github.com/affaan-m/ecc) ⭐ 243,994 | 🐛 146 | 🌐 JavaScript | 📅 2026-08-29 - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* [hermes-agent](https://github.com/nousresearch/hermes-agent) ⭐ 237,798 | 🐛 37,192 | 🌐 Python | 📅 2026-08-29 - The agent that grows with you
+* [transformers](https://github.com/huggingface/transformers) ⭐ 164,588 | 🐛 2,396 | 🌐 Python | 📅 2026-08-29 - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+* [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) ⭐ 103,963 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-26 - Implementing a ChatGPT-like LLM from scratch, step by step
+* [MetaGPT](https://github.com/geekan/metagpt) ⭐ 70,090 | 🐛 135 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码
+* [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) ⭐ 68,490 | 🐛 989 | 🌐 TypeScript | 📅 2026-08-29 - ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
+* [open-interpreter](https://github.com/openinterpreter/open-interpreter) ⭐ 68,177 | 🐛 8 | 🌐 Rust | 📅 2026-08-20 - A natural language interface for computers
+* [mem0](https://github.com/mem0ai/mem0) ⭐ 64,281 | 🐛 703 | 🌐 Python | 📅 2026-08-28 - Long-term memory for LLMs
+* [OmniRoute](https://github.com/diegosouzapw/omniroute) ⭐ 57,610 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-29 - OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.
 * [privateGPT](https://github.com/imartinez/privategpt) ⭐ 57,482 | 🐛 4 | 🌐 Python | 📅 2026-08-28 - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) ⭐ 57,482 | 🐛 4 | 🌐 Python | 📅 2026-08-28 - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 * [private-gpt](https://github.com/zylon-ai/private-gpt) ⭐ 57,482 | 🐛 4 | 🌐 Python | 📅 2026-08-28 - Interact with your documents using the power of GPT, 100% privately, no data leaks
-* [CowAgent](https://github.com/zhayujie/cowagent) ⭐ 46,711 | 🐛 42 | 🌐 Python | 📅 2026-08-27 - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
-* [new-api](https://github.com/quantumnous/new-api) ⭐ 46,708 | 🐛 1,354 | 🌐 Go | 📅 2026-08-27 - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+* [CowAgent](https://github.com/zhayujie/cowagent) ⭐ 46,712 | 🐛 42 | 🌐 Python | 📅 2026-08-27 - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
+* [new-api](https://github.com/quantumnous/new-api) ⭐ 46,710 | 🐛 1,355 | 🌐 Go | 📅 2026-08-27 - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 * [ChatGLM-6B](https://github.com/thudm/chatglm-6b) ⭐ 40,983 | 🐛 605 | 🌐 Python | 📅 2024-06-27 - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
 * [ChatTTS](https://github.com/2noise/chattts) ⭐ 39,802 | 🐛 60 | 🌐 Python | 📅 2026-04-10 - A generative speech model for daily dialogue.
 * [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,676 | 🐛 48 | 🌐 JavaScript | 📅 2026-05-17 - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-* [dsp](https://github.com/stanfordnlp/dsp) ⭐ 37,639 | 🐛 639 | 🌐 Python | 📅 2026-08-28 - 𝗗𝗦𝗣: Demonstrate-Search-Predict. A framework for composing retrieval and language models for knowledge-intensive NLP.
-* [khoj](https://github.com/khoj-ai/khoj) ⭐ 36,759 | 🐛 144 | 🌐 Python | 📅 2026-08-02 - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
-* [one-api](https://github.com/songquanpeng/one-api) ⭐ 36,635 | 🐛 1,032 | 🌐 JavaScript | 📅 2026-01-09 - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+* [dsp](https://github.com/stanfordnlp/dsp) ⭐ 37,641 | 🐛 639 | 🌐 Python | 📅 2026-08-28 - 𝗗𝗦𝗣: Demonstrate-Search-Predict. A framework for composing retrieval and language models for knowledge-intensive NLP.
+* [khoj](https://github.com/khoj-ai/khoj) ⭐ 36,760 | 🐛 144 | 🌐 Python | 📅 2026-08-02 - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
+* [one-api](https://github.com/songquanpeng/one-api) ⭐ 36,637 | 🐛 1,032 | 🌐 JavaScript | 📅 2026-01-09 - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 * [SillyTavern](https://github.com/sillytavern/sillytavern) ⭐ 32,771 | 🐛 597 | 🌐 JavaScript | 📅 2026-08-26 - LLM Frontend for Power Users.
-* [openai-python](https://github.com/openai/openai-python) ⭐ 31,492 | 🐛 638 | 🌐 Python | 📅 2026-08-28 - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
+* [openai-python](https://github.com/openai/openai-python) ⭐ 31,493 | 🐛 638 | 🌐 Python | 📅 2026-08-28 - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 * [stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,246 | 🐛 186 | 🌐 Python | 📅 2024-07-17 - Code and documentation to train Stanford's Alpaca models, and generate the data.
 * [stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca#fine-tuning) ⭐ 30,246 | 🐛 186 | 🌐 Python | 📅 2024-07-17 - Code and documentation to train Stanford's Alpaca models, and generate the data.
-* [FastGPT](https://github.com/labring/fastgpt) ⭐ 29,494 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-28 - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
-* [openai-agents-python](https://github.com/openai/openai-agents-python) ⭐ 29,046 | 🐛 36 | 🌐 Python | 📅 2026-08-28 - A lightweight, powerful framework for multi-agent workflows
+* [FastGPT](https://github.com/labring/fastgpt) ⭐ 29,495 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-28 - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+* [openai-agents-python](https://github.com/openai/openai-agents-python) ⭐ 29,046 | 🐛 38 | 🌐 Python | 📅 2026-08-28 - A lightweight, powerful framework for multi-agent workflows
 * [semantic-kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,511 | 🐛 263 | 🌐 C# | 📅 2026-08-27 - Integrate cutting-edge LLM technology quickly and easily into your apps
-* [ai](https://github.com/vercel/ai) ⭐ 26,475 | 🐛 1,672 | 🌐 TypeScript | 📅 2026-08-29 - Build AI-powered applications with React, Svelte, Vue, and Solid
+* [ai](https://github.com/vercel/ai) ⭐ 26,477 | 🐛 1,672 | 🌐 TypeScript | 📅 2026-08-29 - Build AI-powered applications with React, Svelte, Vue, and Solid
 * [haystack](https://github.com/deepset-ai/haystack) ⭐ 26,352 | 🐛 110 | 🌐 Python | 📅 2026-08-28 - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.
 * [faster-whisper](https://github.com/systran/faster-whisper) ⭐ 25,129 | 🐛 319 | 🌐 Python | 📅 2025-11-19 - Faster Whisper transcription with CTranslate2
 * [gpt-2](https://github.com/openai/gpt-2) ⚠️ Archived - Code for the paper "Language Models are Unsupervised Multitask Learners"
-* [MaxKB](https://github.com/1panel-dev/maxkb) ⭐ 22,640 | 🐛 25 | 🌐 Python | 📅 2026-08-28 - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
+* [MaxKB](https://github.com/1panel-dev/maxkb) ⭐ 22,641 | 🐛 25 | 🌐 Python | 📅 2026-08-28 - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
 * [localGPT](https://github.com/promtengineer/localgpt) ⭐ 22,206 | 🐛 22 | 🌐 Python | 📅 2026-08-26 - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 * [unilm](https://github.com/microsoft/unilm) ⭐ 22,196 | 🐛 684 | 🌐 Python | 📅 2026-08-26 - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 * [guidance](https://github.com/microsoft/guidance) ⭐ 21,730 | 🐛 321 | 🌐 Jupyter Notebook | 📅 2026-05-21 - A guidance language for controlling large language models.
-* [opik](https://github.com/comet-ml/opik/) ⭐ 21,658 | 🐛 213 | 🌐 Python | 📅 2026-08-28 - Open-source end-to-end LLM Development Platform
-* [dyad](https://github.com/dyad-sh/dyad) ⭐ 21,328 | 🐛 262 | 🌐 TypeScript | 📅 2026-08-28 - Bolt alternative 🌟 Star if you like it!
-* [screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,281 | 🐛 58 | 🌐 Rust | 📅 2026-08-29 - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
-* [buzz](https://github.com/chidiwilliams/buzz) ⭐ 21,178 | 🐛 18 | 🌐 Python | 📅 2026-08-28 - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+* [opik](https://github.com/comet-ml/opik/) ⭐ 21,659 | 🐛 213 | 🌐 Python | 📅 2026-08-28 - Open-source end-to-end LLM Development Platform
+* [dyad](https://github.com/dyad-sh/dyad) ⭐ 21,327 | 🐛 263 | 🌐 TypeScript | 📅 2026-08-28 - Bolt alternative 🌟 Star if you like it!
+* [screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,281 | 🐛 59 | 🌐 Rust | 📅 2026-08-29 - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+* [buzz](https://github.com/chidiwilliams/buzz) ⭐ 21,180 | 🐛 18 | 🌐 Python | 📅 2026-08-28 - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 * [gpt-oss](https://github.com/openai/gpt-oss) ⭐ 20,355 | 🐛 146 | 🌐 Python | 📅 2026-07-24 - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
-* [context-mode](https://github.com/mksglu/context-mode) ⭐ 20,233 | 🐛 192 | 🌐 TypeScript | 📅 2026-08-28 - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+* [context-mode](https://github.com/mksglu/context-mode) ⭐ 20,235 | 🐛 192 | 🌐 TypeScript | 📅 2026-08-28 - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
 * [ChatPaper](https://github.com/kaixindelele/chatpaper) ⭐ 19,786 | 🐛 83 | 🌐 Python | 📅 2026-03-02 - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
-* [trl](https://github.com/lvwerra/trl) ⭐ 19,171 | 🐛 292 | 🌐 Python | 📅 2026-08-29 - Train transformer language models with reinforcement learning.
+* [trl](https://github.com/lvwerra/trl) ⭐ 19,173 | 🐛 291 | 🌐 Python | 📅 2026-08-29 - Train transformer language models with reinforcement learning.
 * [parlant](https://github.com/emcie-co/parlant) ⭐ 18,270 | 🐛 41 | 🌐 Python | 📅 2026-07-12 - The heavy-duty guidance framework for customer-facing LLM agents
 * [agentic](https://github.com/transitive-bullshit/agentic) ⚠️ Archived - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 * [deepeval](https://github.com/confident-ai/deepeval) ⭐ 17,938 | 🐛 491 | 🌐 Python | 📅 2026-08-28 - The Evaluation Framework for LLMs
 * [SuperAGI](https://github.com/transformeroptimus/superagi) ⭐ 17,667 | 🐛 264 | 🌐 Python | 📅 2025-01-22 - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-* [camel](https://github.com/lightaime/camel) ⭐ 17,651 | 🐛 488 | 🌐 Python | 📅 2026-08-27 - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
-* [camel](https://github.com/lightaime/camel#data-hosted-on-hugging-face) ⭐ 17,651 | 🐛 488 | 🌐 Python | 📅 2026-08-27 - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+* [camel](https://github.com/lightaime/camel) ⭐ 17,652 | 🐛 488 | 🌐 Python | 📅 2026-08-27 - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+* [camel](https://github.com/lightaime/camel#data-hosted-on-hugging-face) ⭐ 17,652 | 🐛 488 | 🌐 Python | 📅 2026-08-27 - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 * [rowboat](https://github.com/rowboatlabs/rowboat) ⭐ 17,436 | 🐛 167 | 🌐 TypeScript | 📅 2026-08-28 - AI-powered multi-agent builder
-* [memori](https://github.com/gibsonai/memori) ⭐ 16,261 | 🐛 33 | 🌐 Python | 📅 2026-08-21 - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+* [memori](https://github.com/gibsonai/memori) ⭐ 16,262 | 🐛 33 | 🌐 Python | 📅 2026-08-21 - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 * [gpt-3](https://github.com/openai/gpt-3) ⚠️ Archived - GPT-3: Language Models are Few-Shot Learners
-* [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/auto-claude-code-research-in-sleep) ⭐ 15,394 | 🐛 62 | 🌐 Python | 📅 2026-08-26 - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP
+* [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/auto-claude-code-research-in-sleep) ⭐ 15,401 | 🐛 62 | 🌐 Python | 📅 2026-08-26 - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP
 * [PentestGPT](https://github.com/greydgl/pentestgpt) ⭐ 15,127 | 🐛 70 | 🌐 Python | 📅 2026-07-14 - A GPT-empowered penetration testing tool
 * [RWKV-LM](https://github.com/blinkdl/rwkv-lm) ⭐ 14,686 | 🐛 156 | 🌐 Python | 📅 2026-08-26 - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx\_len, and free sentence embedding.
-* [Easydict](https://github.com/tisfeng/easydict) ⭐ 14,391 | 🐛 173 | 🌐 Swift | 📅 2026-08-27 - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
-* [instructor](https://github.com/jxnl/instructor) ⭐ 13,793 | 🐛 45 | 🌐 Python | 📅 2026-08-28 - structured outputs for llms
-* [instructor](https://github.com/instructor-ai/instructor) ⭐ 13,793 | 🐛 45 | 🌐 Python | 📅 2026-08-28 - structured outputs for llms
-* [instructor](https://github.com/567-labs/instructor) ⭐ 13,793 | 🐛 45 | 🌐 Python | 📅 2026-08-28 - structured outputs for llms
+* [Easydict](https://github.com/tisfeng/easydict) ⭐ 14,393 | 🐛 171 | 🌐 Swift | 📅 2026-08-29 - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+* [instructor](https://github.com/jxnl/instructor) ⭐ 13,794 | 🐛 39 | 🌐 Python | 📅 2026-08-29 - structured outputs for llms
+* [instructor](https://github.com/instructor-ai/instructor) ⭐ 13,794 | 🐛 39 | 🌐 Python | 📅 2026-08-29 - structured outputs for llms
+* [instructor](https://github.com/567-labs/instructor) ⭐ 13,794 | 🐛 39 | 🌐 Python | 📅 2026-08-29 - structured outputs for llms
 * [E2B](https://github.com/e2b-dev/e2b) ⭐ 13,577 | 🐛 46 | 🌐 Python | 📅 2026-08-28 - Secure open source cloud runtime for AI apps & AI agents
 * [gorilla](https://github.com/shishirpatil/gorilla) ⭐ 13,007 | 🐛 276 | 🌐 Python | 📅 2026-04-13 - Gorilla: An API store for LLMs
 * [OpenLLM](https://github.com/bentoml/openllm) ⭐ 12,522 | 🐛 16 | 🌐 Python | 📅 2026-08-24 - Operating LLMs in production
-* [EverOS](https://github.com/evermind-ai/everos) ⭐ 12,520 | 🐛 77 | 🌐 Python | 📅 2026-08-28 - Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more
-* [llm](https://github.com/simonw/llm) ⭐ 12,422 | 🐛 679 | 🌐 Python | 📅 2026-08-22 - Access large language models from the command-line
+* [EverOS](https://github.com/evermind-ai/everos) ⭐ 12,522 | 🐛 77 | 🌐 Python | 📅 2026-08-28 - Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more
+* [llm](https://github.com/simonw/llm) ⭐ 12,423 | 🐛 679 | 🌐 Python | 📅 2026-08-22 - Access large language models from the command-line
 * [LLMSurvey](https://github.com/rucaibox/llmsurvey) ⭐ 12,205 | 🐛 29 | 🌐 Python | 📅 2025-03-11 - The official GitHub page for the survey paper "A Survey of Large Language Models".
 * [developer](https://github.com/smol-ai/developer) ⭐ 12,186 | 🐛 86 | 🌐 Python | 📅 2024-04-07 - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 * [h2ogpt](https://github.com/h2oai/h2ogpt) ⚠️ Archived - Come join the movement to make the world's best open source GPT led by H2O.ai
 * [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) ⭐ 11,748 | 🐛 313 | 🌐 Jupyter Notebook | 📅 2026-04-20 - This repository contains demos I made with the Transformers library by HuggingFace.
 * [LAVIS](https://github.com/salesforce/lavis) ⭐ 11,262 | 🐛 499 | 🌐 Jupyter Notebook | 📅 2026-06-02 - LAVIS - A One-stop Library for Language-Vision Intelligence
 * [TEN-Agent](https://github.com/ten-framework/ten-agent) ⭐ 11,091 | 🐛 232 | 🌐 Python | 📅 2026-08-27 - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
-* [MemOS](https://github.com/memtensor/memos) ⭐ 11,070 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-28 - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
+* [MemOS](https://github.com/memtensor/memos) ⭐ 11,071 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-28 - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 * [qlora](https://github.com/artidoro/qlora) ⭐ 10,999 | 🐛 206 | 🌐 Jupyter Notebook | 📅 2024-06-10 - QLoRA: Efficient Finetuning of Quantized LLMs
-* [open-swe](https://github.com/langchain-ai/open-swe) ⭐ 10,626 | 🐛 59 | 🌐 Python | 📅 2026-08-29 - An Open-Source Asynchronous Coding Agent
+* [open-swe](https://github.com/langchain-ai/open-swe) ⭐ 10,626 | 🐛 60 | 🌐 Python | 📅 2026-08-29 - An Open-Source Asynchronous Coding Agent
 * [petals](https://github.com/bigscience-workshop/petals) ⭐ 10,526 | 🐛 113 | 🌐 Python | 📅 2024-09-07 - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-* [voltagent](https://github.com/voltagent/voltagent) ⭐ 10,442 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-27 - Open Source TypeScript AI Agent Framework with built-in LLM Observability
-* [MiniCPM](https://github.com/openbmb/minicpm) ⭐ 10,267 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-07-27 - MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.
+* [voltagent](https://github.com/voltagent/voltagent) ⭐ 10,443 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-27 - Open Source TypeScript AI Agent Framework with built-in LLM Observability
+* [MiniCPM](https://github.com/openbmb/minicpm) ⭐ 10,268 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-07-27 - MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.
 * [InternVL](https://github.com/opengvlab/internvl) ⭐ 10,148 | 🐛 315 | 🌐 Python | 📅 2025-09-22 - \[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V.  接近GPT-4V表现的可商用开源模型
 * [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) ⭐ 10,119 | 🐛 133 | 🌐 C | 📅 2023-04-19 - Locally run an Instruction-Tuned Chat-Style LLM
 * [Bob](https://github.com/ripperhe/bob) ⭐ 9,737 | 🐛 108 | 📅 2025-12-30 - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 * [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker) ⭐ 9,614 | 🐛 146 | 🌐 Python | 📅 2026-08-19 - Make bilingual epub books Using AI translate
-* [inference](https://github.com/xorbitsai/inference) ⭐ 9,528 | 🐛 46 | 🌐 Python | 📅 2026-08-28 - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
+* [inference](https://github.com/xorbitsai/inference) ⭐ 9,528 | 🐛 48 | 🌐 Python | 📅 2026-08-28 - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 * [WizardLM](https://github.com/nlpxucan/wizardlm) ⭐ 9,482 | 🐛 169 | 🌐 Python | 📅 2025-06-07 - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
-* [omnigent](https://github.com/omnigent-ai/omnigent) ⭐ 9,446 | 🐛 1,242 | 🌐 Python | 📅 2026-08-29 - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
+* [omnigent](https://github.com/omnigent-ai/omnigent) ⭐ 9,451 | 🐛 1,243 | 🌐 Python | 📅 2026-08-29 - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 * [FlexGen](https://github.com/fminference/flexgen) ⚠️ Archived - Running large language models on a single GPU for throughput-oriented scenarios.
 * [chatnio](https://github.com/zmh-program/chatnio) ⭐ 9,297 | 🐛 37 | 🌐 TypeScript | 📅 2026-03-12 - 📚 document of Zh-Website project (using vitepress)
 * [deep-searcher](https://github.com/zilliztech/deep-searcher) ⭐ 8,230 | 🐛 53 | 🌐 Python | 📅 2025-11-19 - Deep Research Alternative to Reason on Private Data in Python
 * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) ⭐ 7,748 | 🐛 524 | 🌐 Python | 📅 2026-08-27 - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q\&A experiences.
-* [osaurus](https://github.com/osaurus-ai/osaurus) ⭐ 7,711 | 🐛 178 | 🌐 Swift | 📅 2026-08-29 - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
+* [osaurus](https://github.com/osaurus-ai/osaurus) ⭐ 7,715 | 🐛 178 | 🌐 Swift | 📅 2026-08-29 - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 * [GLM-130B](https://github.com/thudm/glm-130b) ⭐ 7,652 | 🐛 124 | 🌐 Python | 📅 2023-07-25 - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
 * [guardrails](https://github.com/shreyar/guardrails) ⭐ 7,333 | 🐛 84 | 🌐 Python | 📅 2026-08-27 - Adding guardrails to large language models.
 * [guardrails](https://github.com/guardrails-ai/guardrails) ⭐ 7,333 | 🐛 84 | 🌐 Python | 📅 2026-08-27 - Adding guardrails to large language models.
-* [rikkahub](https://github.com/rikkahub/rikkahub) ⭐ 7,237 | 🐛 277 | 🌐 Kotlin | 📅 2026-08-28 - RikkaHub is a Android APP that supports for multiple LLM providers.
+* [rikkahub](https://github.com/rikkahub/rikkahub) ⭐ 7,238 | 🐛 277 | 🌐 Kotlin | 📅 2026-08-28 - RikkaHub is a Android APP that supports for multiple LLM providers.
 * [Voyager](https://github.com/minedojo/voyager) ⭐ 7,164 | 🐛 8 | 🌐 JavaScript | 📅 2024-04-03 - An Open-Ended Embodied Agent with Large Language Models
 * [gpt-migrate](https://github.com/0xpayne/gpt-migrate) ⭐ 6,978 | 🐛 25 | 🌐 Python | 📅 2024-09-17 - Easily migrate your codebase from one framework or language to another.
 * [Dayflow](https://github.com/jerryzliu/dayflow) ⭐ 6,954 | 🐛 98 | 🌐 Swift | 📅 2026-08-19 - Generate a timeline of your day, automatically
@@ -1480,9 +1480,9 @@ Run these two commands inside Claude Code:
 * [ClawRouter](https://github.com/blockrunai/clawrouter) ⭐ 6,575 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-26 - Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
 * [RWKV-Runner](https://github.com/josstorer/rwkv-runner) ⭐ 6,462 | 🐛 177 | 🌐 TypeScript | 📅 2026-07-07 - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 * [FasterTransformer](https://github.com/nvidia/fastertransformer) ⭐ 6,447 | 🐛 289 | 🌐 C++ | 📅 2024-03-27 - Transformer related optimization, including BERT, GPT
-* [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) ⭐ 6,407 | 🐛 18 | 📅 2026-08-23 - chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+* [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) ⭐ 6,408 | 🐛 18 | 📅 2026-08-23 - chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
 * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) ⭐ 6,210 | 🐛 5 | 🌐 Python | 📅 2026-08-24 - Building AI agents, atomically
-* [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) ⭐ 6,185 | 🐛 27 | 🌐 Python | 📅 2026-08-21 - 一款基于【mtool】或【Translator++】，chatgpt自动批量翻译工具，主要是用来翻译各种RPG游戏。
+* [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) ⭐ 6,187 | 🐛 27 | 🌐 Python | 📅 2026-08-21 - 一款基于【mtool】或【Translator++】，chatgpt自动批量翻译工具，主要是用来翻译各种RPG游戏。
 * [PySpur](https://github.com/pyspur-dev/pyspur) ⭐ 5,780 | 🐛 41 | 🌐 TypeScript | 📅 2026-06-29 - Graph-Based Editor for LLM Workflows
 * [ToolBench](https://github.com/openbmb/toolbench) ⭐ 5,732 | 🐛 164 | 🌐 Python | 📅 2025-05-21 - An open platform for training, serving, and evaluating large language model for tool learning.
 * [UltraRAG](https://github.com/openbmb/ultrarag) ⭐ 5,673 | 🐛 18 | 🌐 Python | 📅 2026-08-24 - #Less Code, #Lower Barrier, #Faster Deployment！MCP-based low-code RAG framework, enabling researchers to build complex pipelines to creative innovation.
@@ -1511,7 +1511,7 @@ Run these two commands inside Claude Code:
 * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) ⭐ 4,169 | 🐛 24 | 🌐 TypeScript | 📅 2023-12-21 - Use AI to translate code from one language to another.
 * [Baichuan2](https://github.com/baichuan-inc/baichuan2) ⭐ 4,083 | 🐛 281 | 🌐 Python | 📅 2024-11-08 - A series of large language models developed by Baichuan Intelligent Technology
 * [nixtla](https://github.com/nixtla/nixtla) ⭐ 3,997 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-08-28 - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.
-* [cascadeflow](https://github.com/lemony-ai/cascadeflow) ⭐ 3,979 | 🐛 8 | 🌐 Python | 📅 2026-08-27 - Smart AI model cascading for cost optimization
+* [cascadeflow](https://github.com/lemony-ai/cascadeflow) ⭐ 3,980 | 🐛 8 | 🌐 Python | 📅 2026-08-27 - Smart AI model cascading for cost optimization
 * [ClaraVerse](https://github.com/claraverse-space/claraverse) ⭐ 3,895 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-03 - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
 * [TransformerLens](https://github.com/neelnanda-io/transformerlens) ⭐ 3,831 | 🐛 9 | 🌐 Python | 📅 2026-08-28 - A library for mechanistic interpretability of GPT-style language models
 * [TransformerLens](https://github.com/transformerlensorg/transformerlens) ⭐ 3,831 | 🐛 9 | 🌐 Python | 📅 2026-08-28 - A library for mechanistic interpretability of GPT-style language models
@@ -1519,8 +1519,8 @@ Run these two commands inside Claude Code:
 * [AgentBench](https://github.com/thudm/agentbench) ⭐ 3,701 | 🐛 76 | 🌐 Python | 📅 2026-02-08 - A Comprehensive Benchmark to Evaluate LLMs as Agents
 * [Acontext](https://github.com/memodb-io/acontext) ⭐ 3,679 | 🐛 36 | 🌐 JavaScript | 📅 2026-07-14 - One Place for Agents to Store, Observe, and Learn. Context Data Platform for Self-learning Agents, designed to simplify context engineering and improve agent reliability and task success rates.
 * [document.ai](https://github.com/ganymedenil/document.ai) ⭐ 3,670 | 🐛 1 | 🌐 Python | 📅 2023-05-12 - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
-* [oracle](https://github.com/steipete/oracle) ⭐ 3,670 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-28 - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
-* [Raven](https://github.com/evermind-ai/raven) ⭐ 3,667 | 🐛 75 | 🌐 Python | 📅 2026-08-28 - The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.
+* [oracle](https://github.com/steipete/oracle) ⭐ 3,670 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-28 - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
+* [Raven](https://github.com/evermind-ai/raven) ⭐ 3,669 | 🐛 75 | 🌐 Python | 📅 2026-08-28 - The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.
 * [NExT-GPT](https://github.com/next-gpt/next-gpt) ⭐ 3,636 | 🐛 81 | 🌐 Python | 📅 2025-05-13 - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
 * [chart-gpt](https://github.com/whoiskatrin/chart-gpt) ⭐ 3,584 | 🐛 13 | 🌐 TypeScript | 📅 2025-06-16 - AI tool to build charts based on text input
 * [surf](https://github.com/deta/surf) ⭐ 3,544 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-24 - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
@@ -1546,10 +1546,10 @@ Run these two commands inside Claude Code:
 * [llm-for-zotero](https://github.com/yilewang/llm-for-zotero) ⭐ 2,786 | 🐛 144 | 🌐 TypeScript | 📅 2026-08-25 - A research agent system deeply rooted in your own Zotero library.
 * [SalesGPT](https://github.com/filip-michalsky/salesgpt) ⭐ 2,743 | 🐛 59 | 🌐 HTML | 📅 2024-09-17 - Context-aware AI Sales Agent to automate sales outreach.
 * [FreedomGPT](https://github.com/ohmplatform/freedomgpt) ⭐ 2,670 | 🐛 76 | 🌐 TypeScript | 📅 2024-06-13 - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
-* [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) ⭐ 2,667 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - 一款开源的漫画翻译工具，基于 manga-image-translator 核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供 5 种翻译引擎（包括 OpenAI、Gemini 等 AI 翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个 ⭐ Star 支持！
+* [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) ⭐ 2,668 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - 一款开源的漫画翻译工具，基于 manga-image-translator 核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供 5 种翻译引擎（包括 OpenAI、Gemini 等 AI 翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个 ⭐ Star 支持！
 * [paperless-gpt](https://github.com/icereed/paperless-gpt) ⭐ 2,654 | 🐛 183 | 🌐 Go | 📅 2026-08-28 - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 * [griptape](https://github.com/griptape-ai/griptape) ⭐ 2,576 | 🐛 79 | 🌐 Python | 📅 2026-08-26 - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
-* [Switchyard](https://github.com/nvidia-nemo/switchyard) ⭐ 2,551 | 🐛 56 | 🌐 Python | 📅 2026-08-28 - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+* [Switchyard](https://github.com/nvidia-nemo/switchyard) ⭐ 2,553 | 🐛 56 | 🌐 Python | 📅 2026-08-28 - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
 * [lamini](https://github.com/lamini-ai/lamini) ⭐ 2,534 | 🐛 6 | 🌐 Python | 📅 2025-04-07 - Today:🎉Hosted data generator for training LLMs like ChatGPT 🎉An open-source LLM, trained on the generated data with the Lamini engine 👉Early access waitlist to full training, incl. enterprise VPC etc.
 * [ossinsight](https://github.com/pingcap/ossinsight) ⭐ 2,500 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-19 - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: <https://twitter.com/ossinsight>
 * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) ⭐ 2,483 | 🐛 48 | 🌐 Python | 📅 2026-08-15 - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
@@ -1558,7 +1558,7 @@ Run these two commands inside Claude Code:
 * [code-interpreter](https://github.com/e2b-dev/code-interpreter) ⭐ 2,386 | 🐛 20 | 🌐 Python | 📅 2026-08-26 - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 * [OpenAGI](https://github.com/agiresearch/openagi) ⭐ 2,283 | 🐛 10 | 🌐 Python | 📅 2024-11-28 - OpenAGI: When LLM Meets Domain Experts
 * [any-llm](https://github.com/mozilla-ai/any-llm) ⭐ 2,172 | 🐛 55 | 🌐 Python | 📅 2026-08-26 - Communicate with an LLM provider using a single interface
-* [agency-orchestrator](https://github.com/jnmetacode/agency-orchestrator) ⭐ 2,161 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-29 - 🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于 agency-agents 专家库，一句话调度多个 AI 专家自动协作，几分钟交付完整方案。
+* [agency-orchestrator](https://github.com/jnmetacode/agency-orchestrator) ⭐ 2,162 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-29 - 🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于 agency-agents 专家库，一句话调度多个 AI 专家自动协作，几分钟交付完整方案。
 * [llm-security](https://github.com/greshake/llm-security) ⭐ 2,132 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-17 - New ways of breaking app-integrated LLMs
 * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) ⭐ 2,070 | 🐛 11 | 🌐 Python | 📅 2025-07-01 - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 * [DB-GPT-Hub](https://github.com/eosphoros-ai/db-gpt-hub) ⭐ 2,009 | 🐛 73 | 🌐 Python | 📅 2025-07-02 - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL
@@ -1597,21 +1597,21 @@ Run these two commands inside Claude Code:
 * [nerve](https://github.com/dreadnode/nerve) ⚠️ Archived - Create LLM agents without writing code.
 * [EmbedAnything](https://github.com/starlightsearch/embedanything) ⭐ 1,306 | 🐛 22 | 🌐 Rust | 📅 2026-08-12 - Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) ⭐ 1,294 | 🐛 14 | 🌐 Python | 📅 2026-08-24 - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!
-* [loushang](https://github.com/zhnt/loushang) ⭐ 1,271 | 🐛 39 | 🌐 Python | 📅 2026-08-27 - AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.
+* [loushang](https://github.com/zhnt/loushang) ⭐ 1,272 | 🐛 39 | 🌐 Python | 📅 2026-08-27 - AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.
 * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) ⭐ 1,267 | 🐛 46 | 🌐 Python | 📅 2024-01-17 - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 * [uni-api](https://github.com/yym68686/uni-api) ⭐ 1,256 | 🐛 14 | 🌐 Python | 📅 2026-08-26 - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, AI/ML API, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
 * [wuphf](https://github.com/nex-crm/wuphf) ⭐ 1,248 | 🐛 58 | 🌐 Go | 📅 2026-08-26 - WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode.
 * [minichain](https://github.com/srush/minichain) ⭐ 1,232 | 🐛 12 | 🌐 Python | 📅 2024-07-10 - Sequence-to-sequence model with LSTM encoder/decoders and attention
 * [BricksLLM](https://github.com/bricks-cloud/bricksllm) ⭐ 1,229 | 🐛 21 | 🌐 Go | 📅 2025-01-05 - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI, Azure OpenAI, Anthropic, vLLM, and open-source LLMs.
-* [LightAgent](https://github.com/wanxingai/lightagent) ⭐ 1,213 | 🐛 7 | 🌐 Python | 📅 2026-08-21 - LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.
+* [LightAgent](https://github.com/wanxingai/lightagent) ⭐ 1,214 | 🐛 7 | 🌐 Python | 📅 2026-08-21 - LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.
 * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) ⭐ 1,200 | 🐛 13 | 🌐 Python | 📅 2024-06-19 - A generalized information-seeking agent system with Large Language Models (LLMs).
 * [visual-openllm](https://github.com/visual-openllm/visual-openllm) ⭐ 1,186 | 🐛 33 | 🌐 Python | 📅 2024-02-24 - something like visual-chatgpt, 文心一言的开源版
 * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) ⭐ 1,177 | 🐛 41 | 🌐 Python | 📅 2026-08-27 - A Solution Accelerator for the RAG pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q\&A experiences. This includes most common requirements and best practices.
 * [GPT-RAG](https://github.com/azure/gpt-rag) ⭐ 1,170 | 🐛 8 | 🌐 Python | 📅 2026-08-18 - Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q\&A experiences.
 * [mario-gpt](https://github.com/shyamsn97/mario-gpt) ⭐ 1,152 | 🐛 6 | 🌐 Python | 📅 2024-07-22 - Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" <https://arxiv.org/abs/2302.05981>
 * [chameleon-llm](https://github.com/lupantech/chameleon-llm) ⭐ 1,140 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2023-12-23 - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
-* [auto-novel](https://github.com/fishhawk/auto-novel) ⭐ 1,135 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-23 - 轻小说机翻网站，支持网络小说/文库小说/本地小说
-* [auto-novel](https://github.com/auto-novel/auto-novel) ⭐ 1,135 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-23 - 轻小说机翻网站，支持网络小说/文库小说/本地小说
+* [auto-novel](https://github.com/fishhawk/auto-novel) ⭐ 1,136 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-23 - 轻小说机翻网站，支持网络小说/文库小说/本地小说
+* [auto-novel](https://github.com/auto-novel/auto-novel) ⭐ 1,136 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-23 - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * [agent](https://github.com/xataio/agent) ⚠️ Archived - AI agent expert in PostgreSQL
 * [automated-interpretability](https://github.com/openai/automated-interpretability) ⚠️ Archived - LLMs Can Explain Neurons in Other LLMsExplain GPT-2 neuron’s behavior by showing GPT-4 (token, activation) pairsSimulate neuron's activations based on explanation w/ GPT-4Score explanation based on how well simulated activations match real activations
 * [SearChat](https://github.com/sear-chat/searchat) ⭐ 1,058 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-13 - Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
@@ -1620,13 +1620,13 @@ Run these two commands inside Claude Code:
 * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) ⚠️ Archived - 🚀 一个专为大型语言模型设计的转发服务 ·  一键部署你的私人AI代理 · LLM Proxy · OpenAI API Reverse Proxy
 * [openai-forward](https://github.com/kenyony/openai-forward) ⚠️ Archived - 🚀  大语言模型高效转发服务  · An efficient forwarding service designed for LLMs. ·  OpenAI API Reverse Proxy
 * [SWE-AF](https://github.com/agent-field/swe-af) ⭐ 987 | 🐛 9 | 🌐 Go | 📅 2026-08-23 - Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.
-* [ontogpt](https://github.com/monarch-initiative/ontogpt) ⭐ 984 | 🐛 78 | 🌐 Jupyter Notebook | 📅 2026-06-22 - GPT-based ontological extraction tools, including SPIRES
-* [imcodes](https://github.com/im4codes/imcodes) ⭐ 973 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-28 - The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.
+* [ontogpt](https://github.com/monarch-initiative/ontogpt) ⭐ 986 | 🐛 78 | 🌐 Jupyter Notebook | 📅 2026-06-22 - GPT-based ontological extraction tools, including SPIRES
+* [imcodes](https://github.com/im4codes/imcodes) ⭐ 973 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-29 - The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.
 * [brainrot.js](https://github.com/brainrotjs/brainrot.js) ⭐ 959 | 🐛 1 | 🌐 Python | 📅 2026-04-25 - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
 * [factool](https://github.com/gair-nlp/factool) ⭐ 934 | 🐛 23 | 🌐 Python | 📅 2024-08-19 - FacTool: Factuality Detection in Generative AI
 * [aidermacs](https://github.com/matthewzmd/aidermacs) ⭐ 926 | 🐛 20 | 🌐 Emacs Lisp | 📅 2026-08-26 - AI Pair Programming in Emacs with Aider
 * [chatWeb](https://github.com/skywalkerdarren/chatweb) ⭐ 916 | 🐛 7 | 🌐 Python | 📅 2026-05-25 - ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
-* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 906 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - The self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.
+* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 913 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - The self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.
 * [flux](https://github.com/transmissions11/flux) ⭐ 898 | 🐛 25 | 🌐 TypeScript | 📅 2025-02-27 - LLM Power Tool
 * [coderunner](https://github.com/instavm/coderunner) ⭐ 891 | 🐛 9 | 🌐 Python | 📅 2026-08-13 - A secure local sandbox to run LLM-generated code using Apple containers
 * [convoviz](https://github.com/mohamed-chs/convoviz) ⭐ 882 | 🐛 2 | 🌐 Python | 📅 2026-08-26 - Convert your ChatGPT export (ZIP) into clean Markdown text files with inline media, and generate data visualizations like word clouds and usage graphs.
@@ -1636,7 +1636,7 @@ Run these two commands inside Claude Code:
 * [surf](https://github.com/e2b-dev/surf) ⭐ 854 | 🐛 8 | 🌐 TypeScript | 📅 2026-07-30 - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
 * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) ⭐ 850 | 🐛 33 | 🌐 Python | 📅 2024-03-20 - A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves the most relevant document and then uses GPT-3, GPT-3.5 or GPT-4 to extract the matching answer for the question.
 * [AutoCoder](https://github.com/bin123apple/autocoder) ⭐ 850 | 🐛 6 | 🌐 Python | 📅 2024-07-06 - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
-* [pipelex](https://github.com/pipelex/pipelex) ⭐ 849 | 🐛 14 | 🌐 Python | 📅 2026-08-29 - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
+* [pipelex](https://github.com/pipelex/pipelex) ⭐ 849 | 🐛 13 | 🌐 Python | 📅 2026-08-29 - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
 * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) ⭐ 841 | 🐛 72 | 🌐 C# | 📅 2025-07-29 - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q\&A experiences.
 * [whisper-playground](https://github.com/saharmor/whisper-playground) ⭐ 835 | 🐛 16 | 🌐 Python | 📅 2025-09-12 - Build real time speech2text web apps using OpenAI's Whisper <https://openai.com/blog/whisper/>
 * [bonito](https://github.com/batsresearch/bonito) ⭐ 829 | 🐛 6 | 🌐 Python | 📅 2025-07-15 - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
@@ -1644,7 +1644,7 @@ Run these two commands inside Claude Code:
 * [pyllms](https://github.com/kagisearch/pyllms) ⚠️ Archived - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
 * [chatgpt-i18n](https://github.com/observedobserver/chatgpt-i18n) ⭐ 807 | 🐛 18 | 🌐 TypeScript | 📅 2024-01-26 - Translate your locale json files with AI assistance.
 * [BriefGPT](https://github.com/e-johnstonn/briefgpt) ⭐ 798 | 🐛 5 | 🌐 Python | 📅 2023-08-01 - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
-* [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) ⭐ 777 | 🐛 7 | 🌐 Java | 📅 2026-08-09 - Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot.
+* [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) ⭐ 778 | 🐛 7 | 🌐 Java | 📅 2026-08-09 - Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot.
 * [pearai-master](https://github.com/trypear/pearai-master) ⭐ 767 | 🐛 28 | 🌐 Shell | 📅 2026-06-19 - Master Repo For PearAI
 * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) ⭐ 756 | 🐛 12 | 🌐 Python | 📅 2026-08-13 - :newspaper: Let ChatGPT Summarize Hacker News for You
 * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) ⭐ 754 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-07-22 - Azure Open AI (demos, documentation, accelerators).
@@ -1718,8 +1718,8 @@ Run these two commands inside Claude Code:
 * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) ⭐ 373 | 🐛 0 | 📅 2024-09-14 - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 * [subtitle-translator](https://github.com/gnehs/subtitle-translator) ⭐ 372 | 🐛 7 | 🌐 JavaScript | 📅 2023-11-25 - Translate subtitle using ChatGPT
 * [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) ⭐ 369 | 🐛 0 | 📅 2024-08-12 - Paper List of Pre-trained Foundation Recommender Models
+* [Webscout](https://github.com/pyscout/webscout) ⭐ 361 | 🐛 5 | 🌐 Python | 📅 2026-08-01 - Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access cutting-edge AI models; transcribe YouTube videos; generate temporary emails and phone numbers; perform text-to-speech conversions; and much more!
 * [hlb-gpt](https://github.com/tysam-code/hlb-gpt) ⭐ 360 | 🐛 4 | 🌐 Python | 📅 2024-07-29 - Minimalistic, fast, and experimentation-friendly researcher's toolbench for GPT-like models in \~<365 lines of code. Reaches <3.8 validation loss on wikitext-103 on a single A100 in \~138 seconds.
-* [Webscout](https://github.com/pyscout/webscout) ⭐ 360 | 🐛 5 | 🌐 Python | 📅 2026-08-01 - Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access cutting-edge AI models; transcribe YouTube videos; generate temporary emails and phone numbers; perform text-to-speech conversions; and much more!
 * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) ⭐ 360 | 🐛 10 | 🌐 Java | 📅 2026-03-12 - SpringAI，LLM，MCP，Embedding
 * [go-translate](https://github.com/lorniu/go-translate) ⭐ 358 | 🐛 14 | 🌐 Emacs Lisp | 📅 2025-07-27 - Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, ChatGPT, StarDict, Youdao and so on.
 * [XianTu](https://github.com/qianye60/xiantu) ⭐ 358 | 🐛 18 | 🌐 Vue | 📅 2026-07-24 - "Immortal Path" AI-driven immersive cultivation text adventure game, based on Vue 3 + TypeScript + Fastapi, supports multiple AI models such as Gemini/Claude/OpenAI
@@ -1771,7 +1771,7 @@ Run these two commands inside Claude Code:
 * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) ⭐ 146 | 🐛 1 | 🌐 Python | 📅 2024-08-04 - Chat with Document(s) using ChatGPT API and Text Embedding
 * [unify](https://github.com/unifyai/unify) ⭐ 131 | 🐛 5 | 🌐 Python | 📅 2026-08-28 - Notion for AI Observability 📊
 * [LoopTroop](https://github.com/looptroop-ai/looptroop) ⭐ 128 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-29 - LLM councils plan it. Ralph loops perfect it. OpenCode worktrees ship it.
-* [ai-relay](https://github.com/moyufamily/ai-relay) ⭐ 126 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-25 - Cloudflare 推送即部署 · 多 Provider 路由 · Key 轮换 · 故障转移 · OpenAI 兼容
+* [ai-relay](https://github.com/moyufamily/ai-relay) ⭐ 127 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-25 - Cloudflare 推送即部署 · 多 Provider 路由 · Key 轮换 · 故障转移 · OpenAI 兼容
 * [chatgpt-document-extraction](https://github.com/brandonrobertz/chatgpt-document-extraction) ⚠️ Archived - A proof of concept tool for using ChatGPT to transform messy text documents into structured JSON
 * [GPTSAN](https://github.com/tanreinama/gptsan) ⭐ 119 | 🐛 2 | 🌐 Python | 📅 2023-09-13 - General-purpose Swich transformer based Japanese language model
 * [lqae](https://github.com/lhao499/lqae) ⭐ 115 | 🐛 3 | 🌐 Python | 📅 2023-02-07 - Language Quantized AutoEncoders
@@ -1780,7 +1780,7 @@ Run these two commands inside Claude Code:
 * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) ⚠️ Archived - An AutoHotkey script that uses ChatGPT API to process text.
 * [CoCoGen](https://github.com/madaan/cocogen) ⭐ 85 | 🐛 2 | 🌐 Python | 📅 2023-03-20 - there are nlp tasks in which codex performs better than gpt-3 and t5,if you convert the nl problem into pseudo-python!:  appear in #emnlp2022)work led by @aman\_madaan , with @shuyanzhxyc yiming yang @gneubig and me
 * [pdf2md](https://github.com/eiaserinnys/pdf2md) ⭐ 81 | 🐛 5 | 🌐 Python | 📅 2024-03-13 - This project, pdf2md, transforms academic paper PDF files into digestible text files. By analyzing the layout of the PDF file, the application restructures paragraphs and translates desired content. The final result is a conveniently exported text file.
-* [TavernAI](https://github.com/tavernai/tavernai) ⭐ 65 | 🐛 2 | 📅 2026-08-28 - Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)
+* [TavernAI](https://github.com/tavernai/tavernai) ⭐ 64 | 🐛 2 | 📅 2026-08-28 - Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)
 * [github-summarizer](https://github.com/stevebauman/github-summarizer) ⚠️ Archived - A PHP GitHub summarizer using Chat GPT.
 * [SmartPilot](https://github.com/jaredkirby/smartpilot) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2026-02-10 - A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question.
 * [pubmed-gpt](https://github.com/arokem/pubmed-gpt) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2023-03-26 - Use gpt to summarize abstracts for a pubmed query
@@ -1807,55 +1807,55 @@ Run these two commands inside Claude Code:
 
 ## Langchain
 
-* [ollama](https://github.com/ollama/ollama) ⭐ 179,670 | 🐛 3,827 | 🌐 Go | 📅 2026-08-29 - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
-* [markitdown](https://github.com/microsoft/markitdown) ⭐ 176,859 | 🐛 903 | 🌐 Python | 📅 2026-08-19 - Python tool for converting files and office documents to Markdown.
-* [langflow](https://github.com/logspace-ai/langflow) ⭐ 153,826 | 🐛 992 | 🌐 Python | 📅 2026-08-29 - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
-* [langflow](https://github.com/langflow-ai/langflow) ⭐ 153,826 | 🐛 992 | 🌐 Python | 📅 2026-08-29 - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
-* [open-webui](https://github.com/open-webui/open-webui) ⭐ 150,255 | 🐛 225 | 🌐 Python | 📅 2026-08-29 - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
-* [langchain](https://github.com/hwchase17/langchain) ⭐ 145,211 | 🐛 430 | 🌐 Python | 📅 2026-08-28 - ⚡ Building applications with LLMs through composability ⚡
-* [langchain](https://github.com/langchain-ai/langchain) ⭐ 145,211 | 🐛 430 | 🌐 Python | 📅 2026-08-28 - 🦜🔗 Build context-aware reasoning applications
-* [llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 126,122 | 🐛 2,272 | 🌐 C++ | 📅 2026-08-28 - Port of Facebook's LLaMA model in C/C++
-* [gpt\_academic](https://github.com/binary-husky/gpt_academic) ⭐ 71,267 | 🐛 330 | 🌐 Python | 📅 2026-01-25 - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
-* [headroom](https://github.com/chopratejas/headroom) ⭐ 67,932 | 🐛 573 | 🌐 Python | 📅 2026-08-28 - The Context Optimization Layer for LLM Applications
+* [ollama](https://github.com/ollama/ollama) ⭐ 179,674 | 🐛 3,830 | 🌐 Go | 📅 2026-08-29 - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+* [markitdown](https://github.com/microsoft/markitdown) ⭐ 176,868 | 🐛 903 | 🌐 Python | 📅 2026-08-19 - Python tool for converting files and office documents to Markdown.
+* [langflow](https://github.com/logspace-ai/langflow) ⭐ 153,828 | 🐛 991 | 🌐 Python | 📅 2026-08-29 - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
+* [langflow](https://github.com/langflow-ai/langflow) ⭐ 153,828 | 🐛 991 | 🌐 Python | 📅 2026-08-29 - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+* [open-webui](https://github.com/open-webui/open-webui) ⭐ 150,265 | 🐛 226 | 🌐 Python | 📅 2026-08-29 - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
+* [langchain](https://github.com/hwchase17/langchain) ⭐ 145,216 | 🐛 431 | 🌐 Python | 📅 2026-08-28 - ⚡ Building applications with LLMs through composability ⚡
+* [langchain](https://github.com/langchain-ai/langchain) ⭐ 145,216 | 🐛 431 | 🌐 Python | 📅 2026-08-28 - 🦜🔗 Build context-aware reasoning applications
+* [llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 126,132 | 🐛 2,273 | 🌐 C++ | 📅 2026-08-28 - Port of Facebook's LLaMA model in C/C++
+* [gpt\_academic](https://github.com/binary-husky/gpt_academic) ⭐ 71,268 | 🐛 330 | 🌐 Python | 📅 2026-01-25 - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
+* [headroom](https://github.com/chopratejas/headroom) ⭐ 67,939 | 🐛 571 | 🌐 Python | 📅 2026-08-29 - The Context Optimization Layer for LLM Applications
 * [llama](https://github.com/facebookresearch/llama) ⭐ 59,585 | 🐛 531 | 🌐 Python | 📅 2025-01-26 - Inference code for LLaMA models
-* [litellm](https://github.com/berriai/litellm) ⭐ 57,504 | 🐛 4,854 | 🌐 Python | 📅 2026-08-29 - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
+* [litellm](https://github.com/berriai/litellm) ⭐ 57,506 | 🐛 4,854 | 🌐 Python | 📅 2026-08-29 - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
 * [Flowise](https://github.com/flowiseai/flowise) ⚠️ Archived - Drag & drop UI to build your customized LLM flow using LangchainJS
-* [llama\_index](https://github.com/jerryjliu/llama_index) ⭐ 51,909 | 🐛 670 | 🌐 Python | 📅 2026-08-28 - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
-* [llama\_index](https://github.com/run-llama/llama_index) ⭐ 51,909 | 🐛 670 | 🌐 Python | 📅 2026-08-28 - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
-* [text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,592 | 🐛 840 | 🌐 Python | 📅 2026-08-17 - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
-* [sglang](https://github.com/sgl-project/sglang) ⭐ 32,637 | 🐛 4,980 | 🌐 Python | 📅 2026-08-29 - SGLang is a fast serving framework for large language models and vision language models.
-* [MiniCPM-V](https://github.com/openbmb/minicpm-v) ⭐ 26,252 | 🐛 59 | 🌐 Python | 📅 2026-08-26 - MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone
+* [llama\_index](https://github.com/jerryjliu/llama_index) ⭐ 51,909 | 🐛 670 | 🌐 Python | 📅 2026-08-29 - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+* [llama\_index](https://github.com/run-llama/llama_index) ⭐ 51,909 | 🐛 670 | 🌐 Python | 📅 2026-08-29 - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+* [text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,591 | 🐛 840 | 🌐 Python | 📅 2026-08-17 - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+* [sglang](https://github.com/sgl-project/sglang) ⭐ 32,641 | 🐛 4,994 | 🌐 Python | 📅 2026-08-29 - SGLang is a fast serving framework for large language models and vision language models.
+* [MiniCPM-V](https://github.com/openbmb/minicpm-v) ⭐ 26,253 | 🐛 59 | 🌐 Python | 📅 2026-08-26 - MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone
 * [DB-GPT](https://github.com/csunny/db-gpt) ⭐ 19,821 | 🐛 422 | 🌐 Python | 📅 2026-08-28 - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
-* [ai-guide](https://github.com/liyupi/ai-guide) ⭐ 19,265 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-21 - 程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块
+* [ai-guide](https://github.com/liyupi/ai-guide) ⭐ 19,267 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-21 - 程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块
 * [alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,908 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 - Instruct-tune LLaMA on consumer hardware
-* [langchain4j](https://github.com/langchain4j/langchain4j) ⭐ 12,974 | 🐛 868 | 🌐 Java | 📅 2026-08-28 - Java version of LangChain
+* [langchain4j](https://github.com/langchain4j/langchain4j) ⭐ 12,975 | 🐛 868 | 🌐 Java | 📅 2026-08-28 - Java version of LangChain
 * [dalai](https://github.com/cocktailpeanut/dalai) ⭐ 12,897 | 🐛 333 | 🌐 CSS | 📅 2024-06-18 - The simplest way to run LLaMA on your local machine
 * [chainlit](https://github.com/chainlit/chainlit) ⭐ 12,409 | 🐛 136 | 🌐 Python | 📅 2026-08-26 - Build Python LLM apps in minutes ⚡️
 * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) ⭐ 11,727 | 🐛 138 | 🌐 Python | 📅 2025-12-15 - All Of The Above] working as one.
 * [tensorzero](https://github.com/tensorzero/tensorzero) ⚠️ Archived - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
-* [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) ⭐ 10,589 | 🐛 680 | 🌐 Python | 📅 2026-08-17 - Python bindings for llama.cpp
+* [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) ⭐ 10,590 | 🐛 680 | 🌐 Python | 📅 2026-08-17 - Python bindings for llama.cpp
 * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) ⭐ 9,104 | 🐛 2 | 📅 2026-04-22 - LangChain 的中文入门教程
 * [local-deep-research](https://github.com/learningcircuit/local-deep-research) ⭐ 9,002 | 🐛 627 | 🌐 Python | 📅 2026-08-28 - Local Deep Research achieves \~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local.
 * [reor](https://github.com/reorproject/reor) ⚠️ Archived - Private & local AI personal knowledge management app for high entropy people.
-* [nexa-sdk](https://github.com/nexaai/nexa-sdk) ⭐ 8,335 | 🐛 48 | 🌐 Rust | 📅 2026-08-28 - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
+* [nexa-sdk](https://github.com/nexaai/nexa-sdk) ⭐ 8,336 | 🐛 48 | 🌐 Rust | 📅 2026-08-28 - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
 * [open\_llama](https://github.com/openlm-research/open_llama) ⭐ 7,528 | 🐛 40 | 📅 2023-07-16 - OpenLLama - a permissively licensed open source reproduction of Meta AI's LLaMA. 🦙 „OpenLLaMA exhibits comparable performance to the original LLaMA and GPT-J across a majority of tasks, and outperforms them in some tasks.“ 👀
-* [go-stock](https://github.com/arvinlovegood/go-stock) ⭐ 7,395 | 🐛 22 | 🌐 Go | 📅 2026-08-28 - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
+* [go-stock](https://github.com/arvinlovegood/go-stock) ⭐ 7,396 | 🐛 22 | 🌐 Go | 📅 2026-08-28 - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 * [opencompass](https://github.com/internlm/opencompass) ⭐ 7,373 | 🐛 384 | 🌐 Python | 📅 2026-08-27 - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
 * [opencompass](https://github.com/open-compass/opencompass) ⭐ 7,373 | 🐛 384 | 🌐 Python | 📅 2026-08-27 - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
-* [sdk-python](https://github.com/strands-agents/sdk-python) ⭐ 7,040 | 🐛 674 | 🌐 Python | 📅 2026-08-28 - A model-driven approach to building AI agents in just a few lines of code.
-* [harness-sdk](https://github.com/strands-agents/harness-sdk) ⭐ 7,040 | 🐛 674 | 🌐 Python | 📅 2026-08-28 - A model-driven approach to building AI agents in just a few lines of code.
-* [honcho](https://github.com/plastic-labs/honcho) ⭐ 6,910 | 🐛 153 | 🌐 Python | 📅 2026-08-28 - Memory library for building stateful agents
-* [Yuxi-Know](https://github.com/xerrors/yuxi-know) ⭐ 6,580 | 🐛 80 | 🌐 Python | 📅 2026-08-28 - 基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
+* [sdk-python](https://github.com/strands-agents/sdk-python) ⭐ 7,041 | 🐛 675 | 🌐 Python | 📅 2026-08-28 - A model-driven approach to building AI agents in just a few lines of code.
+* [harness-sdk](https://github.com/strands-agents/harness-sdk) ⭐ 7,041 | 🐛 675 | 🌐 Python | 📅 2026-08-28 - A model-driven approach to building AI agents in just a few lines of code.
+* [honcho](https://github.com/plastic-labs/honcho) ⭐ 6,911 | 🐛 156 | 🌐 Python | 📅 2026-08-28 - Memory library for building stateful agents
+* [Yuxi-Know](https://github.com/xerrors/yuxi-know) ⭐ 6,582 | 🐛 80 | 🌐 Python | 📅 2026-08-28 - 基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
 * [LaWGPT](https://github.com/pengxiao-song/lawgpt) ⭐ 6,058 | 🐛 87 | 🌐 Python | 📅 2024-06-11 - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 * [paperless-ai](https://github.com/clusterzx/paperless-ai) ⭐ 5,915 | 🐛 57 | 🌐 JavaScript | 📅 2026-08-22 - An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.
 * [shimmy](https://github.com/michael-a-kuykendall/shimmy) ⭐ 5,809 | 🐛 8 | 🌐 Rust | 📅 2026-08-29 - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 * [agentops](https://github.com/agentops-ai/agentops) ⭐ 5,803 | 🐛 172 | 🌐 Python | 📅 2026-06-25 - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
-* [MedicalGPT](https://github.com/shibing624/medicalgpt) ⭐ 5,758 | 🐛 6 | 🌐 Python | 📅 2026-06-03 - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
+* [MedicalGPT](https://github.com/shibing624/medicalgpt) ⭐ 5,759 | 🐛 6 | 🌐 Python | 📅 2026-06-03 - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
 * [coze-loop](https://github.com/coze-dev/coze-loop) ⭐ 5,705 | 🐛 77 | 🌐 Go | 📅 2026-08-28 - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
-* [gpustack](https://github.com/gpustack/gpustack) ⭐ 5,571 | 🐛 696 | 🌐 Python | 📅 2026-08-28 - Manage GPU clusters for running AI models
+* [gpustack](https://github.com/gpustack/gpustack) ⭐ 5,572 | 🐛 696 | 🌐 Python | 📅 2026-08-28 - Manage GPU clusters for running AI models
 * [llama-swap](https://github.com/mostlygeek/llama-swap) ⭐ 5,502 | 🐛 88 | 🌐 Go | 📅 2026-08-28 - Model swapping for llama.cpp (or any local OpenAPI compatible server)
-* [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) ⭐ 4,809 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-20 - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
-* [SmartSub](https://github.com/buxuku/smartsub) ⭐ 4,809 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-20 - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
+* [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) ⭐ 4,810 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-20 - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
+* [SmartSub](https://github.com/buxuku/smartsub) ⭐ 4,810 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-20 - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
 * [langroid](https://github.com/langroid/langroid) ⭐ 4,101 | 🐛 50 | 🌐 Python | 📅 2026-08-29 - Harness LLMs with Multi-Agent Programming
 * [Ask-Anything](https://github.com/opengvlab/ask-anything) ⭐ 3,347 | 🐛 75 | 🌐 Python | 📅 2026-07-17 - ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
 * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) ⭐ 3,248 | 🐛 3 | 🌐 Python | 📅 2026-08-20 - A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
@@ -1865,7 +1865,7 @@ Run these two commands inside Claude Code:
 * [GPTQ-for-LLaMa](https://github.com/qwopqwop200/gptq-for-llama) ⭐ 3,073 | 🐛 63 | 🌐 Python | 📅 2024-07-13 - 4 bits quantization of LLaMA using GPTQ
 * [EasyEdit](https://github.com/zjunlp/easyedit) ⭐ 2,909 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14 - An Easy-to-use Knowledge Editing Framework for LLMs.
 * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) ⭐ 2,791 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2023-12-12 - We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related technologies as possible. 我们打造了方便研究人员上手和使用大模型等微调平台，我们欢迎开源爱好者发起任何有意义的pr！
-* [xturing](https://github.com/stochasticai/xturing) ⭐ 2,674 | 🐛 14 | 🌐 Python | 📅 2026-03-04 - Build and control your own LLMs
+* [xturing](https://github.com/stochasticai/xturing) ⭐ 2,674 | 🐛 15 | 🌐 Python | 📅 2026-08-29 - Build and control your own LLMs
 * [eva](https://github.com/georgia-tech-db/eva) ⚠️ Archived - Database system for building simpler and faster AI-powered applications
 * [evadb](https://github.com/georgia-tech-db/evadb) ⚠️ Archived - Database system for AI-powered apps
 * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) ⭐ 2,615 | 🐛 75 | 🌐 JavaScript | 📅 2026-08-28 - Zotero chat PDF with GPT, ChatGPT, Claude, Gemini, DeepSeek
@@ -1909,9 +1909,9 @@ Run these two commands inside Claude Code:
 * [langchat](https://github.com/tycoding/langchat) ⭐ 1,276 | 🐛 11 | 🌐 Java | 📅 2025-11-05 - Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 * [sage](https://github.com/storia-ai/sage) ⚠️ Archived - Chat with any codebase in under two minutes | Fully local or via third-party APIs
 * [openinference](https://github.com/arize-ai/openinference) ⭐ 1,183 | 🐛 220 | 🌐 Python | 📅 2026-08-29 - OpenTelemetry Instrumentation for AI Observability
-* [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) ⭐ 1,162 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24 - All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.
+* [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) ⭐ 1,163 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24 - All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.
 * [tools](https://github.com/strands-agents/tools) ⭐ 1,159 | 🐛 138 | 🌐 Python | 📅 2026-08-28 - A set of tools that gives agents powerful capabilities.
-* [GoModel](https://github.com/enterpilot/gomodel) ⭐ 1,094 | 🐛 55 | 🌐 Go | 📅 2026-08-28 - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.
+* [GoModel](https://github.com/enterpilot/gomodel) ⭐ 1,095 | 🐛 55 | 🌐 Go | 📅 2026-08-28 - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.
 * [search\_with\_ai](https://github.com/yokingma/search_with_ai) ⭐ 1,058 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-13 - 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
 * [llama-int8](https://github.com/tloen/llama-int8) ⭐ 1,036 | 🐛 16 | 🌐 Python | 📅 2023-03-17 - Quantized inference code for LLaMA models
 * [RepoAgent](https://github.com/openbmb/repoagent) ⭐ 1,033 | 🐛 11 | 🌐 Python | 📅 2024-12-23 - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.
@@ -1922,7 +1922,7 @@ Run these two commands inside Claude Code:
 * [auto-news](https://github.com/finaldie/auto-news) ⭐ 906 | 🐛 4 | 🌐 Python | 📅 2025-07-19 - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
 * [PIXIU](https://github.com/chancefocus/pixiu) ⭐ 884 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-03-04 - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).
 * [PIXIU](https://github.com/the-finai/pixiu) ⭐ 884 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-03-04 - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).
-* [Automodel](https://github.com/nvidia-nemo/automodel) ⭐ 879 | 🐛 406 | 🌐 Python | 📅 2026-08-29 - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+* [Automodel](https://github.com/nvidia-nemo/automodel) ⭐ 879 | 🐛 407 | 🌐 Python | 📅 2026-08-29 - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 * [entaoai](https://github.com/akshata29/entaoai) ⭐ 866 | 🐛 12 | 🌐 TypeScript | 📅 2025-01-02 - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 * [samples](https://github.com/strands-agents/samples) ⭐ 836 | 🐛 42 | 🌐 Python | 📅 2026-08-12 - Agent samples built using the Strands Agents SDK.
 * [llama3.java](https://github.com/mukel/llama3.java) ⭐ 816 | 🐛 18 | 🌐 Java | 📅 2026-04-24 - Practical Llama 3 inference in Java
@@ -1936,7 +1936,7 @@ Run these two commands inside Claude Code:
 * [openyak](https://github.com/openyak/openyak) ⭐ 701 | 🐛 9 | 🌐 Python | 📅 2026-08-27 - OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.
 * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) ⭐ 674 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-02 - Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access
 * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) ⭐ 664 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-09-30 - 挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI
-* [swarmclaw](https://github.com/swarmclawai/swarmclaw) ⭐ 653 | 🐛 15 | 🌐 TypeScript | 📅 2026-06-30 - Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).
+* [swarmclaw](https://github.com/swarmclawai/swarmclaw) ⭐ 654 | 🐛 15 | 🌐 TypeScript | 📅 2026-06-30 - Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).
 * [LlmTornado](https://github.com/lofcz/llmtornado) ⭐ 638 | 🐛 12 | 🌐 C# | 📅 2026-08-17 - The .NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, MoonshotAI, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!
 * [llama\_index\_starter\_pack](https://github.com/logan-markewich/llama_index_starter_pack) ⭐ 631 | 🐛 4 | 🌐 Python | 📅 2024-08-28 - This repository provides very basic flask, streamlit, and docker examples for the llama\_index (fka gpt\_index) package
 * [LLamaTuner](https://github.com/jianzhnie/llamatuner) ⭐ 621 | 🐛 18 | 🌐 Python | 📅 2025-01-24 - Easy and Efficient Finetuning  LLMs. (Supported LLama, LLama2, LLama3, Qwen,  Baichuan, GLM , Falcon) 大模型高效量化训练+部署.
@@ -1997,7 +1997,7 @@ Run these two commands inside Claude Code:
 * [OpenAI](https://github.com/macpaw/openai) ⭐ 2,937 | 🐛 40 | 🌐 Swift | 📅 2026-07-21 - Swift community driven package for OpenAI public API
 * [AIShader](https://github.com/keijiro/aishader) ⭐ 2,389 | 🐛 0 | 🌐 C# | 📅 2023-12-05 - ChatGPT-powered shader generator for Unity
 * [open-ai](https://github.com/orhanerday/open-ai) ⭐ 2,366 | 🐛 32 | 🌐 PHP | 📅 2025-03-12 - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
-* [Unity-Skills](https://github.com/besty0728/unity-skills) ⭐ 1,680 | 🐛 0 | 🌐 C# | 📅 2026-08-28 - AI automation skills specifically designed for Unity
+* [Unity-Skills](https://github.com/besty0728/unity-skills) ⭐ 1,680 | 🐛 0 | 🌐 C# | 📅 2026-08-29 - AI automation skills specifically designed for Unity
 * [OpenAI-Unity](https://github.com/srcnalt/openai-unity) ⭐ 842 | 🐛 30 | 🌐 C# | 📅 2024-11-27 - An unofficial OpenAI Unity Package that aims to help you use OpenAI API directly in Unity Game engine.
 * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) ⭐ 762 | 🐛 25 | 📅 2025-07-01 - 使用unity实现AI聊天相关功能。目前这个库包含了对chatgpt、chatglm等大语言模型的api调用的代码实现以及实现了微软Azure以及百度AI的语音服务功能，语音服务均采用web api实现，支持Windows/WebGL/Android等平台
 * [openai-kit](https://github.com/dylanshine/openai-kit) ⭐ 730 | 🐛 11 | 🌐 Swift | 📅 2024-08-26 - A community Swift package used to interact with the OpenAI API
@@ -2010,28 +2010,28 @@ Run these two commands inside Claude Code:
 
 ## Openai
 
-* [Auto-GPT](https://github.com/torantulino/auto-gpt) ⭐ 186,965 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - An experimental open-source attempt to make GPT-4 fully autonomous.
-* [Auto-GPT](https://github.com/significant-gravitas/auto-gpt) ⭐ 186,965 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - An experimental open-source attempt to make GPT-4 fully autonomous.
-* [AutoGPT](https://github.com/significant-gravitas/autogpt) ⭐ 186,965 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-* [lobehub](https://github.com/lobehub/lobehub) ⭐ 82,077 | 🐛 833 | 🌐 TypeScript | 📅 2026-08-29 - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
-* [openai-cookbook](https://github.com/openai/openai-cookbook) ⭐ 75,594 | 🐛 294 | 🌐 Jupyter Notebook | 📅 2026-08-28 - Examples and guides for using the OpenAI API
-* [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐ 68,491 | 🐛 988 | 🌐 TypeScript | 📅 2026-08-29 - omo; the best agent harness - previously oh-my-opencode
+* [Auto-GPT](https://github.com/torantulino/auto-gpt) ⭐ 186,966 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - An experimental open-source attempt to make GPT-4 fully autonomous.
+* [Auto-GPT](https://github.com/significant-gravitas/auto-gpt) ⭐ 186,966 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - An experimental open-source attempt to make GPT-4 fully autonomous.
+* [AutoGPT](https://github.com/significant-gravitas/autogpt) ⭐ 186,966 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+* [lobehub](https://github.com/lobehub/lobehub) ⭐ 82,078 | 🐛 835 | 🌐 TypeScript | 📅 2026-08-29 - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+* [openai-cookbook](https://github.com/openai/openai-cookbook) ⭐ 75,595 | 🐛 294 | 🌐 Jupyter Notebook | 📅 2026-08-28 - Examples and guides for using the OpenAI API
+* [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐ 68,490 | 🐛 989 | 🌐 TypeScript | 📅 2026-08-29 - omo; the best agent harness - previously oh-my-opencode
 * [ChatGPT](https://github.com/lencx/chatgpt) ⭐ 54,462 | 🐛 942 | 🌐 Rust | 📅 2024-08-29 - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-* [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 53,261 | 🐛 1,240 | 🌐 C++ | 📅 2026-08-25 - Port of OpenAI's Whisper model in C/C++
-* [whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 53,261 | 🐛 1,240 | 🌐 C++ | 📅 2026-08-25 - Port of OpenAI's Whisper model in C/C++
-* [new-api](https://github.com/calcium-ion/new-api) ⭐ 46,708 | 🐛 1,354 | 🌐 Go | 📅 2026-08-27 - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
-* [siyuan](https://github.com/siyuan-note/siyuan) ⭐ 46,026 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-29 - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+* [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 53,261 | 🐛 1,238 | 🌐 C++ | 📅 2026-08-29 - Port of OpenAI's Whisper model in C/C++
+* [whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 53,261 | 🐛 1,238 | 🌐 C++ | 📅 2026-08-29 - Port of OpenAI's Whisper model in C/C++
+* [new-api](https://github.com/calcium-ion/new-api) ⭐ 46,710 | 🐛 1,355 | 🌐 Go | 📅 2026-08-27 - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
+* [siyuan](https://github.com/siyuan-note/siyuan) ⭐ 46,025 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-29 - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 * [ToolJet](https://github.com/tooljet/tooljet) ⭐ 40,787 | 🐛 1,170 | 🌐 JavaScript | 📅 2026-08-28 - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-* [cognee](https://github.com/topoteretes/cognee) ⭐ 30,328 | 🐛 474 | 🌐 Python | 📅 2026-08-28 - Memory management for the AI Applications and AI Agents
-* [9router](https://github.com/decolua/9router) ⭐ 26,578 | 🐛 1,827 | 🌐 JavaScript | 📅 2026-08-14 - Universal AI Proxy for Claude Code, Codex, Cursor | OpenAI, Claude, Gemini, Copilot
-* [pentagi](https://github.com/vxcontrol/pentagi) ⭐ 22,136 | 🐛 50 | 🌐 Go | 📅 2026-08-06 - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-* [swarm](https://github.com/openai/swarm) ⭐ 21,928 | 🐛 35 | 🌐 Python | 📅 2026-04-15 - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-* [CodexBar](https://github.com/steipete/codexbar) ⭐ 20,688 | 🐛 143 | 🌐 Swift | 📅 2026-08-29 - Show usage stats for OpenAI Codex.
+* [cognee](https://github.com/topoteretes/cognee) ⭐ 30,330 | 🐛 474 | 🌐 Python | 📅 2026-08-28 - Memory management for the AI Applications and AI Agents
+* [9router](https://github.com/decolua/9router) ⭐ 26,581 | 🐛 1,827 | 🌐 JavaScript | 📅 2026-08-14 - Universal AI Proxy for Claude Code, Codex, Cursor | OpenAI, Claude, Gemini, Copilot
+* [pentagi](https://github.com/vxcontrol/pentagi) ⭐ 22,140 | 🐛 51 | 🌐 Go | 📅 2026-08-06 - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+* [swarm](https://github.com/openai/swarm) ⭐ 21,929 | 🐛 35 | 🌐 Python | 📅 2026-04-15 - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+* [CodexBar](https://github.com/steipete/codexbar) ⭐ 20,688 | 🐛 145 | 🌐 Swift | 📅 2026-08-29 - Show usage stats for OpenAI Codex.
 * [FunASR](https://github.com/modelscope/funasr) ⭐ 20,062 | 🐛 5 | 🌐 Python | 📅 2026-08-29 - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
 * [evals](https://github.com/openai/evals) ⭐ 19,298 | 🐛 324 | 🌐 Python | 📅 2026-04-14 - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
 * [tiktoken](https://github.com/openai/tiktoken) ⭐ 19,114 | 🐛 128 | 🌐 Python | 📅 2026-08-17 - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
-* [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) ⭐ 17,812 | 🐛 267 | 🌐 Python | 📅 2026-08-16 - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: <https://discord.gg/gMwThUMeme>
-* [QChatGPT](https://github.com/rockchinq/qchatgpt) ⭐ 17,601 | 🐛 125 | 🌐 Python | 📅 2026-08-28 - 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台
+* [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) ⭐ 17,813 | 🐛 267 | 🌐 Python | 📅 2026-08-16 - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: <https://discord.gg/gMwThUMeme>
+* [QChatGPT](https://github.com/rockchinq/qchatgpt) ⭐ 17,602 | 🐛 125 | 🌐 Python | 📅 2026-08-28 - 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台
 * [hydra](https://github.com/ory/hydra) ⭐ 17,510 | 🐛 94 | 🌐 Go | 📅 2026-07-29 - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.
 * [carrot](https://github.com/xx025/carrot) ⭐ 17,174 | 🐛 37 | 📅 2026-04-26 - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点
 * [novel](https://github.com/steven-tey/novel) ⭐ 16,431 | 🐛 119 | 🌐 TypeScript | 📅 2025-01-18 - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -2040,13 +2040,13 @@ Run these two commands inside Claude Code:
 * [casdoor](https://github.com/casdoor/casdoor) ⭐ 14,288 | 🐛 117 | 🌐 Go | 📅 2026-08-28 - Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) ⚠️ Archived - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) ⭐ 13,583 | 🐛 50 | 🌐 TypeScript | 📅 2025-07-26 - Draw a mockup and generate html for it
-* [Fay](https://github.com/xszyou/fay) ⭐ 13,465 | 🐛 131 | 🌐 Python | 📅 2026-08-07 - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+* [Fay](https://github.com/xszyou/fay) ⭐ 13,466 | 🐛 131 | 🌐 Python | 📅 2026-08-07 - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 * [pr-agent](https://github.com/codium-ai/pr-agent) ⭐ 12,750 | 🐛 99 | 🌐 Python | 📅 2026-08-28 - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 * [pr-agent](https://github.com/qodo-ai/pr-agent) ⭐ 12,750 | 🐛 99 | 🌐 Python | 📅 2026-08-28 - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 * [pr-agent](https://github.com/the-pr-agent/pr-agent) ⭐ 12,750 | 🐛 99 | 🌐 Python | 📅 2026-08-28 - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
-* [note-gen](https://github.com/codexu/note-gen) ⭐ 12,699 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-27 - 一款专注于记录和写作的跨端 AI 笔记
+* [note-gen](https://github.com/codexu/note-gen) ⭐ 12,699 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-27 - 一款专注于记录和写作的跨端 AI 笔记
 * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) ⭐ 12,577 | 🐛 367 | 🌐 JavaScript | 📅 2026-08-28 - 自建Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
-* [inbox-zero](https://github.com/elie222/inbox-zero) ⭐ 12,104 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-28 - Open source email app to reach inbox zero fast.
+* [inbox-zero](https://github.com/elie222/inbox-zero) ⭐ 12,105 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-28 - Open source email app to reach inbox zero fast.
 * [scira](https://github.com/zaidmukaddam/scira) ⭐ 11,851 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-12 - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 * [openai-node](https://github.com/openai/openai-node) ⭐ 11,147 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-28 - Node.js library for the OpenAI API
 * [blinko](https://github.com/blinko-space/blinko) ⭐ 10,958 | 🐛 414 | 🌐 TypeScript | 📅 2026-08-27 - An open-source, self-hosted personal note tool prioritizing privacy, built using TypeScript .
@@ -2063,34 +2063,34 @@ Run these two commands inside Claude Code:
 * [disco-diffusion](https://github.com/alembics/disco-diffusion) ⭐ 7,397 | 🐛 71 | 🌐 Jupyter Notebook | 📅 2023-07-09 - openai开发的ai模型目前比较知名的有： #chatgpt、#midjourney、#stablediffusionchat 今天为大家更新5个好用的ai算法模型学习渠道1、神力中文ai算法市场:、disco-diffusion型:、百度文心 ernie-vilg:
 * [vibe](https://github.com/thewh1teagle/vibe) ⭐ 7,225 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-28 - Transcribe on your own!
 * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) ⭐ 6,968 | 🐛 32 | 🌐 TypeScript | 📅 2026-01-07 - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
-* [gpt-load](https://github.com/tbphp/gpt-load) ⭐ 6,288 | 🐛 0 | 🌐 Go | 📅 2026-08-28 - 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go.
+* [gpt-load](https://github.com/tbphp/gpt-load) ⭐ 6,287 | 🐛 0 | 🌐 Go | 📅 2026-08-29 - 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go.
 * [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived - ChatGPT for Mac, living in your menubar.
-* [chatgpt2api](https://github.com/basketikun/chatgpt2api) ⭐ 6,050 | 🐛 19 | 🌐 Python | 📅 2026-07-29 - ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
+* [chatgpt2api](https://github.com/basketikun/chatgpt2api) ⭐ 6,051 | 🐛 19 | 🌐 Python | 📅 2026-07-29 - ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 * [feishu-chatgpt](https://github.com/leizhenpeng/feishu-chatgpt) ⭐ 5,639 | 🐛 89 | 🌐 Go | 📅 2025-07-08 - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 * [feishu-openai](https://github.com/connectai-e/feishu-openai) ⭐ 5,639 | 🐛 89 | 🌐 Go | 📅 2025-07-08 - 🎒 飞书  ×（GPT-4 + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) ⭐ 5,632 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-08-15 - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,407 | 🐛 489 | 🌐 JavaScript | 📅 2026-08-26 - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
-* [ai-data-science-team](https://github.com/business-science/ai-data-science-team) ⭐ 5,391 | 🐛 30 | 🌐 Python | 📅 2026-01-28 - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+* [ai-data-science-team](https://github.com/business-science/ai-data-science-team) ⭐ 5,392 | 🐛 30 | 🌐 Python | 📅 2026-01-28 - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
 * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) ⭐ 5,225 | 🐛 56 | 🌐 TypeScript | 📅 2026-05-01 - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
-* [axonhub](https://github.com/looplj/axonhub) ⭐ 5,118 | 🐛 139 | 🌐 Go | 📅 2026-08-27 - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API
+* [axonhub](https://github.com/looplj/axonhub) ⭐ 5,120 | 🐛 139 | 🌐 Go | 📅 2026-08-27 - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API
 * [wolverine](https://github.com/biobootloader/wolverine) ⭐ 5,073 | 🐛 27 | 🌐 Python | 📅 2024-03-08 - @denfromufa @openai nice tool!  but i meant a tool to chat with gpt-4 in my terminal, i.e., something like
-* [whodb](https://github.com/clidey/whodb) ⭐ 5,017 | 🐛 32 | 🌐 Go | 📅 2026-08-28 - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
+* [whodb](https://github.com/clidey/whodb) ⭐ 5,017 | 🐛 32 | 🌐 Go | 📅 2026-08-29 - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
 * [BlenderGPT](https://github.com/gd3kr/blendergpt) ⭐ 4,976 | 🐛 68 | 🌐 Python | 📅 2024-06-05 - Use commands in English to control Blender with OpenAI's GPT-4
 * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) ⭐ 4,686 | 🐛 30 | 🌐 Vue | 📅 2026-08-11 - 基于 OpenAI API 实现的 ChatGPT Web 应用，包括通用版和角色版。自带管理后台，采用 Go + Vue3 + element-plus 实现。
 * [interview-coder](https://github.com/ibttf/interview-coder) ⭐ 4,446 | 🐛 5 | 📅 2025-09-23 - An open-source invisible desktop application to help you pass your technical interviews.
 * [logfire](https://github.com/pydantic/logfire) ⭐ 4,444 | 🐛 194 | 🌐 Python | 📅 2026-08-29 - Uncomplicated Observability for Python and beyond! 🪵🔥
 * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) ⭐ 4,350 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2025-10-26 - Learn Agentic AI using OpenAI Agents SDK, Autogen, CrewAI, LangGraph, and Knowledge Graphs.
-* [DashPlayer](https://github.com/solidspoon/dashplayer) ⭐ 4,325 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-24 - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
+* [DashPlayer](https://github.com/solidspoon/dashplayer) ⭐ 4,326 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-24 - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
 * [cheetah](https://github.com/leetcode-mafia/cheetah) ⭐ 4,256 | 🐛 20 | 🌐 Swift | 📅 2025-01-14 - Whisper & GPT-based app for passing remote SWE interviews
-* [ArcReel](https://github.com/arcreel/arcreel) ⭐ 4,247 | 🐛 143 | 🌐 Python | 📅 2026-08-29 - OpenAI
-* [archestra](https://github.com/archestra-ai/archestra) ⭐ 4,235 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-29 - Secure platform for enterprise agents with MCP, guardrails, local agent, and more!
+* [ArcReel](https://github.com/arcreel/arcreel) ⭐ 4,248 | 🐛 143 | 🌐 Python | 📅 2026-08-29 - OpenAI
+* [archestra](https://github.com/archestra-ai/archestra) ⭐ 4,235 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-29 - Secure platform for enterprise agents with MCP, guardrails, local agent, and more!
 * [copilot-api](https://github.com/ericc-ch/copilot-api) ⭐ 4,103 | 🐛 134 | 🌐 TypeScript | 📅 2025-11-10 - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 * [auto-subs](https://github.com/tmoroney/auto-subs) ⭐ 4,100 | 🐛 260 | 🌐 TypeScript | 📅 2026-08-02 - Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.
-* [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) ⭐ 3,996 | 🐛 11 | 🌐 Vue | 📅 2026-02-05 - 一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
+* [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) ⭐ 3,997 | 🐛 11 | 🌐 Vue | 📅 2026-02-05 - 一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
 * [OpenGpt](https://github.com/futantan/opengpt) ⭐ 3,898 | 🐛 19 | 🌐 TypeScript | 📅 2025-06-07 - Create your own ChatGPT App in seconds.
-* [chat2api](https://github.com/lanqian528/chat2api) ⭐ 3,797 | 🐛 41 | 🌐 Python | 📅 2025-05-17 - A service that can convert ChatGPT on the web to OpenAI API format.
+* [chat2api](https://github.com/lanqian528/chat2api) ⭐ 3,798 | 🐛 41 | 🌐 Python | 📅 2025-05-17 - A service that can convert ChatGPT on the web to OpenAI API format.
 * [aiac](https://github.com/gofireflyio/aiac) ⭐ 3,787 | 🐛 3 | 🌐 Go | 📅 2026-03-24 - Artificial Intelligence Infrastructure-as-Code Generator.
-* [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) ⭐ 3,727 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-28 - Run OpenAI Codex Desktop on Linux - automated installer
+* [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) ⭐ 3,728 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-29 - Run OpenAI Codex Desktop on Linux - automated installer
 * [openai-realtime-console](https://github.com/openai/openai-realtime-console) ⭐ 3,615 | 🐛 54 | 🌐 JavaScript | 📅 2025-08-28 - React app for inspecting, building and debugging with the Realtime API
 * [gpt\_image\_playground](https://github.com/cooksleep/gpt_image_playground) ⭐ 3,567 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-28 - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
 * [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) ⭐ 3,451 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-18 - An unofficial Visual Studio Code - OpenAI ChatGPT integration
@@ -2098,7 +2098,7 @@ Run these two commands inside Claude Code:
 * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) ⭐ 3,325 | 🐛 122 | 🌐 Python | 📅 2026-08-09 - OpenAI Whisper ASR Webservice API
 * [ruby-openai](https://github.com/alexrudall/ruby-openai) ⭐ 3,222 | 🐛 54 | 🌐 Ruby | 📅 2026-05-01 - OpenAI API + Ruby! 🤖❤️ Now with ChatGPT and Whisper...
 * [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) ⚠️ Archived - Elegant and Powerfull. Powered by OpenAI and Vercel.
-* [fastembed](https://github.com/qdrant/fastembed) ⭐ 3,172 | 🐛 117 | 🌐 Python | 📅 2026-08-26 - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
+* [fastembed](https://github.com/qdrant/fastembed) ⭐ 3,172 | 🐛 118 | 🌐 Python | 📅 2026-08-26 - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 * [chatgpt](https://github.com/dirk1983/chatgpt) ⭐ 3,103 | 🐛 3 | 🌐 JavaScript | 📅 2025-07-24 - 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
 * [MiroFlow](https://github.com/miromindai/miroflow) ⭐ 3,103 | 🐛 1 | 🌐 Python | 📅 2026-07-06 - 🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI
 * [openai](https://github.com/betalgo/openai) ⭐ 3,021 | 🐛 19 | 🌐 C# | 📅 2026-03-21 - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E
@@ -2110,7 +2110,7 @@ Run these two commands inside Claude Code:
 * [VirtualWife](https://github.com/yakami129/virtualwife) ⭐ 2,892 | 🐛 45 | 🌐 Python | 📅 2024-10-27 - VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。
 * [one-api](https://github.com/martialbe/one-api) ⭐ 2,882 | 🐛 142 | 🌐 Go | 📅 2026-02-19 - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * [one-hub](https://github.com/martialbe/one-hub) ⭐ 2,882 | 🐛 142 | 🌐 Go | 📅 2026-02-19 - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
-* [codex-lb](https://github.com/soju06/codex-lb) ⭐ 2,881 | 🐛 100 | 🌐 Python | 📅 2026-08-28 - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
+* [codex-lb](https://github.com/soju06/codex-lb) ⭐ 2,881 | 🐛 101 | 🌐 Python | 📅 2026-08-28 - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 * [o1-engineer](https://github.com/doriandarko/o1-engineer) ⭐ 2,834 | 🐛 15 | 🌐 Python | 📅 2024-12-16 - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow.
 * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) ⭐ 2,780 | 🐛 23 | 🌐 Python | 📅 2026-03-12 - Claude Code to OpenAI API Proxy
 * [mindforger](https://github.com/dvorka/mindforger) ⭐ 2,717 | 🐛 632 | 🌐 C++ | 📅 2026-05-29 - Thinking notebook and Markdown editor.
@@ -2158,7 +2158,7 @@ Run these two commands inside Claude Code:
 * [scrapeghost](https://github.com/jamesturk/scrapeghost) ⭐ 1,442 | 🐛 7 | 🌐 Python | 📅 2026-01-14 - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) ⭐ 1,408 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-12 - Fullstack SaaS Boilerplate built with tRPC, Fastify and React
 * [hello-ai](https://github.com/xxxily/hello-ai) ⭐ 1,389 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-27 - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
-* [codedb](https://github.com/justrach/codedb) ⭐ 1,370 | 🐛 2 | 🌐 Zig | 📅 2026-08-28 - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
+* [codedb](https://github.com/justrach/codedb) ⭐ 1,370 | 🐛 2 | 🌐 Zig | 📅 2026-08-29 - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
 * [openai](https://github.com/azure-samples/openai) ⭐ 1,343 | 🐛 65 | 🌐 Jupyter Notebook | 📅 2026-08-20 - The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.
 * [pyChatGPT](https://github.com/terry3041/pychatgpt) ⚠️ Archived - An unofficial Python wrapper for OpenAI's ChatGPT API
 * [ChatGPT-Proxy-V4](https://github.com/acheong08/chatgpt-proxy-v4) ⚠️ Archived - Cloudflare Bypass for OpenAI based on `puid`
@@ -2340,62 +2340,62 @@ Run these two commands inside Claude Code:
 
 ## Others
 
-* [Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt) ⭐ 186,965 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - 2017 GUJAM
-* [Auto-GPT.git](https://github.com/torantulino/auto-gpt.git) ⭐ 186,965 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - Advanced Games Engineering Project - Cubic Voxel Game Maker
-* [stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) ⭐ 164,708 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02 - Stable Diffusion web UI
-* [whisper](https://github.com/openai/whisper) ⭐ 108,085 | 🐛 136 | 🌐 Python | 📅 2026-07-28 - Robust Speech Recognition via Large-Scale Weak Supervision
-* [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) ⭐ 88,659 | 🐛 853 | 🌐 TypeScript | 📅 2026-08-11 - MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
-* [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) ⭐ 88,659 | 🐛 853 | 🌐 TypeScript | 📅 2026-08-11 - MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
-* [chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) ⭐ 71,267 | 🐛 330 | 🌐 Python | 📅 2026-01-25 - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
-* [codegraph](https://github.com/colbymchenry/codegraph) ⭐ 68,508 | 🐛 453 | 🌐 C | 📅 2026-08-26 - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
-* [nanoGPT](https://github.com/karpathy/nanogpt) ⭐ 62,554 | 🐛 351 | 🌐 Python | 📅 2025-11-12 - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-* [nanoGPT](https://github.com/karpathy/nanogpt?utm_source=tldrnewsletter) ⭐ 62,554 | 🐛 351 | 🌐 Python | 📅 2025-11-12 - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+* [Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt) ⭐ 186,966 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - 2017 GUJAM
+* [Auto-GPT.git](https://github.com/torantulino/auto-gpt.git) ⭐ 186,966 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - Advanced Games Engineering Project - Cubic Voxel Game Maker
+* [stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) ⭐ 164,712 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02 - Stable Diffusion web UI
+* [whisper](https://github.com/openai/whisper) ⭐ 108,089 | 🐛 136 | 🌐 Python | 📅 2026-07-28 - Robust Speech Recognition via Large-Scale Weak Supervision
+* [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) ⭐ 88,662 | 🐛 853 | 🌐 TypeScript | 📅 2026-08-11 - MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+* [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) ⭐ 88,662 | 🐛 853 | 🌐 TypeScript | 📅 2026-08-11 - MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+* [chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) ⭐ 71,268 | 🐛 330 | 🌐 Python | 📅 2026-01-25 - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
+* [codegraph](https://github.com/colbymchenry/codegraph) ⭐ 68,516 | 🐛 453 | 🌐 C | 📅 2026-08-26 - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
+* [nanoGPT](https://github.com/karpathy/nanogpt) ⭐ 62,559 | 🐛 351 | 🌐 Python | 📅 2025-11-12 - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+* [nanoGPT](https://github.com/karpathy/nanogpt?utm_source=tldrnewsletter) ⭐ 62,559 | 🐛 351 | 🌐 Python | 📅 2025-11-12 - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 * [Pake](https://github.com/tw93/pake) ⭐ 61,113 | 🐛 1 | 🌐 Rust | 📅 2026-08-28 - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-* [nanochat](https://github.com/karpathy/nanochat) ⭐ 57,605 | 🐛 111 | 🌐 Python | 📅 2026-08-02 - The best ChatGPT that $100 can buy.
-* [appwrite](https://github.com/appwrite/appwrite) ⭐ 57,155 | 🐛 1,026 | 🌐 TypeScript | 📅 2026-08-28 - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+* [nanochat](https://github.com/karpathy/nanochat) ⭐ 57,606 | 🐛 111 | 🌐 Python | 📅 2026-08-02 - The best ChatGPT that $100 can buy.
+* [appwrite](https://github.com/appwrite/appwrite) ⭐ 57,154 | 🐛 1,027 | 🌐 TypeScript | 📅 2026-08-29 - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 * [leetcode](https://github.com/azl397985856/leetcode) ⭐ 55,747 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-16 - 推荐免费ChatGPT网站：[www.lintcode.com/chat-gpt?utm\_source=tf-github-lucifer](http://www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer)  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+* [minimind](https://github.com/jingyaogong/minimind) ⭐ 55,119 | 🐛 56 | 🌐 Python | 📅 2026-08-21 - 【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！
 * [gpt-engineer](https://github.com/antonosika/gpt-engineer) ⚠️ Archived - Specify what you want it to build, the AI asks for clarification, and then builds it.
-* [minimind](https://github.com/jingyaogong/minimind) ⭐ 55,116 | 🐛 56 | 🌐 Python | 📅 2026-08-21 - 【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！
-* [pdf.js](https://github.com/mozilla/pdf.js) ⭐ 53,798 | 🐛 417 | 🌐 JavaScript | 📅 2026-08-28 - PDF Reader in JavaScript
-* [gpt\_index](https://github.com/jerryjliu/gpt_index) ⭐ 51,909 | 🐛 670 | 🌐 Python | 📅 2026-08-28 - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
-* [jan](https://github.com/janhq/jan) ⭐ 44,233 | 🐛 495 | 🌐 TypeScript | 📅 2026-08-28 - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-* [jan](https://github.com/menloresearch/jan) ⭐ 44,233 | 🐛 495 | 🌐 TypeScript | 📅 2026-08-28 - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-* [DeepSpeed](https://github.com/microsoft/deepspeed) ⭐ 43,019 | 🐛 1,331 | 🌐 Python | 📅 2026-08-29 - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-* [WeChatMsg](https://github.com/lc044/wechatmsg) ⭐ 42,011 | 🐛 25 | 📅 2025-12-30 - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+* [pdf.js](https://github.com/mozilla/pdf.js) ⭐ 53,799 | 🐛 417 | 🌐 JavaScript | 📅 2026-08-28 - PDF Reader in JavaScript
+* [gpt\_index](https://github.com/jerryjliu/gpt_index) ⭐ 51,909 | 🐛 670 | 🌐 Python | 📅 2026-08-29 - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
+* [jan](https://github.com/janhq/jan) ⭐ 44,234 | 🐛 498 | 🌐 TypeScript | 📅 2026-08-29 - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+* [jan](https://github.com/menloresearch/jan) ⭐ 44,234 | 🐛 498 | 🌐 TypeScript | 📅 2026-08-29 - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+* [DeepSpeed](https://github.com/microsoft/deepspeed) ⭐ 43,019 | 🐛 1,329 | 🌐 Python | 📅 2026-08-29 - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+* [WeChatMsg](https://github.com/lc044/wechatmsg) ⭐ 42,010 | 🐛 25 | 📅 2025-12-30 - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
 * [ColossalAI](https://github.com/hpcaitech/colossalai) ⭐ 41,443 | 🐛 504 | 🌐 Python | 📅 2026-08-24 - Making large AI models cheaper, faster and more accessible
 * [novu](https://github.com/novuhq/novu) ⭐ 39,680 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-28 - The open-source notification infrastructure with fully functional embedded notification center
-* [quivr](https://github.com/stangirard/quivr) ⭐ 39,430 | 🐛 33 | 🌐 Python | 📅 2025-07-09 - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+* [quivr](https://github.com/stangirard/quivr) ⭐ 39,432 | 🐛 33 | 🌐 Python | 📅 2025-07-09 - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) ⭐ 34,000 | 🐛 261 | 🌐 Python | 📅 2024-01-06 - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 * [XX-Net](https://github.com/xx-net/xx-net) ⭐ 33,443 | 🐛 7,925 | 🌐 Python | 📅 2026-06-21 - A proxy tool to bypass GFW.
-* [onyx](https://github.com/onyx-dot-app/onyx) ⭐ 31,815 | 🐛 426 | 🌐 Python | 📅 2026-08-29 - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+* [onyx](https://github.com/onyx-dot-app/onyx) ⭐ 31,815 | 🐛 427 | 🌐 Python | 📅 2026-08-29 - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 * [chatgpt-web](https://github.com/chanzhaoyu/chatgpt-web) ⚠️ Archived - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-* [gpt-researcher](https://github.com/assafelovic/gpt-researcher) ⭐ 29,189 | 🐛 58 | 🌐 Python | 📅 2026-08-27 - GPT based autonomous agent that does online comprehensive research on any given topic
-* [serena](https://github.com/oraios/serena) ⭐ 28,582 | 🐛 153 | 🌐 Python | 📅 2026-08-20 - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
-* [agentmemory](https://github.com/rohitg00/agentmemory) ⭐ 27,684 | 🐛 523 | 🌐 TypeScript | 📅 2026-08-24 - #1 Persistent memory for AI coding agents based on real-world benchmarks
+* [gpt-researcher](https://github.com/assafelovic/gpt-researcher) ⭐ 29,190 | 🐛 58 | 🌐 Python | 📅 2026-08-27 - GPT based autonomous agent that does online comprehensive research on any given topic
+* [serena](https://github.com/oraios/serena) ⭐ 28,584 | 🐛 153 | 🌐 Python | 📅 2026-08-20 - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
+* [agentmemory](https://github.com/rohitg00/agentmemory) ⭐ 27,690 | 🐛 523 | 🌐 TypeScript | 📅 2026-08-24 - #1 Persistent memory for AI coding agents based on real-world benchmarks
 * [MiniGPT-4](https://github.com/vision-cair/minigpt-4) ⭐ 25,625 | 🐛 376 | 🌐 Python | 📅 2024-09-02 - @bentossell minigpt-4 does this in their demo.
-* [skills](https://github.com/openai/skills) ⭐ 25,255 | 🐛 289 | 🌐 Python | 📅 2026-07-14 - Skills Catalog for Codex
-* [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) ⭐ 24,977 | 🐛 43 | 🌐 Go | 📅 2026-08-21 - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
+* [skills](https://github.com/openai/skills) ⭐ 25,257 | 🐛 289 | 🌐 Python | 📅 2026-07-14 - Skills Catalog for Codex
+* [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) ⭐ 24,976 | 🐛 43 | 🌐 Go | 📅 2026-08-21 - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
 * [flash-attention](https://github.com/hazyresearch/flash-attention) ⭐ 24,798 | 🐛 1,275 | 🌐 Python | 📅 2026-08-28 - Fast and memory-efficient exact attention
 * [gpt-crawler](https://github.com/builderio/gpt-crawler) ⭐ 22,392 | 🐛 110 | 🌐 TypeScript | 📅 2025-07-07 - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 * [babyagi](https://github.com/yoheinakajima/babyagi) ⭐ 22,356 | 🐛 29 | 🌐 Python | 📅 2026-01-31 - 3 cool projects to play around with autonomous agents:- auto-gpt:  babyagi:  camel:  one is your favorite?
-* [SWE-agent](https://github.com/princeton-nlp/swe-agent) ⭐ 20,168 | 🐛 82 | 🌐 Python | 📅 2026-08-24 - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+* [SWE-agent](https://github.com/princeton-nlp/swe-agent) ⭐ 20,169 | 🐛 82 | 🌐 Python | 📅 2026-08-24 - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 * [ChatALL](https://github.com/sunner/chatall) ⭐ 16,488 | 🐛 228 | 🌐 JavaScript | 📅 2026-08-19 - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 * [ChatALL](https://github.com/ai-shifu/chatall) ⭐ 16,488 | 🐛 228 | 🌐 JavaScript | 📅 2026-08-19 - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * [stableLM](https://github.com/stability-ai/stablelm) ⭐ 15,684 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
-* [ggml](https://github.com/ggerganov/ggml) ⭐ 15,252 | 🐛 352 | 🌐 C++ | 📅 2026-08-25 - Tensor library for machine learning
-* [Trellis](https://github.com/mindfold-ai/trellis) ⭐ 14,296 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-27 - The best agent harness.
+* [ggml](https://github.com/ggerganov/ggml) ⭐ 15,253 | 🐛 352 | 🌐 C++ | 📅 2026-08-25 - Tensor library for machine learning
+* [Trellis](https://github.com/mindfold-ai/trellis) ⭐ 14,297 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-27 - The best agent harness.
 * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) ⭐ 13,900 | 🐛 18 | 🌐 Python | 📅 2026-03-26 - Automate Creation of YouTube Shorts using MoviePy.
 * [dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy) ⭐ 13,611 | 🐛 6 | 🌐 Go | 📅 2026-08-27 - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 * [scalene](https://github.com/plasma-umass/scalene) ⭐ 13,494 | 🐛 152 | 🌐 Python | 📅 2026-08-27 - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
-* [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,237 | 🐛 53 | 🌐 TypeScript | 📅 2024-05-20 - Use ChatGPT On Wechat via wechaty
+* [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,236 | 🐛 53 | 🌐 TypeScript | 📅 2024-05-20 - Use ChatGPT On Wechat via wechaty
 * [haoel.github.io](https://github.com/haoel/haoel.github.io) ⭐ 13,062 | 🐛 179 | 🌐 Shell | 📅 2023-05-11 - 前两天看到耗子哥更新了上网的文档  也来说一下我是怎么解决 chatgpt和 new bing 就算挂了梯子还是无法登录或者使用问题的：gost + cloudflare warp，配置起来也比较简单  (1/n)
 * [mi-gpt](https://github.com/idootop/mi-gpt) ⚠️ Archived - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 * [zerox](https://github.com/getomni-ai/zerox) ⭐ 12,265 | 🐛 91 | 🌐 TypeScript | 📅 2025-05-20 - Zero shot pdf OCR with gpt-4o-mini
 * [miniperplx](https://github.com/zaidmukaddam/miniperplx) ⭐ 11,851 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-12 - A minimalistic AI-powered search engine that helps you find information on the internet. Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!
-* [chat-ui](https://github.com/huggingface/chat-ui) ⭐ 10,917 | 🐛 274 | 🌐 TypeScript | 📅 2026-08-29 - Open source codebase powering the HuggingChat app
+* [chat-ui](https://github.com/huggingface/chat-ui) ⭐ 10,918 | 🐛 274 | 🌐 TypeScript | 📅 2026-08-29 - Open source codebase powering the HuggingChat app
 * [go-gpt3](https://github.com/sashabaranov/go-gpt3) ⭐ 10,749 | 🐛 220 | 🌐 Go | 📅 2026-08-19 - Python interface to Amazon Web Services
 * [roomGPT](https://github.com/nutlope/roomgpt) ⭐ 10,671 | 🐛 36 | 🌐 TypeScript | 📅 2024-04-20 - Upload a photo of your room to generate your dream room with AI.
-* [mcp-use](https://github.com/mcp-use/mcp-use) ⭐ 10,539 | 🐛 59 | 🌐 TypeScript | 📅 2026-08-29 - mcp-use is the easiest way to interact with mcp servers with custom agents
+* [mcp-use](https://github.com/mcp-use/mcp-use) ⭐ 10,539 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-29 - mcp-use is the easiest way to interact with mcp servers with custom agents
 * [AudioGPT](https://github.com/aigc-audio/audiogpt) ⭐ 10,166 | 🐛 53 | 🌐 Python | 📅 2024-07-06 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 * [hamulete](https://github.com/hoochanlon/hamulete) ⭐ 9,569 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 * [bloop](https://github.com/bloopai/bloop) ⚠️ Archived - bloop is a fast code search engine written in Rust.
@@ -2408,13 +2408,13 @@ Run these two commands inside Claude Code:
 * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) ⭐ 8,462 | 🐛 217 | 🌐 HTML | 📅 2024-03-20 - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 * [nebullvm](https://github.com/nebuly-ai/nebullvm) ⭐ 8,329 | 🐛 110 | 🌐 Python | 📅 2024-07-22 - Plug and play modules to optimize the performances of your AI systems 🚀
 * [EdgeGPT](https://github.com/acheong08/edgegpt) ⚠️ Archived - Reverse engineered API of Microsoft's Bing Chat AI
-* [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) ⭐ 7,642 | 🐛 99 | 🌐 TypeScript | 📅 2026-08-29 - A ChatGPT Copilot in Obsidian
+* [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) ⭐ 7,643 | 🐛 99 | 🌐 TypeScript | 📅 2026-08-29 - A ChatGPT Copilot in Obsidian
 * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) ⭐ 7,497 | 🐛 6 | 🌐 Python | 📅 2026-06-24 - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 * [manifest](https://github.com/mnfst/manifest) ⭐ 7,483 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-28 - Shadcn/ui components library for building ChatGPT Apps
 * [next-enterprise](https://github.com/blazity/next-enterprise) ⭐ 7,450 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-26 - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
 * [zotero-gpt](https://github.com/muisedestiny/zotero-gpt) ⭐ 7,368 | 🐛 247 | 🌐 TypeScript | 📅 2026-05-01 - GPT Meet Zotero.
-* [xiaogpt](https://github.com/yihong0618/xiaogpt) ⭐ 6,902 | 🐛 72 | 🌐 Python | 📅 2026-02-24 - Play ChatGPT with xiaomi AI speaker
-* [xiaogpt.git](https://github.com/yihong0618/xiaogpt.git) ⭐ 6,902 | 🐛 72 | 🌐 Python | 📅 2026-02-24 - bilibili后台源码
+* [xiaogpt](https://github.com/yihong0618/xiaogpt) ⭐ 6,901 | 🐛 72 | 🌐 Python | 📅 2026-02-24 - Play ChatGPT with xiaomi AI speaker
+* [xiaogpt.git](https://github.com/yihong0618/xiaogpt.git) ⭐ 6,901 | 🐛 72 | 🌐 Python | 📅 2026-02-24 - bilibili后台源码
 * [point-e](https://github.com/openai/point-e) ⭐ 6,897 | 🐛 80 | 🌐 Python | 📅 2024-07-04 - Point cloud diffusion for 3D model synthesis
 * [DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples) ⭐ 6,841 | 🐛 325 | 🌐 Python | 📅 2026-08-26 - Example models using DeepSpeed
 * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) ⭐ 6,649 | 🐛 0 | 🌐 JavaScript | 📅 2024-01-17 - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
@@ -2426,17 +2426,17 @@ Run these two commands inside Claude Code:
 * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) ⭐ 5,715 | 🐛 51 | 🌐 Python | 📅 2026-08-09 - GPT-2 (124M) quality in 5B tokens
 * [freegpt-webui](https://github.com/ramonvc/freegpt-webui) ⚠️ Archived - GPT 3.5/4 with a Chat Web UI. No API key required.
 * [lottie](https://github.com/diffusionstudio/lottie) ⭐ 5,336 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-25 - Generate production-ready Lottie animations with Claude Code or Codex
-* [agentsview](https://github.com/wesm/agentsview) ⭐ 5,311 | 🐛 98 | 🌐 Go | 📅 2026-08-28 - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents. Also: 100x faster replacement for ccusage!
-* [agentsview](https://github.com/kenn-io/agentsview) ⭐ 5,311 | 🐛 98 | 🌐 Go | 📅 2026-08-28 - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
-* [gh-aw](https://github.com/github/gh-aw) ⭐ 5,031 | 🐛 373 | 🌐 Go | 📅 2026-08-29 - GitHub Agentic Workflows
+* [agentsview](https://github.com/wesm/agentsview) ⭐ 5,333 | 🐛 99 | 🌐 Go | 📅 2026-08-28 - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents. Also: 100x faster replacement for ccusage!
+* [agentsview](https://github.com/kenn-io/agentsview) ⭐ 5,333 | 🐛 99 | 🌐 Go | 📅 2026-08-28 - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+* [gh-aw](https://github.com/github/gh-aw) ⭐ 5,031 | 🐛 362 | 🌐 Go | 📅 2026-08-29 - GitHub Agentic Workflows
 * [deep-rl-class](https://github.com/huggingface/deep-rl-class) ⭐ 4,996 | 🐛 146 | 🌐 MDX | 📅 2026-05-26 - This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.
 * [ARC](https://github.com/fchollet/arc) ⭐ 4,818 | 🐛 38 | 🌐 JavaScript | 📅 2025-04-04 - The Abstraction and Reasoning Corpus
-* [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) ⭐ 4,756 | 🐛 14 | 🌐 Python | 📅 2026-07-29 - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
+* [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) ⭐ 4,757 | 🐛 14 | 🌐 Python | 📅 2026-07-29 - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
 * [geekai](https://github.com/yangjian102621/geekai) ⭐ 4,686 | 🐛 30 | 🌐 Vue | 📅 2026-08-11 - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
 * [modelscope-agent](https://github.com/modelscope/modelscope-agent) ⭐ 4,371 | 🐛 27 | 🌐 Python | 📅 2026-08-28 - ModelScope-Agent(开源版GPTs): An agent framework connecting models in ModelScope with the world
 * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) ⭐ 4,272 | 🐛 33 | 🌐 Vue | 📅 2024-11-01 - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
 * [nofwl](https://github.com/lencx/nofwl) ⭐ 4,146 | 🐛 83 | 🌐 Rust | 📅 2024-01-23 - NoFWL Desktop Application
-* [devspace](https://github.com/waishnav/devspace) ⭐ 4,094 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-26 - Turn ChatGPT into Codex!
+* [devspace](https://github.com/waishnav/devspace) ⭐ 4,096 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-26 - Turn ChatGPT into Codex!
 * [ccx](https://github.com/benedictking/ccx) ⭐ 3,962 | 🐛 27 | 🌐 Go | 📅 2026-08-28 - Gemini API Proxy - CCX
 * [whatsapp-chatgpt](https://github.com/navopw/whatsapp-chatgpt) ⭐ 3,777 | 🐛 40 | 🌐 TypeScript | 📅 2026-07-12 - Procedural noise-map generator :foggy:
 * [adrenaline](https://github.com/shobrook/adrenaline) ⭐ 3,742 | 🐛 0 | 📅 2024-03-08 - Talk to your codebase
@@ -2470,12 +2470,12 @@ Run these two commands inside Claude Code:
 * [gptlink](https://github.com/gptlink/gptlink) ⭐ 2,627 | 🐛 5 | 🌐 PHP | 📅 2026-08-14 - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能
 * [Painter](https://github.com/baaivision/painter) ⭐ 2,593 | 🐛 60 | 🌐 Python | 📅 2024-12-06 - Painter & SegGPT Series: Vision Foundation Models from BAAI
 * [poe-api](https://github.com/ading2210/poe-api) ⚠️ Archived - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
-* [kube-ovn](https://github.com/kubeovn/kube-ovn) ⭐ 2,394 | 🐛 68 | 🌐 Go | 📅 2026-08-28 - A Bridge between SDN and Cloud Native (Project under CNCF)
+* [kube-ovn](https://github.com/kubeovn/kube-ovn) ⭐ 2,394 | 🐛 68 | 🌐 Go | 📅 2026-08-29 - A Bridge between SDN and Cloud Native (Project under CNCF)
 * [bionicgpt](https://github.com/purton-tech/bionicgpt) ⭐ 2,359 | 🐛 6 | 🌐 Rust | 📅 2026-08-26 - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) ⭐ 2,359 | 🐛 6 | 🌐 Rust | 📅 2026-08-26 - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 * [GalTransl](https://github.com/cx2333-gt/galtransl) ⭐ 2,244 | 🐛 39 | 🌐 Python | 📅 2026-05-23 - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
 * [GalTransl](https://github.com/xd2333/galtransl) ⭐ 2,244 | 🐛 39 | 🌐 Python | 📅 2026-05-23 - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura
-* [inspector](https://github.com/mcpjam/inspector) ⭐ 2,178 | 🐛 252 | 🌐 TypeScript | 📅 2026-08-29 - Test ChatGPT apps, MCP apps, and MCP servers.
+* [inspector](https://github.com/mcpjam/inspector) ⭐ 2,178 | 🐛 253 | 🌐 TypeScript | 📅 2026-08-29 - Test ChatGPT apps, MCP apps, and MCP servers.
 * [Memoh](https://github.com/memohai/memoh) ⭐ 2,079 | 🐛 29 | 🌐 Go | 📅 2026-08-29 - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so on.
 * [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) ⚠️ Archived - Dataset of GPT-2 outputs for research in detection, biases, and more
 * [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) ⭐ 1,997 | 🐛 39 | 🌐 Rust | 📅 2023-12-23 - Duel with your facebook friends in flappy bird game play
@@ -2519,7 +2519,7 @@ Run these two commands inside Claude Code:
 * [ChatGPT\_Custom\_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) ⚠️ Archived - Repo of custom instructions that you can use for ChatGPT
 * [babyagi-ui](https://github.com/miurla/babyagi-ui) ⚠️ Archived - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
 * [NeuroGPT](https://github.com/em1tsan/neurogpt) ⭐ 1,320 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-30 - ChatGPT 4
-* [takt](https://github.com/nrslib/takt) ⭐ 1,317 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-29 - TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML
+* [takt](https://github.com/nrslib/takt) ⭐ 1,317 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-29 - TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML
 * [helmor](https://github.com/dohooo/helmor) ⭐ 1,295 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-22 - Open-source local workbench for multi-agent software development.
 * [frontier-evals](https://github.com/openai/frontier-evals) ⭐ 1,289 | 🐛 66 | 🌐 Python | 📅 2026-04-21 - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 * [chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) ⭐ 1,274 | 🐛 123 | 🌐 HTML | 📅 2024-09-15 - Your best AI pair programmer in VS Code
@@ -2545,7 +2545,7 @@ Run these two commands inside Claude Code:
 * [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) ⭐ 920 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-17 - 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据
 * [ChatGemini](https://github.com/bclswl0827/chatgemini) ⚠️ Archived - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 * [yobulkdev](https://github.com/yobulkdev/yobulkdev) ⭐ 910 | 🐛 59 | 🌐 JavaScript | 📅 2023-08-03 - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
-* [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) ⭐ 894 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-26 - AI 算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数
+* [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) ⭐ 895 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-26 - AI 算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数
 * [Replit-Xray](https://github.com/yonggekkk/replit-xray) ⭐ 889 | 🐛 0 | 📅 2024-05-08 - Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
 * [legitify](https://github.com/legit-labs/legitify) ⭐ 882 | 🐛 18 | 🌐 Go | 📅 2026-08-25 - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 * [vectordb](https://github.com/epsilla-cloud/vectordb) ⭐ 875 | 🐛 16 | 🌐 C++ | 📅 2025-11-29 - Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at <https://cloud.epsilla.com/>
@@ -2592,7 +2592,7 @@ Run these two commands inside Claude Code:
 * [colorGPT](https://github.com/sonnylazuardi/colorgpt) ⭐ 576 | 🐛 6 | 🌐 TypeScript | 📅 2023-11-01 - Generating color name captured from real-world using AI
 * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) ⭐ 570 | 🐛 27 | 📅 2026-02-17 - A set of AI tools that will help you explore the infinite possibilities of AI.
 * [Multi-GPT](https://github.com/rumpfmax/multi-gpt) ⭐ 565 | 🐛 5 | 🌐 Python | 📅 2023-10-10 - An experimental open-source attempt to make GPT-4 fully autonomous.
-* [skill.color-expert](https://github.com/meodai/skill.color-expert) ⭐ 563 | 🐛 0 | 📅 2026-08-22 - Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette   generation, pigment mixing, and historical color theory. Works with Claude Code, Codex, Cursor, Copilot & others.
+* [skill.color-expert](https://github.com/meodai/skill.color-expert) ⭐ 564 | 🐛 0 | 📅 2026-08-22 - Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette   generation, pigment mixing, and historical color theory. Works with Claude Code, Codex, Cursor, Copilot & others.
 * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) ⭐ 561 | 🐛 1 | 🌐 JavaScript | 📅 2024-01-31 - Web Scraping with GPT-4 Vision API and Puppeteer
 * [chatapi-single](https://github.com/bytemate/chatapi-single) ⚠️ Archived - Simple and powerful ChatGPT-API-Server
 * [oai-skills](https://github.com/eliasjudin/oai-skills) ⚠️ Archived - The contents of /home/oai/skills in ChatGPT's code interpreter environment
@@ -2638,7 +2638,7 @@ Run these two commands inside Claude Code:
 * [SQL-GPT](https://github.com/cl-lau/sql-gpt) ⭐ 344 | 🐛 0 | 🌐 Python | 📅 2024-03-26 - Use ChatGPT to generate SQL and perform execution. Optimization and error correction of SQL is also possible.
 * [reflex-chat](https://github.com/reflex-dev/reflex-chat) ⭐ 341 | 🐛 2 | 🌐 Python | 📅 2026-06-02 - A ChatGPT clone built in Reflex
 * [Dorothy](https://github.com/charlie85270/dorothy) ⭐ 341 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-07 - Dorothy, the wife your AI agents needs.
-* [qcg-installer](https://github.com/rockchinq/qcg-installer) ⚠️ Archived - ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目: <https://github.com/RockChinQ/QChatGPT> ⭐ 17,601 | 🐛 125 | 🌐 Python | 📅 2026-08-28
+* [qcg-installer](https://github.com/rockchinq/qcg-installer) ⚠️ Archived - ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目: <https://github.com/RockChinQ/QChatGPT> ⭐ 17,602 | 🐛 125 | 🌐 Python | 📅 2026-08-28
 * [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) ⭐ 334 | 🐛 3 | 📅 2026-05-18 - ChatGPT副业赚钱技巧必看, ChatGPT副业赚钱秘籍, ChatGPT从入门到精通
 * [VardaGPT](https://github.com/ixaxaar/vardagpt) ⭐ 333 | 🐛 2 | 🌐 Python | 📅 2023-07-08 - Associative memory-enhanced GPT-2 model
 * [TalkingHeads](https://github.com/ugorsahin/talkingheads) ⚠️ Archived - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
